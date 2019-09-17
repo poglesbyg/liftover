@@ -1,0 +1,304 @@
+##fileformat=VCFv4.2
+##ALT=<ID=BND,Description="Translocation">
+##ALT=<ID=CPX,Description="Complex SV">
+##ALT=<ID=CTX,Description="Reciprocal chromosomal translocation">
+##ALT=<ID=DEL,Description="Deletion">
+##ALT=<ID=DUP,Description="Duplication">
+##ALT=<ID=INS,Description="Insertion">
+##ALT=<ID=INS:ME,Description="Mobile element insertion of unspecified ME class">
+##ALT=<ID=INS:ME:ALU,Description="Alu element insertion">
+##ALT=<ID=INS:ME:LINE1,Description="LINE1 element insertion">
+##ALT=<ID=INS:ME:SVA,Description="SVA element insertion">
+##ALT=<ID=INS:UNK,Description="Sequence insertion of unspecified origin">
+##ALT=<ID=INV,Description="Inversion">
+##FILTER=<ID=MULTIALLELIC,Description="Multiallelic site">
+##FILTER=<ID=PASS,Description="All filters passed">
+##FILTER=<ID=PCRPLUS_ENRICHED,Description="Site enriched for non-reference genotypes among PCR+ samples. Likely reflects technical batch effects. All PCR- samples have been assigned null GTs for these sites.>">
+##FILTER=<ID=PREDICTED_GENOTYPING_ARTIFACT,Description="Site is predicted to be a genotyping false-positive based on analysis of minimum GQs prior to GQ filtering.">
+##FILTER=<ID=UNRESOLVED,Description="Variant is unresolved">
+##FILTER=<ID=VARIABLE_ACROSS_BATCHES,Description="Site appears at variable frequencies across batches. Likely reflects technical batch effects.>">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Number of non-reference alleles observed (for biallelic sites) or individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=AFR_AC,Number=A,Type=Integer,Description="Number of non-reference AFR alleles observed (for biallelic sites) or AFR individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=AFR_AF,Number=A,Type=Float,Description="AFR allele frequency (for biallelic sites) or AFR copy-state frequency (for multiallelic sites).">
+##INFO=<ID=AFR_AN,Number=1,Type=Integer,Description="Total number of AFR alleles genotyped (for biallelic sites) or AFR individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=AFR_FREQ_HET,Number=1,Type=Float,Description="AFR heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=AFR_FREQ_HOMALT,Number=1,Type=Float,Description="AFR homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=AFR_FREQ_HOMREF,Number=1,Type=Float,Description="AFR homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=AFR_N_BI_GENOS,Number=1,Type=Integer,Description="Total number of AFR individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=AFR_N_HET,Number=1,Type=Integer,Description="Number of AFR individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=AFR_N_HOMALT,Number=1,Type=Integer,Description="Number of AFR individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=AFR_N_HOMREF,Number=1,Type=Integer,Description="Number of AFR individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele frequency (for biallelic sites) or copy-state frequency (for multiallelic sites).">
+##INFO=<ID=ALGORITHMS,Number=.,Type=String,Description="Source algorithms">
+##INFO=<ID=AMR_AC,Number=A,Type=Integer,Description="Number of non-reference AMR alleles observed (for biallelic sites) or AMR individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=AMR_AF,Number=A,Type=Float,Description="AMR allele frequency (for biallelic sites) or AMR copy-state frequency (for multiallelic sites).">
+##INFO=<ID=AMR_AN,Number=1,Type=Integer,Description="Total number of AMR alleles genotyped (for biallelic sites) or AMR individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=AMR_FREQ_HET,Number=1,Type=Float,Description="AMR heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=AMR_FREQ_HOMALT,Number=1,Type=Float,Description="AMR homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=AMR_FREQ_HOMREF,Number=1,Type=Float,Description="AMR homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=AMR_N_BI_GENOS,Number=1,Type=Integer,Description="Total number of AMR individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=AMR_N_HET,Number=1,Type=Integer,Description="Number of AMR individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=AMR_N_HOMALT,Number=1,Type=Integer,Description="Number of AMR individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=AMR_N_HOMREF,Number=1,Type=Integer,Description="Number of AMR individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles genotyped (for biallelic sites) or individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=CHR2,Number=1,Type=String,Description="Chromosome for END coordinate">
+##INFO=<ID=CPX_INTERVALS,Number=.,Type=String,Description="Genomic intervals constituting complex variant.">
+##INFO=<ID=CPX_TYPE,Number=1,Type=String,Description="Class of complex variant.">
+##INFO=<ID=EAS_AC,Number=A,Type=Integer,Description="Number of non-reference EAS alleles observed (for biallelic sites) or EAS individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=EAS_AF,Number=A,Type=Float,Description="EAS allele frequency (for biallelic sites) or EAS copy-state frequency (for multiallelic sites).">
+##INFO=<ID=EAS_AN,Number=1,Type=Integer,Description="Total number of EAS alleles genotyped (for biallelic sites) or EAS individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=EAS_FREQ_HET,Number=1,Type=Float,Description="EAS heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=EAS_FREQ_HOMALT,Number=1,Type=Float,Description="EAS homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=EAS_FREQ_HOMREF,Number=1,Type=Float,Description="EAS homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=EAS_N_BI_GENOS,Number=1,Type=Integer,Description="Total number of EAS individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=EAS_N_HET,Number=1,Type=Integer,Description="Number of EAS individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=EAS_N_HOMALT,Number=1,Type=Integer,Description="Number of EAS individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=EAS_N_HOMREF,Number=1,Type=Integer,Description="Number of EAS individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the structural variant">
+##INFO=<ID=EUR_AC,Number=A,Type=Integer,Description="Number of non-reference EUR alleles observed (for biallelic sites) or EUR individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=EUR_AF,Number=A,Type=Float,Description="EUR allele frequency (for biallelic sites) or EUR copy-state frequency (for multiallelic sites).">
+##INFO=<ID=EUR_AN,Number=1,Type=Integer,Description="Total number of EUR alleles genotyped (for biallelic sites) or EUR individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=EUR_FREQ_HET,Number=1,Type=Float,Description="EUR heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=EUR_FREQ_HOMALT,Number=1,Type=Float,Description="EUR homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=EUR_FREQ_HOMREF,Number=1,Type=Float,Description="EUR homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=EUR_N_BI_GENOS,Number=1,Type=Integer,Description="Total number of EUR individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=EUR_N_HET,Number=1,Type=Integer,Description="Number of EUR individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=EUR_N_HOMALT,Number=1,Type=Integer,Description="Number of EUR individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=EUR_N_HOMREF,Number=1,Type=Integer,Description="Number of EUR individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=EVIDENCE,Number=.,Type=String,Description="Classes of random forest support.">
+##INFO=<ID=FREQ_HET,Number=1,Type=Float,Description="Heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=FREQ_HOMALT,Number=1,Type=Float,Description="Homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=FREQ_HOMREF,Number=1,Type=Float,Description="Homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=N_BI_GENOS,Number=1,Type=Integer,Description="Total number of individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=N_HET,Number=1,Type=Integer,Description="Number of individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=N_HOMALT,Number=1,Type=Integer,Description="Number of individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=N_HOMREF,Number=1,Type=Integer,Description="Number of individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=OTH_AC,Number=A,Type=Integer,Description="Number of non-reference OTH alleles observed (for biallelic sites) or OTH individuals at each copy state (for multiallelic sites).">
+##INFO=<ID=OTH_AF,Number=A,Type=Float,Description="OTH allele frequency (for biallelic sites) or OTH copy-state frequency (for multiallelic sites).">
+##INFO=<ID=OTH_AN,Number=1,Type=Integer,Description="Total number of OTH alleles genotyped (for biallelic sites) or OTH individuals with copy-state estimates (for multiallelic sites).">
+##INFO=<ID=OTH_FREQ_HET,Number=1,Type=Float,Description="OTH heterozygous genotype frequency (biallelic sites only).">
+##INFO=<ID=OTH_FREQ_HOMALT,Number=1,Type=Float,Description="OTH homozygous alternate genotype frequency (biallelic sites only).">
+##INFO=<ID=OTH_FREQ_HOMREF,Number=1,Type=Float,Description="OTH homozygous reference genotype frequency (biallelic sites only).">
+##INFO=<ID=OTH_N_BI_GENOS,Number=1,Type=Integer,Description="Total number of OTH individuals with complete genotypes (biallelic sites only).">
+##INFO=<ID=OTH_N_HET,Number=1,Type=Integer,Description="Number of OTH individuals with heterozygous genotypes (biallelic sites only).">
+##INFO=<ID=OTH_N_HOMALT,Number=1,Type=Integer,Description="Number of OTH individuals with homozygous alternate genotypes (biallelic sites only).">
+##INFO=<ID=OTH_N_HOMREF,Number=1,Type=Integer,Description="Number of OTH individuals with homozygous reference genotypes (biallelic sites only).">
+##INFO=<ID=PCRPLUS_DEPLETED,Number=0,Type=Flag,Description="Site depleted for non-reference genotypes among PCR+ samples. Likely reflects technical batch effects. All PCR+ samples have been assigned null GTs for these sites.">
+##INFO=<ID=PESR_GT_OVERDISPERSION,Number=0,Type=Flag,Description="PESR genotyping data is overdispersed. Flags sites where genotypes are likely noisier.">
+##INFO=<ID=POPMAX_AF,Number=1,Type=Float,Description="Maximum allele frequency across any population (biallelic sites only).">
+##INFO=<ID=PROTEIN_CODING__COPY_GAIN,Number=.,Type=String,Description="Gene(s) on which the SV is predicted to have a copy-gain effect.">
+##INFO=<ID=PROTEIN_CODING__DUP_LOF,Number=.,Type=String,Description="Gene(s) on which the SV is predicted to have a loss-of-function effect via intragenic exonic duplication.">
+##INFO=<ID=PROTEIN_CODING__DUP_PARTIAL,Number=.,Type=String,Description="Gene(s) which are partially overlapped by an SV's duplication, such that an unaltered copy is preserved.">
+##INFO=<ID=PROTEIN_CODING__INTERGENIC,Number=0,Type=Flag,Description="SV does not overlap coding sequence.">
+##INFO=<ID=PROTEIN_CODING__INTRONIC,Number=.,Type=String,Description="Gene(s) where the SV was found to lie entirely within an intron.">
+##INFO=<ID=PROTEIN_CODING__INV_SPAN,Number=.,Type=String,Description="Gene(s) which are entirely spanned by an SV's inversion.">
+##INFO=<ID=PROTEIN_CODING__LOF,Number=.,Type=String,Description="Gene(s) on which the SV is predicted to have a loss-of-function effect.">
+##INFO=<ID=PROTEIN_CODING__MSV_EXON_OVR,Number=.,Type=String,Description="Gene(s) on which the multiallelic SV would be predicted to have a LOF, DUP_LOF, COPY_GAIN, or DUP_PARTIAL annotation if the SV were biallelic.">
+##INFO=<ID=PROTEIN_CODING__NEAREST_TSS,Number=.,Type=String,Description="Nearest transcription start site to intragenic variants.">
+##INFO=<ID=PROTEIN_CODING__PROMOTER,Number=.,Type=String,Description="Genes whose promoter sequence (1 kb) was disrupted by SV.">
+##INFO=<ID=PROTEIN_CODING__UTR,Number=.,Type=String,Description="Gene(s) for which the SV is predicted to disrupt a UTR.">
+##INFO=<ID=SOURCE,Number=1,Type=String,Description="Source of inserted sequence.">
+##INFO=<ID=STRANDS,Number=1,Type=String,Description="Breakpoint strandedness [++,+-,-+,--]">
+##INFO=<ID=SVLEN,Number=1,Type=Integer,Description="SV length">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structural variant">
+##INFO=<ID=UNRESOLVED_TYPE,Number=1,Type=String,Description="Class of unresolved variant.">
+##contig=<ID=AC:AJ507799.2,length=171823,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000001.11,length=248956422,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000002.12,length=242193529,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000003.12,length=198295559,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000004.12,length=190214555,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000005.10,length=181538259,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000006.12,length=170805979,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000007.14,length=159345973,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000008.11,length=145138636,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000009.12,length=138394717,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000010.11,length=133797422,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000011.10,length=135086622,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000012.12,length=133275309,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000013.11,length=114364328,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000014.9,length=107043718,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000015.10,length=101991189,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000016.10,length=90338345,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000017.11,length=83257441,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000018.10,length=80373285,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000019.10,length=58617616,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000020.11,length=64444167,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000021.9,length=46709983,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000022.11,length=50818468,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000023.11,length=156040895,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_000024.10,length=57227415,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NC_012920.1,length=16569,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113793.3,length=209709,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113796.3,length=201709,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113888.1,length=191469,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113889.1,length=161147,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113901.1,length=182896,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113930.2,length=185591,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_113948.1,length=92689,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167208.1,length=164239,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167209.1,length=137718,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167211.2,length=176608,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167213.1,length=179198,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167214.1,length=161802,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167215.1,length=155397,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167218.1,length=179693,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167219.1,length=211173,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_167220.1,length=15008,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187361.1,length=175055,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187362.1,length=32032,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187363.1,length=127682,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187364.1,length=66860,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187365.1,length=40176,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187366.1,length=42210,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187367.1,length=176043,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187368.1,length=40745,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187369.1,length=41717,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187370.1,length=161471,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187371.1,length=153799,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187372.1,length=40062,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187373.1,length=38054,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187374.1,length=176845,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187375.1,length=39050,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187376.1,length=100316,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187377.1,length=194050,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187378.1,length=38115,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187379.1,length=39555,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187380.1,length=172810,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187381.1,length=43739,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187382.1,length=448248,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187383.1,length=1872759,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187384.1,length=280839,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187385.1,length=112551,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187386.1,length=150754,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187387.1,length=41543,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187388.1,length=179772,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187389.1,length=165050,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187390.1,length=42811,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187391.1,length=181920,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187392.1,length=103838,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187393.1,length=99375,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187394.1,length=73985,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187395.1,length=37240,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187396.1,length=2274,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187397.1,length=2165,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187398.1,length=1942,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187399.1,length=1472,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187400.1,length=21476,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187401.1,length=4416,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187402.1,length=1201,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187403.1,length=1444,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187404.1,length=2276,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187405.1,length=998,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187406.1,length=12399,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187407.1,length=37690,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187408.1,length=1179,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187409.1,length=2646,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187410.1,length=2489,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187411.1,length=1029,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187412.1,length=2145,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187413.1,length=2321,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187414.1,length=2140,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187415.1,length=2043,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187416.1,length=1445,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187417.1,length=981,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187418.1,length=1884,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187419.1,length=1361,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187420.1,length=392061,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187421.1,length=1233,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187422.1,length=1774,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187423.1,length=3920,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187424.1,length=92983,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187425.1,length=112505,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187426.1,length=4055,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187427.1,length=2415,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187428.1,length=2318,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187429.1,length=2186,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187430.1,length=1951,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187431.1,length=1300,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187432.1,length=22689,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187433.1,length=138126,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187434.1,length=5674,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187435.1,length=8127,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187436.1,length=6361,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187437.1,length=5353,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187438.1,length=3253,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187439.1,length=1899,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187440.1,length=2983,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187441.1,length=2168,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187442.1,length=993,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187443.1,length=91309,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187444.1,length=1202,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187445.1,length=1599,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187446.1,length=1400,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187447.1,length=2969,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187448.1,length=1553,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187449.1,length=7046,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187450.1,length=31033,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187451.1,length=44474,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187452.1,length=4685,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187453.1,length=4513,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187454.1,length=6504,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187455.1,length=6158,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187456.1,length=3041,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187457.1,length=5796,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187458.1,length=1652,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187459.1,length=1040,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187460.1,length=1368,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187461.1,length=2699,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187462.1,length=1048,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187463.1,length=1428,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187464.1,length=1428,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187465.1,length=1026,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187466.1,length=1121,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187467.1,length=1803,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187468.1,length=2855,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187469.1,length=3530,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187470.1,length=8320,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187471.1,length=1048,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187472.1,length=1045,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187473.1,length=1298,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187474.1,length=2387,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187475.1,length=1537,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187476.1,length=1143,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187477.1,length=1880,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187478.1,length=1216,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187479.1,length=970,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187480.1,length=1788,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187481.1,length=1484,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187482.1,length=1750,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187483.1,length=1308,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187484.1,length=1658,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187485.1,length=971,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187486.1,length=1930,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187487.1,length=990,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187488.1,length=4215,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187489.1,length=1136,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187490.1,length=2656,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187491.1,length=1650,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187492.1,length=1451,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187493.1,length=2378,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187494.1,length=2805,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187495.1,length=7992,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187496.1,length=7642,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187497.1,length=157432,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187498.1,length=210658,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187499.1,length=168472,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187500.1,length=41891,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187501.1,length=66486,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187502.1,length=198735,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187503.1,length=93321,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187504.1,length=158759,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187505.1,length=148850,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187506.1,length=150742,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187507.1,length=27745,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187508.1,length=62944,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187509.1,length=40191,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187510.1,length=36723,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187511.1,length=79590,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187512.1,length=71251,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##contig=<ID=NT_187513.1,length=186739,assembly=GRCh38_no_alt_analysis_set.refseqids.fna>
+##liftOverProgram=CrossMap(https://sourceforge.net/projects/crossmap/)
+##liftOverFile=chain_files/GRCh37_to_GRCh38.chain
+##new_reference_genome=/proj/ncgenes2/src/ncgenes2-exome-pipeline/modules/apps/human-genome-for-alignment/1405.15/GRCh38_no_alt_analysis_set.refseqids.fna
+##liftOverTime=August21,2019
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO

@@ -1,0 +1,10 @@
+# data files
+bed_files/*
+chain_files/*
+bed_files/gnomad_v2_sv.sites.bed.save
+bed_files/gnomad_v2_sv.sites.bed
+bed_files/gnomad_v2_sv.sites.refseq.bed
+output/gnomad_v2_sv.sites.hg38.vcf.unmap
+vcf_files/gnomad_v2_sv.sites.vcf
+vcf_files/gnomad_v2_sv.sites.refseq.vcf
+vcf_files/gnomad_v2_sv.sites.vcf.save
