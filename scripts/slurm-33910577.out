@@ -1,0 +1,20 @@
+/nas/longleaf/apps/anaconda/4.3.0/anaconda/bin/python
+Solving environment: ...working... done
+
+
+==> WARNING: A newer version of conda exists. <==
+  current version: 4.5.5
+  latest version: 4.7.12
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+# All requested packages already installed.
+
+Traceback (most recent call last):
+  File "script.py", line 1, in <module>
+    from Bio import SeqIO
+ModuleNotFoundError: No module named 'Bio'

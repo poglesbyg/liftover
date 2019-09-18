@@ -3,6 +3,7 @@ from Bio import pairwise2
 from Bio.pairwise2 import format_alignment
 
 import pandas as pd
+import edlib
 
 #import multiprocessing as mp
 #print("Number of processors: ", mp.cpu_count())
@@ -32,14 +33,14 @@ def alignment(dict38, dict37):
 
 def hg37_fun(d, dict37):
     #print(d['hg37_chr'], d['hg37_start'], d['hg37_end'])
-    for index, row in d.iterrows():
+    for index, row in d.head(n=10).iterrows():
         hg37_p = dict37[row['hg37_chr']].seq[int(row['hg37_start']):int(row['hg37_end'])].upper()
         #print("this should be the hg37 sequence")
     return hg37_p
 
 
 def hg38_fun(d, dict38):
-    for index, row in d.iterrows():
+    for index, row in d.head(n=10).iterrows():
         hg38_p = dict38[row['chr']].seq[int(row['start']):int(row['end'])].upper()
         #print("this should be the hg38 sequence")
     return hg38_p
