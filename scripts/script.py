@@ -3,7 +3,6 @@ from Bio import pairwise2
 from Bio.pairwise2 import format_alignment
 
 import pandas as pd
-import edlib
 
 #import multiprocessing as mp
 #print("Number of processors: ", mp.cpu_count())

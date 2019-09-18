@@ -10,6 +10,5 @@ module load anaconda
 
 source activate liftover
 which python 
-conda install biopython edlib -y
 
 python script.py > large_19918v1.out
