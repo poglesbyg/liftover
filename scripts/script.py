@@ -26,10 +26,6 @@ data = pd.read_csv('data.csv')
 record_dict_hg38 = SeqIO.index("/proj/ncgenes2/src/ncgenes2-exome-pipeline/modules/apps/human-genome-for-alignment/1405.15/GRCh38_no_alt_analysis_set.refseqids.fna", "fasta")
 record_dict_hg37 = SeqIO.index("/proj/ncgenes2/src/ncgenes2-exome-pipeline/modules/apps/human-genome-for-alignment/grch37/Homo_sapiens.GRCh37.dna_sm.primary_assembly.refseqids.fa", "fasta")
 
-def alignment(dict38, dict37):
-    
-    return hg37_part, hg38_part
-
 def hg37_fun(d, dict37):
     #print(d['hg37_chr'], d['hg37_start'], d['hg37_end'])
     for index, row in d.head(n=10).iterrows():
