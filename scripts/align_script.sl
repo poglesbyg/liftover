@@ -10,4 +10,4 @@ module add anaconda
 
 source activate liftover
 
-/nas/longleaf/home/pogrant/.conda/envs/liftover/bin/python script.py > large_190919v2.out
+python script.py > large_190919v2.out
