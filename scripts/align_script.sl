@@ -6,9 +6,8 @@
 #SBATCH --mem=10g
 #SBATCH -n 4
 
-module load anaconda
+module add anaconda
 
 source activate liftover
-which python 
 
-python script.py > large_19918v1.out
+/nas/longleaf/home/pogrant/.conda/envs/liftover/bin/python script.py > large_190919v2.out
