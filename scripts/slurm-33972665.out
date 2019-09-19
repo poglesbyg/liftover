@@ -1,0 +1,1 @@
+/var/spool/slurmd/job33972665/slurm_script: line 13: 127318 Segmentation fault      /nas/longleaf/home/pogrant/.conda/envs/liftover/bin/python script.py > large_190919v1.out
