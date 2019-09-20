@@ -1,0 +1,22 @@
+/nas/longleaf/home/pogrant/.conda/envs/julia/bin/julia
+ERROR: LoadError: OutOfMemoryError()
+Stacktrace:
+ [1] Type at ./boot.jl:404 [inlined]
+ [2] Type at ./boot.jl:412 [inlined]
+ [3] BioAlignments.NeedlemanWunsch{Int64}(::Int64, ::Int64) at /nas/longleaf/home/pogrant/.julia/packages/BioAlignments/AGQde/src/pairwise/algorithms/needleman_wunsch.jl:15
+ [4] #pairalign#19(::Bool, ::Bool, ::Int64, ::Int64, ::Function, ::GlobalAlignment, ::BioSequence{DNAAlphabet{4}}, ::BioSequence{DNAAlphabet{4}}, ::AffineGapScoreModel{Int64}) at /nas/longleaf/home/pogrant/.julia/packages/BioAlignments/AGQde/src/pairwise/pairalign.jl:102
+ [5] pairalign(::GlobalAlignment, ::BioSequence{DNAAlphabet{4}}, ::BioSequence{DNAAlphabet{4}}, ::AffineGapScoreModel{Int64}) at /nas/longleaf/home/pogrant/.julia/packages/BioAlignments/AGQde/src/pairwise/pairalign.jl:83
+ [6] top-level scope at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:24
+ [7] include at ./boot.jl:326 [inlined]
+ [8] include_relative(::Module, ::String) at ./loading.jl:1038
+ [9] include(::Module, ::String) at ./sysimg.jl:29
+ [10] exec_options(::Base.JLOptions) at ./client.jl:267
+ [11] _start() at ./client.jl:436
+in expression starting at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:23
+  Updating registry at `~/.julia/registries/General`
+  Updating git-repo `https://github.com/JuliaRegistries/General.git`
+[?25l[2K[?25h Resolving package versions...
+  Updating `~/.julia/environments/v1.1/Project.toml`
+ [no changes]
+  Updating `~/.julia/environments/v1.1/Manifest.toml`
+ [no changes]
