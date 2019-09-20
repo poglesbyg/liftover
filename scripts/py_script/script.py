@@ -44,10 +44,8 @@ if __name__ == "__main__":
     h = hg37_fun(data, record_dict_hg37)
     g = hg38_fun(data, record_dict_hg38)
     
-    # alignments_g = pairwise2.align.globalxx(g, h)
-    # # print(format_alignment(*alignments_g[0]))
+    alignments_g = pairwise2.align.globalxx(g, h)
+    print(format_alignment(*alignments_g[0]))
 
-    # for a in alignments_g:
-    #     print(format_alignment(*a))
-
-    print(h)
+    #for a in alignments_g:
+    #    print(format_alignment(a))

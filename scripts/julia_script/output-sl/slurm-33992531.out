@@ -1,0 +1,10 @@
+ERROR: LoadError: UndefVarError: Bio not defined
+Stacktrace:
+ [1] top-level scope at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:4 [inlined]
+ [2] top-level scope at ./none:0
+ [3] include at ./boot.jl:326 [inlined]
+ [4] include_relative(::Module, ::String) at ./loading.jl:1038
+ [5] include(::Module, ::String) at ./sysimg.jl:29
+ [6] exec_options(::Base.JLOptions) at ./client.jl:267
+ [7] _start() at ./client.jl:436
+in expression starting at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:3
