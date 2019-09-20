@@ -1,0 +1,42 @@
+/nas/longleaf/home/pogrant/.conda/envs/julia/bin/julia
+ERROR: LoadError: UndefVarError: DataTable not defined
+Stacktrace:
+ [1] top-level scope at none:0
+ [2] include at ./boot.jl:326 [inlined]
+ [3] include_relative(::Module, ::String) at ./loading.jl:1038
+ [4] include(::Module, ::String) at ./sysimg.jl:29
+ [5] exec_options(::Base.JLOptions) at ./client.jl:267
+ [6] _start() at ./client.jl:436
+in expression starting at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:28
+  Updating registry at `~/.julia/registries/General`
+  Updating git-repo `https://github.com/JuliaRegistries/General.git`
+[?25l[2K[?25h Resolving package versions...
+ Installed Requires ───────── v0.5.2
+ Installed TableShowUtils ─── v0.2.5
+ Installed Nullables ──────── v0.0.8
+ Installed CSVFiles ───────── v0.16.0
+ Installed FileIO ─────────── v1.0.7
+ Installed GenericSchur ───── v0.2.3
+ Installed IterableTables ─── v0.11.0
+ Installed DoubleFloats ───── v0.9.9
+ Installed GenericSVD ─────── v0.2.2
+ Installed TableTraitsUtils ─ v1.0.0
+ Installed Quadmath ───────── v0.5.0
+ Installed TextParse ──────── v0.9.1
+ Installed DataValues ─────── v0.4.12
+  Updating `~/.julia/environments/v1.1/Project.toml`
+  [5d742f6a] + CSVFiles v0.16.0
+  Updating `~/.julia/environments/v1.1/Manifest.toml`
+  [5d742f6a] + CSVFiles v0.16.0
+  [e7dc6d0d] + DataValues v0.4.12
+  [497a8b3b] + DoubleFloats v0.9.9
+  [5789e2e9] + FileIO v1.0.7
+  [01680d73] + GenericSVD v0.2.2
+  [c145ed77] + GenericSchur v0.2.3
+  [1c8ee90f] + IterableTables v0.11.0
+  [4d1e1d77] + Nullables v0.0.8
+  [be4d8f0f] + Quadmath v0.5.0
+  [ae029012] + Requires v0.5.2
+  [5e66a065] + TableShowUtils v0.2.5
+  [382cd787] + TableTraitsUtils v1.0.0
+  [e0df1984] + TextParse v0.9.1

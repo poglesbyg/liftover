@@ -1,0 +1,32 @@
+/nas/longleaf/home/pogrant/.conda/envs/julia/bin/julia
+┌ Warning: readtable is deprecated, use CSV.read from the CSV package instead
+│   caller = top-level scope at none:0
+└ @ Core none:0
+ERROR: LoadError: Saw 515575 rows, 4 columns and 2568271 fields
+ * Line 1 has 7 columns
+
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] findcorruption(::Int64, ::Int64, ::Int64, ::DataFrames.ParsedCSV) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:880
+ [3] readtable!(::DataFrames.ParsedCSV, ::IOStream, ::Int64, ::DataFrames.ParseOptions{String,String}) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:956
+ [4] #readtable#379(::Bool, ::Char, ::Array{Char,1}, ::Char, ::Array{String,1}, ::Array{String,1}, ::Array{String,1}, ::Bool, ::Int64, ::Array{Symbol,1}, ::Array{Any,1}, ::Bool, ::Char, ::Bool, ::Int64, ::Array{Int64,1}, ::Bool, ::Symbol, ::Bool, ::Bool, ::typeof(readtable), ::IOStream, ::Int64) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:1020
+ [5] (::getfield(DataFrames, Symbol("#kw##readtable")))(::NamedTuple{(:header, :separator, :quotemark, :decimal, :nastrings, :truestrings, :falsestrings, :makefactors, :nrows, :names, :eltypes, :allowcomments, :commentmark, :ignorepadding, :skipstart, :skiprows, :skipblanks, :encoding, :allowescapes, :normalizenames),Tuple{Bool,Char,Array{Char,1},Char,Array{String,1},Array{String,1},Array{String,1},Bool,Int64,Array{Symbol,1},Array{Any,1},Bool,Char,Bool,Int64,Array{Int64,1},Bool,Symbol,Bool,Bool}}, ::typeof(readtable), ::IOStream, ::Int64) at ./none:0
+ [6] (::getfield(DataFrames, Symbol("#_r#381")){Bool,Char,Array{Char,1},Char,Array{String,1},Array{String,1},Array{String,1},Bool,Int64,Array{Symbol,1},Array{Any,1},Bool,Char,Bool,Int64,Array{Int64,1},Bool,Symbol,Bool,Bool})(::IOStream) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:1102
+ [7] #open#310(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::getfield(DataFrames, Symbol("#_r#381")){Bool,Char,Array{Char,1},Char,Array{String,1},Array{String,1},Array{String,1},Bool,Int64,Array{Symbol,1},Array{Any,1},Bool,Char,Bool,Int64,Array{Int64,1},Bool,Symbol,Bool,Bool}, ::String, ::Vararg{String,N} where N) at ./iostream.jl:375
+ [8] open at ./iostream.jl:373 [inlined]
+ [9] #readtable#380(::Bool, ::Char, ::Array{Char,1}, ::Char, ::Array{String,1}, ::Array{String,1}, ::Array{String,1}, ::Bool, ::Int64, ::Array{Symbol,1}, ::Array{Any,1}, ::Bool, ::Char, ::Bool, ::Int64, ::Array{Int64,1}, ::Bool, ::Symbol, ::Bool, ::Bool, ::typeof(readtable), ::String) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:1138
+ [10] readtable(::String) at /nas/longleaf/home/pogrant/.julia/packages/DataFrames/yH0f6/src/deprecated.jl:1099
+ [11] top-level scope at none:0
+ [12] include at ./boot.jl:326 [inlined]
+ [13] include_relative(::Module, ::String) at ./loading.jl:1038
+ [14] include(::Module, ::String) at ./sysimg.jl:29
+ [15] exec_options(::Base.JLOptions) at ./client.jl:267
+ [16] _start() at ./client.jl:436
+in expression starting at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:31
+  Updating registry at `~/.julia/registries/General`
+  Updating git-repo `https://github.com/JuliaRegistries/General.git`
+[?25l    Fetching: [>                                        ]  0.0 %[2K[?25h Resolving package versions...
+  Updating `~/.julia/environments/v1.1/Project.toml`
+  [a93c6f00] + DataFrames v0.19.4
+  Updating `~/.julia/environments/v1.1/Manifest.toml`
+ [no changes]

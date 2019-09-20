@@ -1,0 +1,22 @@
+/nas/longleaf/home/pogrant/.conda/envs/julia/bin/julia
+ERROR: LoadError: MethodError: no method matching readdlm(::String, ::String)
+Closest candidates are:
+  readdlm(::Any; opts...) at /home/conda/feedstock_root/build_artifacts/julia_1566319954662/work/usr/share/julia/stdlib/v1.1/DelimitedFiles/src/DelimitedFiles.jl:118
+  readdlm(::Any, !Matched::Type; opts...) at /home/conda/feedstock_root/build_artifacts/julia_1566319954662/work/usr/share/julia/stdlib/v1.1/DelimitedFiles/src/DelimitedFiles.jl:57
+  readdlm(::Any, !Matched::AbstractChar; opts...) at /home/conda/feedstock_root/build_artifacts/julia_1566319954662/work/usr/share/julia/stdlib/v1.1/DelimitedFiles/src/DelimitedFiles.jl:164
+  ...
+Stacktrace:
+ [1] top-level scope at none:0
+ [2] include at ./boot.jl:326 [inlined]
+ [3] include_relative(::Module, ::String) at ./loading.jl:1038
+ [4] include(::Module, ::String) at ./sysimg.jl:29
+ [5] exec_options(::Base.JLOptions) at ./client.jl:267
+ [6] _start() at ./client.jl:436
+in expression starting at /proj/berglab/projects/LiftOver/scripts/julia_script/script.jl:28
+  Updating registry at `~/.julia/registries/General`
+  Updating git-repo `https://github.com/JuliaRegistries/General.git`
+[?25l[2K[?25h Resolving package versions...
+  Updating `~/.julia/environments/v1.1/Project.toml`
+ [no changes]
+  Updating `~/.julia/environments/v1.1/Manifest.toml`
+ [no changes]
