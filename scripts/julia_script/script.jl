@@ -19,9 +19,18 @@ scoremodel = AffineGapScoreModel(
 using CSV
 data = CSV.File("./data.csv")
 
-for i in data
-	print(i.end - i.start)
-	print(" hg38 in comparison to hg37 ")
-	print(i.hg37_end - i.hg37_start)
-end
+# for i in data
+# 	hg38 = i.end - i.start
+# 	hg37 = i.hg37_end - i.hg37_start
+# 	print("difference between 38 and 37 is: ")
+# 	println(hg38 - hg37)
+# end
 
+gnomad_bed = Bio.BED.Reader("/proj/berglab/projects/LiftOver/output/gnomad_v2_sv.sites.hg38.names.v2.bed")
+record = Bio.BED.Record()
+
+while !eof(gnomad_bed)
+	read!(gnomad_bed, record)
+	println(record)
+
+close(gnomad_bed)

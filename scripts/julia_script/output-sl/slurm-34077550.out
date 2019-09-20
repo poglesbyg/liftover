@@ -1,0 +1,9080 @@
+/nas/longleaf/home/pogrant/.conda/envs/julia/bin/julia
+  Updating registry at `~/.julia/registries/General`
+  Updating git-repo `https://github.com/JuliaRegistries/General.git`
+[?25l[2K[?25h Resolving package versions...
+  Updating `~/.julia/environments/v1.1/Project.toml`
+ [no changes]
+  Updating `~/.julia/environments/v1.1/Manifest.toml`
+ [no changes]
+
+hg38 321.0 in comparison to hg37 322
+
+hg38 41197.0 in comparison to hg37 41200
+
+hg38 219931.0 in comparison to hg37 220000
+
+hg38 36755.0 in comparison to hg37 8500
+
+hg38 10291.0 in comparison to hg37 5600
+
+hg38 327222.0 in comparison to hg37 30500
+
+hg38 6534.0 in comparison to hg37 6500
+
+hg38 324007.0 in comparison to hg37 35688
+
+hg38 1599.0 in comparison to hg37 1636
+
+hg38 4.652687e6 in comparison to hg37 49000
+
+hg38 6278.0 in comparison to hg37 6271
+
+hg38 3568.0 in comparison to hg37 3571
+
+hg38 4.414602e6 in comparison to hg37 2131
+
+hg38 7924.0 in comparison to hg37 4942
+
+hg38 6419.0 in comparison to hg37 6444
+
+hg38 67186.0 in comparison to hg37 26000
+
+hg38 4.192789e6 in comparison to hg37 65681
+
+hg38 4.173847e6 in comparison to hg37 7863
+
+hg38 9995.0 in comparison to hg37 10000
+
+hg38 20745.0 in comparison to hg37 20750
+
+hg38 15996.0 in comparison to hg37 16000
+
+hg38 53491.0 in comparison to hg37 53500
+
+hg38 5951.0 in comparison to hg37 5950
+
+hg38 6999.0 in comparison to hg37 7000
+
+hg38 1.097623e6 in comparison to hg37 78150
+
+hg38 6606.0 in comparison to hg37 6600
+
+hg38 23106.0 in comparison to hg37 23100
+
+hg38 3485.0 in comparison to hg37 3544
+
+hg38 3485.0 in comparison to hg37 3544
+
+hg38 4.192789e6 in comparison to hg37 30025
+
+hg38 126291.0 in comparison to hg37 126229
+
+hg38 1099.0 in comparison to hg37 1101
+
+hg38 6003.0 in comparison to hg37 6000
+
+hg38 18001.0 in comparison to hg37 18000
+
+hg38 6499.0 in comparison to hg37 6500
+
+hg38 572745.0 in comparison to hg37 573000
+
+hg38 6011.0 in comparison to hg37 6008
+
+hg38 47515.0 in comparison to hg37 47500
+
+hg38 5002.0 in comparison to hg37 5000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 4.197302e6 in comparison to hg37 12434
+
+hg38 4.222111e6 in comparison to hg37 44024
+
+hg38 4.222111e6 in comparison to hg37 96000
+
+hg38 13000.0 in comparison to hg37 13000
+
+hg38 1.551248e6 in comparison to hg37 13819
+
+hg38 1.573161e6 in comparison to hg37 36992
+
+hg38 13506.0 in comparison to hg37 13500
+
+hg38 13008.0 in comparison to hg37 13000
+
+hg38 7995.0 in comparison to hg37 8000
+
+hg38 8496.0 in comparison to hg37 8500
+
+hg38 35507.0 in comparison to hg37 35500
+
+hg38 9019.0 in comparison to hg37 9000
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 6318.0 in comparison to hg37 6300
+
+hg38 5402.0 in comparison to hg37 5400
+
+hg38 5404.0 in comparison to hg37 5400
+
+hg38 11071.0 in comparison to hg37 11050
+
+hg38 5021.0 in comparison to hg37 5000
+
+hg38 26034.0 in comparison to hg37 26000
+
+hg38 31963.0 in comparison to hg37 32000
+
+hg38 5553.0 in comparison to hg37 5537
+
+hg38 18546.0 in comparison to hg37 18543
+
+hg38 31004.0 in comparison to hg37 31000
+
+hg38 85051.0 in comparison to hg37 85050
+
+hg38 109194.0 in comparison to hg37 108700
+
+hg38 5100.0 in comparison to hg37 5100
+
+hg38 327227.0 in comparison to hg37 44298
+
+hg38 303233.0 in comparison to hg37 5100
+
+hg38 8235.0 in comparison to hg37 8200
+
+hg38 4902.0 in comparison to hg37 4928
+
+hg38 5913.0 in comparison to hg37 5894
+
+hg38 727003.0 in comparison to hg37 727000
+
+hg38 110512.0 in comparison to hg37 32800
+
+hg38 1027.0 in comparison to hg37 1026
+
+hg38 66749.0 in comparison to hg37 32500
+
+hg38 70997.0 in comparison to hg37 71000
+
+hg38 31014.0 in comparison to hg37 8000
+
+hg38 7271.0 in comparison to hg37 7275
+
+hg38 15986.0 in comparison to hg37 16000
+
+hg38 6999.0 in comparison to hg37 7000
+
+hg38 532583.0 in comparison to hg37 567325
+
+hg38 39934.0 in comparison to hg37 10088
+
+hg38 1907.0 in comparison to hg37 1948
+
+hg38 1907.0 in comparison to hg37 1948
+
+hg38 48505.0 in comparison to hg37 48479
+
+hg38 8540.0 in comparison to hg37 8529
+
+hg38 7540.0 in comparison to hg37 7529
+
+hg38 3790.0 in comparison to hg37 3779
+
+hg38 114815.0 in comparison to hg37 114832
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 34765.0 in comparison to hg37 34750
+
+hg38 6353.0 in comparison to hg37 6350
+
+hg38 16301.0 in comparison to hg37 16300
+
+hg38 40133.0 in comparison to hg37 5400
+
+hg38 48700.0 in comparison to hg37 48700
+
+hg38 26248.0 in comparison to hg37 26250
+
+hg38 430598.0 in comparison to hg37 168308
+
+hg38 236480.0 in comparison to hg37 235992
+
+hg38 63.0 in comparison to hg37 64
+
+hg38 13514.0 in comparison to hg37 13513
+
+hg38 18001.0 in comparison to hg37 18000
+
+hg38 136501.0 in comparison to hg37 136500
+
+hg38 228601.0 in comparison to hg37 228600
+
+hg38 172373.0 in comparison to hg37 172372
+
+hg38 148494.0 in comparison to hg37 148493
+
+hg38 88122.0 in comparison to hg37 88121
+
+hg38 61718.0 in comparison to hg37 61717
+
+hg38 359527.0 in comparison to hg37 359526
+
+hg38 1925.0 in comparison to hg37 1924
+
+hg38 249243.0 in comparison to hg37 249242
+
+hg38 38875.0 in comparison to hg37 38874
+
+hg38 846.0 in comparison to hg37 845
+
+hg38 8307.0 in comparison to hg37 8309
+
+hg38 3337.0 in comparison to hg37 3339
+
+hg38 867.0 in comparison to hg37 868
+
+hg38 5046.0 in comparison to hg37 5026
+
+hg38 56902.0 in comparison to hg37 57090
+
+hg38 25007.0 in comparison to hg37 25000
+
+hg38 8602.0 in comparison to hg37 8600
+
+hg38 1663.0 in comparison to hg37 1671
+
+hg38 38794.0 in comparison to hg37 38500
+
+hg38 5882.0 in comparison to hg37 5879
+
+hg38 2772.0 in comparison to hg37 2771
+
+hg38 55533.0 in comparison to hg37 55492
+
+hg38 9903.0 in comparison to hg37 9899
+
+hg38 44685.0 in comparison to hg37 44688
+
+hg38 28684.0 in comparison to hg37 29000
+
+hg38 6183.0 in comparison to hg37 6188
+
+hg38 9990.0 in comparison to hg37 10000
+
+hg38 7993.0 in comparison to hg37 8000
+
+hg38 372995.0 in comparison to hg37 372994
+
+hg38 116468.0 in comparison to hg37 116467
+
+hg38 717065.0 in comparison to hg37 717064
+
+hg38 727003.0 in comparison to hg37 727002
+
+hg38 143015.0 in comparison to hg37 143000
+
+hg38 517205.0 in comparison to hg37 517190
+
+hg38 66554.0 in comparison to hg37 14600
+
+hg38 169754.0 in comparison to hg37 117800
+
+hg38 440277.0 in comparison to hg37 388323
+
+hg38 4635.0 in comparison to hg37 4634
+
+hg38 325766.0 in comparison to hg37 325767
+
+hg38 12999.0 in comparison to hg37 13000
+
+hg38 10546.0 in comparison to hg37 10550
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 198707.0 in comparison to hg37 198705
+
+hg38 216707.0 in comparison to hg37 216708
+
+hg38 181001.0 in comparison to hg37 181000
+
+hg38 5501.0 in comparison to hg37 5500
+
+hg38 351043.0 in comparison to hg37 351042
+
+hg38 399001.0 in comparison to hg37 399000
+
+hg38 1.390089e6 in comparison to hg37 1390090
+
+hg38 51862.0 in comparison to hg37 51880
+
+hg38 9604.0 in comparison to hg37 9542
+
+hg38 1.201985e6 in comparison to hg37 1201432
+
+hg38 4993.0 in comparison to hg37 5000
+
+hg38 20459.0 in comparison to hg37 20503
+
+hg38 5182.0 in comparison to hg37 5206
+
+hg38 905836.0 in comparison to hg37 905835
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 23881.0 in comparison to hg37 23881
+
+hg38 58826.0 in comparison to hg37 58803
+
+hg38 38293.0 in comparison to hg37 38333
+
+hg38 29219.0 in comparison to hg37 29300
+
+hg38 7973.0 in comparison to hg37 7941
+
+hg38 14166.0 in comparison to hg37 14213
+
+hg38 5349.0 in comparison to hg37 5350
+
+hg38 6265.0 in comparison to hg37 6254
+
+hg38 13439.0 in comparison to hg37 13429
+
+hg38 67484.0 in comparison to hg37 67429
+
+hg38 68341.0 in comparison to hg37 68356
+
+hg38 1907.0 in comparison to hg37 1948
+
+hg38 86737.0 in comparison to hg37 57000
+
+hg38 9023.0 in comparison to hg37 9000
+
+hg38 70474.0 in comparison to hg37 56912
+
+hg38 1216.0 in comparison to hg37 1215
+
+hg38 43603.0 in comparison to hg37 9109
+
+hg38 65249.0 in comparison to hg37 35000
+
+hg38 153285.0 in comparison to hg37 34726
+
+hg38 5313.0 in comparison to hg37 5294
+
+hg38 304333.0 in comparison to hg37 11100
+
+hg38 10024.0 in comparison to hg37 10000
+
+hg38 32001.0 in comparison to hg37 32000
+
+hg38 34390.0 in comparison to hg37 34386
+
+hg38 8434.0 in comparison to hg37 8400
+
+hg38 6899.0 in comparison to hg37 6900
+
+hg38 45130.0 in comparison to hg37 45100
+
+hg38 5645.0 in comparison to hg37 5650
+
+hg38 40044.0 in comparison to hg37 39750
+
+hg38 55861.0 in comparison to hg37 56000
+
+hg38 43603.0 in comparison to hg37 40109
+
+hg38 385.0 in comparison to hg37 387
+
+hg38 5005.0 in comparison to hg37 5000
+
+hg38 20868.0 in comparison to hg37 9500
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 38200.0 in comparison to hg37 38200
+
+hg38 13503.0 in comparison to hg37 13500
+
+hg38 56328.0 in comparison to hg37 56333
+
+hg38 16789.0 in comparison to hg37 16783
+
+hg38 1.041991e6 in comparison to hg37 5092
+
+hg38 752018.0 in comparison to hg37 11590
+
+hg38 2880.0 in comparison to hg37 2887
+
+hg38 13078.0 in comparison to hg37 13082
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 5964.0 in comparison to hg37 6000
+
+hg38 38008.0 in comparison to hg37 38000
+
+hg38 5500.0 in comparison to hg37 5500
+
+hg38 6490.0 in comparison to hg37 6500
+
+hg38 18025.0 in comparison to hg37 18000
+
+hg38 5202.0 in comparison to hg37 5200
+
+hg38 8148.0 in comparison to hg37 8000
+
+hg38 5912.0 in comparison to hg37 5914
+
+hg38 11783.0 in comparison to hg37 11791
+
+hg38 6882.0 in comparison to hg37 7000
+
+hg38 29882.0 in comparison to hg37 30000
+
+hg38 75.0 in comparison to hg37 63
+
+hg38 5013.0 in comparison to hg37 5000
+
+hg38 54011.0 in comparison to hg37 54000
+
+hg38 10806.0 in comparison to hg37 10800
+
+hg38 6551.0 in comparison to hg37 6550
+
+hg38 22002.0 in comparison to hg37 22000
+
+hg38 128370.0 in comparison to hg37 128370
+
+hg38 9003.0 in comparison to hg37 9000
+
+hg38 73718.0 in comparison to hg37 59529
+
+hg38 4675.0 in comparison to hg37 4677
+
+hg38 3.674947e6 in comparison to hg37 8944
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 42001.0 in comparison to hg37 42000
+
+hg38 5.915533e6 in comparison to hg37 7000
+
+hg38 850.0 in comparison to hg37 847
+
+hg38 1860.0 in comparison to hg37 1853
+
+hg38 4.46137e6 in comparison to hg37 29415
+
+hg38 7502.0 in comparison to hg37 7500
+
+hg38 16099.0 in comparison to hg37 16100
+
+hg38 5.914015e6 in comparison to hg37 173561
+
+hg38 33000.0 in comparison to hg37 33000
+
+hg38 842884.0 in comparison to hg37 16250
+
+hg38 252744.0 in comparison to hg37 10650
+
+hg38 252294.0 in comparison to hg37 11000
+
+hg38 225689.0 in comparison to hg37 6000
+
+hg38 220680.0 in comparison to hg37 11523
+
+hg38 187787.0 in comparison to hg37 2641
+
+hg38 1.095152e6 in comparison to hg37 80200
+
+hg38 4708.0 in comparison to hg37 4688
+
+hg38 258205.0 in comparison to hg37 15000
+
+hg38 273207.0 in comparison to hg37 33000
+
+hg38 882838.0 in comparison to hg37 32611
+
+hg38 195156.0 in comparison to hg37 6156
+
+hg38 882838.0 in comparison to hg37 71147
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 8008.0 in comparison to hg37 8000
+
+hg38 29015.0 in comparison to hg37 29000
+
+hg38 17001.0 in comparison to hg37 17000
+
+hg38 113976.0 in comparison to hg37 113966
+
+hg38 11365.0 in comparison to hg37 11358
+
+hg38 8004.0 in comparison to hg37 8000
+
+hg38 635228.0 in comparison to hg37 635227
+
+hg38 12581.0 in comparison to hg37 12580
+
+hg38 119.0 in comparison to hg37 117
+
+hg38 5000.0 in comparison to hg37 5000
+
+hg38 151831.0 in comparison to hg37 151850
+
+hg38 7010.0 in comparison to hg37 7000
+
+hg38 5801.0 in comparison to hg37 5800
+
+hg38 64179.0 in comparison to hg37 64200
+
+hg38 9581.0 in comparison to hg37 9600
+
+hg38 5695.0 in comparison to hg37 5700
+
+hg38 5298.0 in comparison to hg37 5300
+
+hg38 16249.0 in comparison to hg37 16250
+
+hg38 5065.0 in comparison to hg37 4357
+
+hg38 4018.0 in comparison to hg37 4020
+
+hg38 266.0 in comparison to hg37 266
+
+hg38 3888.0 in comparison to hg37 3867
+
+hg38 70016.0 in comparison to hg37 70000
+
+hg38 4.383996e6 in comparison to hg37 27840
+
+hg38 5.916615e6 in comparison to hg37 8081
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 1888.0 in comparison to hg37 1891
+
+hg38 685.0 in comparison to hg37 686
+
+hg38 776.0 in comparison to hg37 780
+
+hg38 58.0 in comparison to hg37 60
+
+hg38 1500.0 in comparison to hg37 1507
+
+hg38 1556.0 in comparison to hg37 1563
+
+hg38 130812.0 in comparison to hg37 131000
+
+hg38 6836.0 in comparison to hg37 6845
+
+hg38 782.0 in comparison to hg37 793
+
+hg38 6929.0 in comparison to hg37 6946
+
+hg38 3023.0 in comparison to hg37 3029
+
+hg38 5980.0 in comparison to hg37 10539
+
+hg38 799.0 in comparison to hg37 800
+
+hg38 15873.0 in comparison to hg37 15875
+
+hg38 17993.0 in comparison to hg37 18000
+
+hg38 124596.0 in comparison to hg37 124457
+
+hg38 2679.0 in comparison to hg37 2680
+
+hg38 35450.0 in comparison to hg37 35457
+
+hg38 5.214205e6 in comparison to hg37 65961
+
+hg38 4.378353e6 in comparison to hg37 7234
+
+hg38 4.37535e6 in comparison to hg37 1588
+
+hg38 3.247593e6 in comparison to hg37 4528
+
+hg38 5685.0 in comparison to hg37 6147
+
+hg38 249.0 in comparison to hg37 249
+
+hg38 1.041899e6 in comparison to hg37 7000
+
+hg38 3.35302e6 in comparison to hg37 6075
+
+hg38 2.449016e6 in comparison to hg37 2424
+
+hg38 29994.0 in comparison to hg37 30000
+
+hg38 242872.0 in comparison to hg37 242850
+
+hg38 20993.0 in comparison to hg37 21000
+
+hg38 12001.0 in comparison to hg37 12000
+
+hg38 8202.0 in comparison to hg37 8195
+
+hg38 7007.0 in comparison to hg37 7000
+
+hg38 20501.0 in comparison to hg37 20500
+
+hg38 4995.0 in comparison to hg37 5000
+
+hg38 6495.0 in comparison to hg37 6500
+
+hg38 18739.0 in comparison to hg37 18740
+
+hg38 20101.0 in comparison to hg37 20100
+
+hg38 8089.0 in comparison to hg37 8090
+
+hg38 3218.0 in comparison to hg37 3226
+
+hg38 193201.0 in comparison to hg37 40500
+
+hg38 24562.0 in comparison to hg37 24550
+
+hg38 254605.0 in comparison to hg37 8475
+
+hg38 4988.0 in comparison to hg37 5000
+
+hg38 996.0 in comparison to hg37 997
+
+hg38 159.0 in comparison to hg37 160
+
+hg38 2727.0 in comparison to hg37 2729
+
+hg38 5.8285084e7 in comparison to hg37 58285040
+
+hg38 6622.0 in comparison to hg37 6600
+
+hg38 13990.0 in comparison to hg37 14000
+
+hg38 13260.0 in comparison to hg37 13236
+
+hg38 5925.0 in comparison to hg37 5925
+
+hg38 84135.0 in comparison to hg37 11826
+
+hg38 66749.0 in comparison to hg37 6500
+
+hg38 42094.0 in comparison to hg37 6600
+
+hg38 70474.0 in comparison to hg37 23912
+
+hg38 1.13338e6 in comparison to hg37 117800
+
+hg38 4.192789e6 in comparison to hg37 65690
+
+hg38 8034.0 in comparison to hg37 8000
+
+hg38 60980.0 in comparison to hg37 57800
+
+hg38 5.024736e6 in comparison to hg37 5024183
+
+hg38 5990.0 in comparison to hg37 5989
+
+hg38 5.214205e6 in comparison to hg37 66467
+
+hg38 1.029863e6 in comparison to hg37 5000
+
+hg38 4.163271e6 in comparison to hg37 12300
+
+hg38 100503.0 in comparison to hg37 75300
+
+hg38 6348.0 in comparison to hg37 6350
+
+hg38 177511.0 in comparison to hg37 177500
+
+hg38 9002.0 in comparison to hg37 9000
+
+hg38 5005.0 in comparison to hg37 5000
+
+hg38 53757.0 in comparison to hg37 53750
+
+hg38 10210.0 in comparison to hg37 10200
+
+hg38 6616.0 in comparison to hg37 6622
+
+hg38 5911.0 in comparison to hg37 5910
+
+hg38 91954.0 in comparison to hg37 40000
+
+hg38 2.572605e6 in comparison to hg37 6314
+
+hg38 3.0188714e7 in comparison to hg37 30188055
+
+hg38 1972.0 in comparison to hg37 1974
+
+hg38 1.9332465e7 in comparison to hg37 19409531
+
+hg38 11997.0 in comparison to hg37 12000
+
+hg38 9279.0 in comparison to hg37 9250
+
+hg38 27151.0 in comparison to hg37 27115
+
+hg38 9006.0 in comparison to hg37 9000
+
+hg38 20002.0 in comparison to hg37 20000
+
+hg38 11003.0 in comparison to hg37 11000
+
+hg38 56039.0 in comparison to hg37 56000
+
+hg38 267000.0 in comparison to hg37 267000
+
+hg38 255000.0 in comparison to hg37 255000
+
+hg38 628998.0 in comparison to hg37 629000
+
+hg38 45411.0 in comparison to hg37 45400
+
+hg38 13750.0 in comparison to hg37 9850
+
+hg38 5995.0 in comparison to hg37 6000
+
+hg38 9118.0 in comparison to hg37 9100
+
+hg38 11554.0 in comparison to hg37 11550
+
+hg38 608124.0 in comparison to hg37 608000
+
+hg38 796337.0 in comparison to hg37 796338
+
+hg38 41001.0 in comparison to hg37 41000
+
+hg38 818760.0 in comparison to hg37 818761
+
+hg38 19201.0 in comparison to hg37 19200
+
+hg38 188550.0 in comparison to hg37 188551
+
+hg38 555300.0 in comparison to hg37 555300
+
+hg38 587.0 in comparison to hg37 584
+
+hg38 33.0 in comparison to hg37 31
+
+hg38 54.0 in comparison to hg37 60
+
+hg38 53.0 in comparison to hg37 59
+
+hg38 92.0 in comparison to hg37 30
+
+hg38 1.337754e6 in comparison to hg37 1337753
+
+hg38 2.050851e6 in comparison to hg37 2050725
+
+hg38 70079.0 in comparison to hg37 70080
+
+hg38 66526.0 in comparison to hg37 66599
+
+hg38 60578.0 in comparison to hg37 60580
+
+hg38 2.583908e6 in comparison to hg37 13634
+
+hg38 4171.0 in comparison to hg37 4168
+
+hg38 4075.0 in comparison to hg37 4072
+
+hg38 135336.0 in comparison to hg37 135335
+
+hg38 5388.0 in comparison to hg37 5387
+
+hg38 562.0 in comparison to hg37 563
+
+hg38 731.0 in comparison to hg37 732
+
+hg38 606.0 in comparison to hg37 607
+
+hg38 158031.0 in comparison to hg37 158030
+
+hg38 132496.0 in comparison to hg37 132495
+
+hg38 287312.0 in comparison to hg37 287188
+
+hg38 27675.0 in comparison to hg37 27674
+
+hg38 6004.0 in comparison to hg37 6003
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 34896.0 in comparison to hg37 34895
+
+hg38 6430.0 in comparison to hg37 6423
+
+hg38 84.0 in comparison to hg37 88
+
+hg38 15034.0 in comparison to hg37 15000
+
+hg38 910.0 in comparison to hg37 909
+
+hg38 7613.0 in comparison to hg37 7610
+
+hg38 14110.0 in comparison to hg37 14072
+
+hg38 15995.0 in comparison to hg37 16000
+
+hg38 4.383886e6 in comparison to hg37 12123
+
+hg38 5880.0 in comparison to hg37 6308
+
+hg38 12125.0 in comparison to hg37 11461
+
+hg38 668.0 in comparison to hg37 666
+
+hg38 4434.0 in comparison to hg37 4404
+
+hg38 1.248055e6 in comparison to hg37 25009
+
+hg38 3414.0 in comparison to hg37 3416
+
+hg38 22799.0 in comparison to hg37 22800
+
+hg38 1.910553e6 in comparison to hg37 66
+
+hg38 6219.0 in comparison to hg37 6214
+
+hg38 93483.0 in comparison to hg37 86237
+
+hg38 10550.0 in comparison to hg37 10552
+
+hg38 4896.0 in comparison to hg37 4896
+
+hg38 4655.0 in comparison to hg37 4656
+
+hg38 6999.0 in comparison to hg37 7000
+
+hg38 2588.0 in comparison to hg37 2574
+
+hg38 818.0 in comparison to hg37 822
+
+hg38 802.0 in comparison to hg37 806
+
+hg38 515.0 in comparison to hg37 519
+
+hg38 799.0 in comparison to hg37 815
+
+hg38 4885.0 in comparison to hg37 4908
+
+hg38 15001.0 in comparison to hg37 15000
+
+hg38 10356.0 in comparison to hg37 10357
+
+hg38 20507.0 in comparison to hg37 20508
+
+hg38 13005.0 in comparison to hg37 13000
+
+hg38 1325.0 in comparison to hg37 1327
+
+hg38 16557.0 in comparison to hg37 16559
+
+hg38 7129.0 in comparison to hg37 7128
+
+hg38 8134.0 in comparison to hg37 8127
+
+hg38 569.0 in comparison to hg37 563
+
+hg38 11700.0 in comparison to hg37 11702
+
+hg38 299490.0 in comparison to hg37 299489
+
+hg38 10901.0 in comparison to hg37 10900
+
+hg38 16019.0 in comparison to hg37 16000
+
+hg38 7554.0 in comparison to hg37 7550
+
+hg38 32992.0 in comparison to hg37 32970
+
+hg38 13472.0 in comparison to hg37 13450
+
+hg38 3554.0 in comparison to hg37 3553
+
+hg38 230.0 in comparison to hg37 231
+
+hg38 56.0 in comparison to hg37 58
+
+hg38 391.0 in comparison to hg37 398
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 239909.0 in comparison to hg37 240000
+
+hg38 277377.0 in comparison to hg37 277500
+
+hg38 19754.0 in comparison to hg37 19760
+
+hg38 622.0 in comparison to hg37 616
+
+hg38 59.0 in comparison to hg37 66
+
+hg38 1967.0 in comparison to hg37 1968
+
+hg38 9532.0 in comparison to hg37 9531
+
+hg38 1147.0 in comparison to hg37 1195
+
+hg38 9758.0 in comparison to hg37 9810
+
+hg38 541.0 in comparison to hg37 543
+
+hg38 21520.0 in comparison to hg37 21535
+
+hg38 120.0 in comparison to hg37 125
+
+hg38 592600.0 in comparison to hg37 593000
+
+hg38 65981.0 in comparison to hg37 66000
+
+hg38 87477.0 in comparison to hg37 87500
+
+hg38 13045.0 in comparison to hg37 13050
+
+hg38 3109.0 in comparison to hg37 3110
+
+hg38 11853.0 in comparison to hg37 11857
+
+hg38 4321.0 in comparison to hg37 4322
+
+hg38 5791.0 in comparison to hg37 5800
+
+hg38 4850.0 in comparison to hg37 4849
+
+hg38 1847.0 in comparison to hg37 1852
+
+hg38 4049.0 in comparison to hg37 4046
+
+hg38 90511.0 in comparison to hg37 90500
+
+hg38 692.0 in comparison to hg37 678
+
+hg38 29882.0 in comparison to hg37 30000
+
+hg38 6582.0 in comparison to hg37 6700
+
+hg38 308.0 in comparison to hg37 426
+
+hg38 39981.0 in comparison to hg37 40000
+
+hg38 31985.0 in comparison to hg37 32000
+
+hg38 21440.0 in comparison to hg37 21434
+
+hg38 2.539641e6 in comparison to hg37 7670
+
+hg38 4.177246e6 in comparison to hg37 6548
+
+hg38 11074.0 in comparison to hg37 11080
+
+hg38 4171.0 in comparison to hg37 4176
+
+hg38 4821.0 in comparison to hg37 4828
+
+hg38 720.0 in comparison to hg37 725
+
+hg38 940.0 in comparison to hg37 943
+
+hg38 6282.0 in comparison to hg37 6291
+
+hg38 8452.0 in comparison to hg37 8452
+
+hg38 2045.0 in comparison to hg37 2041
+
+hg38 179444.0 in comparison to hg37 179400
+
+hg38 2757.0 in comparison to hg37 2760
+
+hg38 6797.0 in comparison to hg37 6778
+
+hg38 4488.0 in comparison to hg37 4489
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 8997.0 in comparison to hg37 9000
+
+hg38 30987.0 in comparison to hg37 31000
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 4999.0 in comparison to hg37 5000
+
+hg38 90455.0 in comparison to hg37 90442
+
+hg38 60857.0 in comparison to hg37 60803
+
+hg38 1283.0 in comparison to hg37 1281
+
+hg38 6116.0 in comparison to hg37 6113
+
+hg38 5000.0 in comparison to hg37 5000
+
+hg38 8495.0 in comparison to hg37 8500
+
+hg38 5007.0 in comparison to hg37 5000
+
+hg38 30980.0 in comparison to hg37 31000
+
+hg38 6492.0 in comparison to hg37 6500
+
+hg38 11616.0 in comparison to hg37 11625
+
+hg38 2.538747e6 in comparison to hg37 7000
+
+hg38 4.197302e6 in comparison to hg37 23891
+
+hg38 2.572605e6 in comparison to hg37 6514
+
+hg38 6617.0 in comparison to hg37 6618
+
+hg38 3334.0 in comparison to hg37 3335
+
+hg38 2455.0 in comparison to hg37 2456
+
+hg38 5833.0 in comparison to hg37 5831
+
+hg38 290916.0 in comparison to hg37 290915
+
+hg38 4.3491988e7 in comparison to hg37 43897638
+
+hg38 508299.0 in comparison to hg37 508300
+
+hg38 338278.0 in comparison to hg37 338277
+
+hg38 58068.0 in comparison to hg37 58067
+
+hg38 167356.0 in comparison to hg37 167355
+
+hg38 803506.0 in comparison to hg37 803505
+
+hg38 180001.0 in comparison to hg37 180000
+
+hg38 94001.0 in comparison to hg37 94000
+
+hg38 335435.0 in comparison to hg37 335434
+
+hg38 375172.0 in comparison to hg37 418991
+
+hg38 268947.0 in comparison to hg37 271150
+
+hg38 703603.0 in comparison to hg37 703602
+
+hg38 74388.0 in comparison to hg37 76434
+
+hg38 169196.0 in comparison to hg37 169195
+
+hg38 1.852488e6 in comparison to hg37 1852487
+
+hg38 45788.0 in comparison to hg37 45786
+
+hg38 570469.0 in comparison to hg37 588964
+
+hg38 539118.0 in comparison to hg37 539117
+
+hg38 594.0 in comparison to hg37 473
+
+hg38 508.0 in comparison to hg37 399
+
+hg38 569.0 in comparison to hg37 730
+
+hg38 696.0 in comparison to hg37 1015
+
+hg38 588482.0 in comparison to hg37 596568
+
+hg38 665.0 in comparison to hg37 429
+
+hg38 513.0 in comparison to hg37 543
+
+hg38 273356.0 in comparison to hg37 269032
+
+hg38 234858.0 in comparison to hg37 230544
+
+hg38 222564.0 in comparison to hg37 218437
+
+hg38 727464.0 in comparison to hg37 723150
+
+hg38 743.0 in comparison to hg37 742
+
+hg38 5202.0 in comparison to hg37 5200
+
+hg38 47507.0 in comparison to hg37 47500
+
+hg38 47599.0 in comparison to hg37 47600
+
+hg38 8998.0 in comparison to hg37 9000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 45802.0 in comparison to hg37 45803
+
+hg38 696000.0 in comparison to hg37 696000
+
+hg38 11701.0 in comparison to hg37 11700
+
+hg38 11001.0 in comparison to hg37 11000
+
+hg38 44925.0 in comparison to hg37 44926
+
+hg38 11250.0 in comparison to hg37 11251
+
+hg38 62764.0 in comparison to hg37 62800
+
+hg38 198190.0 in comparison to hg37 198224
+
+hg38 9850.0 in comparison to hg37 9850
+
+hg38 34119.0 in comparison to hg37 34112
+
+hg38 18241.0 in comparison to hg37 18255
+
+hg38 161.0 in comparison to hg37 162
+
+hg38 11001.0 in comparison to hg37 11000
+
+hg38 43678.0 in comparison to hg37 42850
+
+hg38 648.0 in comparison to hg37 407
+
+hg38 28841.0 in comparison to hg37 10301
+
+hg38 5003.0 in comparison to hg37 5000
+
+hg38 117462.0 in comparison to hg37 117461
+
+hg38 5934.0 in comparison to hg37 6200
+
+hg38 8997.0 in comparison to hg37 9000
+
+hg38 2218.0 in comparison to hg37 2219
+
+hg38 10249.0 in comparison to hg37 10250
+
+hg38 27183.0 in comparison to hg37 27162
+
+hg38 5051.0 in comparison to hg37 5050
+
+hg38 21301.0 in comparison to hg37 21300
+
+hg38 5101.0 in comparison to hg37 5100
+
+hg38 19726.0 in comparison to hg37 20000
+
+hg38 48003.0 in comparison to hg37 48000
+
+hg38 120860.0 in comparison to hg37 120850
+
+hg38 9501.0 in comparison to hg37 9500
+
+hg38 22999.0 in comparison to hg37 23000
+
+hg38 33999.0 in comparison to hg37 34000
+
+hg38 5854.0 in comparison to hg37 5850
+
+hg38 19198.0 in comparison to hg37 19200
+
+hg38 21008.0 in comparison to hg37 21000
+
+hg38 36340.0 in comparison to hg37 36344
+
+hg38 20007.0 in comparison to hg37 20000
+
+hg38 270.0 in comparison to hg37 274
+
+hg38 1276.0 in comparison to hg37 1275
+
+hg38 2239.0 in comparison to hg37 2242
+
+hg38 718.0 in comparison to hg37 716
+
+hg38 5051.0 in comparison to hg37 5052
+
+hg38 5517.0 in comparison to hg37 5336
+
+hg38 4181.0 in comparison to hg37 3998
+
+hg38 226.0 in comparison to hg37 180
+
+hg38 82766.0 in comparison to hg37 82765
+
+hg38 201266.0 in comparison to hg37 201265
+
+hg38 142795.0 in comparison to hg37 142794
+
+hg38 199951.0 in comparison to hg37 199950
+
+hg38 158414.0 in comparison to hg37 158415
+
+hg38 56131.0 in comparison to hg37 56130
+
+hg38 895.0 in comparison to hg37 4255
+
+hg38 36101.0 in comparison to hg37 36100
+
+hg38 8547.0 in comparison to hg37 8546
+
+hg38 8048.0 in comparison to hg37 8047
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 664.0 in comparison to hg37 663
+
+hg38 39.0 in comparison to hg37 59
+
+hg38 9296.0 in comparison to hg37 9539
+
+hg38 489.0 in comparison to hg37 506
+
+hg38 5115.0 in comparison to hg37 6013
+
+hg38 61.0 in comparison to hg37 63
+
+hg38 32938.0 in comparison to hg37 35700
+
+hg38 33370.0 in comparison to hg37 35093
+
+hg38 6201.0 in comparison to hg37 6200
+
+hg38 215128.0 in comparison to hg37 215126
+
+hg38 941694.0 in comparison to hg37 941692
+
+hg38 29118.0 in comparison to hg37 29117
+
+hg38 32835.0 in comparison to hg37 32834
+
+hg38 11328.0 in comparison to hg37 13000
+
+hg38 1017.0 in comparison to hg37 1016
+
+hg38 478601.0 in comparison to hg37 478600
+
+hg38 123016.0 in comparison to hg37 123015
+
+hg38 44678.0 in comparison to hg37 43850
+
+hg38 8745.0 in comparison to hg37 8746
+
+hg38 67558.0 in comparison to hg37 67574
+
+hg38 6003.0 in comparison to hg37 6000
+
+hg38 127820.0 in comparison to hg37 127845
+
+hg38 6999.0 in comparison to hg37 7000
+
+hg38 33358.0 in comparison to hg37 32531
+
+hg38 224959.0 in comparison to hg37 225000
+
+hg38 9201.0 in comparison to hg37 9200
+
+hg38 4999.0 in comparison to hg37 5000
+
+hg38 11228.0 in comparison to hg37 11500
+
+hg38 5229.0 in comparison to hg37 5500
+
+hg38 21504.0 in comparison to hg37 21500
+
+hg38 1617.0 in comparison to hg37 1772
+
+hg38 12599.0 in comparison to hg37 12600
+
+hg38 68427.0 in comparison to hg37 68426
+
+hg38 668.0 in comparison to hg37 468
+
+hg38 2153.0 in comparison to hg37 2468
+
+hg38 103928.0 in comparison to hg37 103927
+
+hg38 94089.0 in comparison to hg37 94088
+
+hg38 547001.0 in comparison to hg37 547000
+
+hg38 3.972e6 in comparison to hg37 3972000
+
+hg38 12412.0 in comparison to hg37 12411
+
+hg38 3198.0 in comparison to hg37 3153
+
+hg38 945.0 in comparison to hg37 682
+
+hg38 74367.0 in comparison to hg37 9000
+
+hg38 24625.0 in comparison to hg37 15300
+
+hg38 45332.0 in comparison to hg37 8700
+
+hg38 73117.0 in comparison to hg37 72250
+
+hg38 75009.0 in comparison to hg37 9250
+
+hg38 139901.0 in comparison to hg37 5250
+
+hg38 295997.0 in comparison to hg37 296000
+
+hg38 46441.0 in comparison to hg37 10200
+
+hg38 11721.0 in comparison to hg37 20500
+
+hg38 24008.0 in comparison to hg37 23181
+
+hg38 112576.0 in comparison to hg37 112600
+
+hg38 3454.0 in comparison to hg37 3453
+
+hg38 79810.0 in comparison to hg37 79809
+
+hg38 11600.0 in comparison to hg37 11604
+
+hg38 139.0 in comparison to hg37 127
+
+hg38 9873.0 in comparison to hg37 9878
+
+hg38 43024.0 in comparison to hg37 43023
+
+hg38 3977.0 in comparison to hg37 3976
+
+hg38 115230.0 in comparison to hg37 117433
+
+hg38 24001.0 in comparison to hg37 24000
+
+hg38 12351.0 in comparison to hg37 12350
+
+hg38 277.0 in comparison to hg37 276
+
+hg38 118784.0 in comparison to hg37 118783
+
+hg38 556.0 in comparison to hg37 557
+
+hg38 4960.0 in comparison to hg37 5000
+
+hg38 513211.0 in comparison to hg37 513210
+
+hg38 652.0 in comparison to hg37 715
+
+hg38 528.0 in comparison to hg37 556
+
+hg38 206.0 in comparison to hg37 172
+
+hg38 588.0 in comparison to hg37 594
+
+hg38 691.0 in comparison to hg37 690
+
+hg38 470.0 in comparison to hg37 456
+
+hg38 74809.0 in comparison to hg37 74829
+
+hg38 68001.0 in comparison to hg37 68000
+
+hg38 489212.0 in comparison to hg37 489211
+
+hg38 120165.0 in comparison to hg37 120164
+
+hg38 51718.0 in comparison to hg37 51717
+
+hg38 48491.0 in comparison to hg37 48490
+
+hg38 23172.0 in comparison to hg37 23171
+
+hg38 15751.0 in comparison to hg37 15750
+
+hg38 51970.0 in comparison to hg37 51969
+
+hg38 611.0 in comparison to hg37 674
+
+hg38 1.043002e6 in comparison to hg37 1043000
+
+hg38 895.0 in comparison to hg37 4255
+
+hg38 133579.0 in comparison to hg37 141663
+
+hg38 5.3937085e7 in comparison to hg37 53945297
+
+hg38 42.0 in comparison to hg37 58
+
+hg38 96.0 in comparison to hg37 84
+
+hg38 145.0 in comparison to hg37 73
+
+hg38 66.0 in comparison to hg37 60
+
+hg38 18.0 in comparison to hg37 16
+
+hg38 2.74321e6 in comparison to hg37 2743211
+
+hg38 3.875188e6 in comparison to hg37 3875187
+
+hg38 328874.0 in comparison to hg37 328873
+
+hg38 27818.0 in comparison to hg37 27817
+
+hg38 329155.0 in comparison to hg37 329154
+
+hg38 165985.0 in comparison to hg37 165984
+
+hg38 371752.0 in comparison to hg37 254041
+
+hg38 12649.0 in comparison to hg37 12673
+
+hg38 569.0 in comparison to hg37 1119
+
+hg38 21111.0 in comparison to hg37 21110
+
+hg38 3.1265581e7 in comparison to hg37 31265577
+
+hg38 2.2232457e7 in comparison to hg37 22232449
+
+hg38 2.83089e6 in comparison to hg37 2830889
+
+hg38 2.0292781e7 in comparison to hg37 20297049
+
+hg38 1.6970294e7 in comparison to hg37 16972366
+
+hg38 5.045464e6 in comparison to hg37 4996189
+
+hg38 851375.0 in comparison to hg37 851374
+
+hg38 3.3739021e7 in comparison to hg37 33766397
+
+hg38 472362.0 in comparison to hg37 472361
+
+hg38 2.557111e6 in comparison to hg37 2557110
+
+hg38 10925.0 in comparison to hg37 10926
+
+hg38 82259.0 in comparison to hg37 20000
+
+hg38 3257.0 in comparison to hg37 3243
+
+hg38 4328.0 in comparison to hg37 6000
+
+hg38 8.5572134e7 in comparison to hg37 86102567
+
+hg38 177216.0 in comparison to hg37 177200
+
+hg38 616.0 in comparison to hg37 606
+
+hg38 26839.0 in comparison to hg37 26838
+
+hg38 161.0 in comparison to hg37 204
+
+hg38 6769.0 in comparison to hg37 7000
+
+hg38 125202.0 in comparison to hg37 127938
+
+hg38 164131.0 in comparison to hg37 164130
+
+hg38 1.000533e6 in comparison to hg37 1000534
+
+hg38 116199.0 in comparison to hg37 116198
+
+hg38 194407.0 in comparison to hg37 194391
+
+hg38 1.598454e6 in comparison to hg37 1598452
+
+hg38 1.315777e6 in comparison to hg37 1315776
+
+hg38 46753.0 in comparison to hg37 55144
+
+hg38 285264.0 in comparison to hg37 293482
+
+hg38 426643.0 in comparison to hg37 426644
+
+hg38 7049.0 in comparison to hg37 7048
+
+hg38 49001.0 in comparison to hg37 49000
+
+hg38 447108.0 in comparison to hg37 447107
+
+hg38 12244.0 in comparison to hg37 12243
+
+hg38 106634.0 in comparison to hg37 106633
+
+hg38 8501.0 in comparison to hg37 8500
+
+hg38 7813.0 in comparison to hg37 7800
+
+hg38 3307.0 in comparison to hg37 3293
+
+hg38 5145.0 in comparison to hg37 5000
+
+hg38 137887.0 in comparison to hg37 14550
+
+hg38 82367.0 in comparison to hg37 25000
+
+hg38 25233.0 in comparison to hg37 6000
+
+hg38 70867.0 in comparison to hg37 68500
+
+hg38 139901.0 in comparison to hg37 5000
+
+hg38 137126.0 in comparison to hg37 137125
+
+hg38 1.086311e6 in comparison to hg37 1086300
+
+hg38 164276.0 in comparison to hg37 164279
+
+hg38 301153.0 in comparison to hg37 301978
+
+hg38 974.0 in comparison to hg37 948
+
+hg38 150.0 in comparison to hg37 146
+
+hg38 19999.0 in comparison to hg37 20000
+
+hg38 383862.0 in comparison to hg37 383833
+
+hg38 86385.0 in comparison to hg37 86391
+
+hg38 407283.0 in comparison to hg37 407528
+
+hg38 373584.0 in comparison to hg37 373553
+
+hg38 281984.0 in comparison to hg37 281955
+
+hg38 166577.0 in comparison to hg37 166562
+
+hg38 401414.0 in comparison to hg37 401382
+
+hg38 309801.0 in comparison to hg37 309771
+
+hg38 114531.0 in comparison to hg37 114536
+
+hg38 30411.0 in comparison to hg37 30410
+
+hg38 412009.0 in comparison to hg37 411979
+
+hg38 159640.0 in comparison to hg37 159646
+
+hg38 82297.0 in comparison to hg37 82300
+
+hg38 32226.0 in comparison to hg37 32225
+
+hg38 29162.0 in comparison to hg37 29161
+
+hg38 45183.0 in comparison to hg37 45184
+
+hg38 117573.0 in comparison to hg37 117580
+
+hg38 179305.0 in comparison to hg37 179290
+
+hg38 373263.0 in comparison to hg37 373232
+
+hg38 181184.0 in comparison to hg37 181164
+
+hg38 372293.0 in comparison to hg37 372262
+
+hg38 280659.0 in comparison to hg37 280630
+
+hg38 130489.0 in comparison to hg37 130496
+
+hg38 335154.0 in comparison to hg37 335130
+
+hg38 223622.0 in comparison to hg37 223606
+
+hg38 178663.0 in comparison to hg37 178648
+
+hg38 314408.0 in comparison to hg37 314380
+
+hg38 238315.0 in comparison to hg37 238296
+
+hg38 223919.0 in comparison to hg37 223903
+
+hg38 148724.0 in comparison to hg37 148709
+
+hg38 166199.0 in comparison to hg37 166184
+
+hg38 78964.0 in comparison to hg37 78965
+
+hg38 313733.0 in comparison to hg37 313734
+
+hg38 49575.0 in comparison to hg37 49576
+
+hg38 4.290997e6 in comparison to hg37 4291000
+
+hg38 28810.0 in comparison to hg37 28811
+
+hg38 1111.0 in comparison to hg37 1121
+
+hg38 113001.0 in comparison to hg37 113000
+
+hg38 1.046999e6 in comparison to hg37 1047000
+
+hg38 577588.0 in comparison to hg37 577589
+
+hg38 242995.0 in comparison to hg37 243000
+
+hg38 3.0351673e7 in comparison to hg37 30350617
+
+hg38 15004.0 in comparison to hg37 15000
+
+hg38 6.8752702e7 in comparison to hg37 68760169
+
+hg38 661.0 in comparison to hg37 662
+
+hg38 44.0 in comparison to hg37 42
+
+hg38 93.0 in comparison to hg37 57
+
+hg38 6.178859e6 in comparison to hg37 6178860
+
+hg38 1.7315817e7 in comparison to hg37 17315817
+
+hg38 6.7998116e7 in comparison to hg37 68000002
+
+hg38 345014.0 in comparison to hg37 345013
+
+hg38 115495.0 in comparison to hg37 115500
+
+hg38 7304.0 in comparison to hg37 7302
+
+hg38 8724.0 in comparison to hg37 8725
+
+hg38 35715.0 in comparison to hg37 35714
+
+hg38 42809.0 in comparison to hg37 42810
+
+hg38 482700.0 in comparison to hg37 482701
+
+hg38 108261.0 in comparison to hg37 108262
+
+hg38 791003.0 in comparison to hg37 791004
+
+hg38 1.879601e6 in comparison to hg37 1879602
+
+hg38 1.862906e6 in comparison to hg37 1862907
+
+hg38 349914.0 in comparison to hg37 349925
+
+hg38 201892.0 in comparison to hg37 201903
+
+hg38 49834.0 in comparison to hg37 49843
+
+hg38 147381.0 in comparison to hg37 147390
+
+hg38 27184.0 in comparison to hg37 27194
+
+hg38 45798.0 in comparison to hg37 45803
+
+hg38 10959.0 in comparison to hg37 10962
+
+hg38 470545.0 in comparison to hg37 470598
+
+hg38 347.0 in comparison to hg37 349
+
+hg38 18357.0 in comparison to hg37 8525
+
+hg38 22514.0 in comparison to hg37 17553
+
+hg38 412.0 in comparison to hg37 412
+
+hg38 110707.0 in comparison to hg37 110706
+
+hg38 89234.0 in comparison to hg37 89233
+
+hg38 137118.0 in comparison to hg37 137117
+
+hg38 175710.0 in comparison to hg37 175709
+
+hg38 635999.0 in comparison to hg37 636000
+
+hg38 10999.0 in comparison to hg37 11000
+
+hg38 162999.0 in comparison to hg37 163000
+
+hg38 481530.0 in comparison to hg37 481530
+
+hg38 291998.0 in comparison to hg37 292000
+
+hg38 36971.0 in comparison to hg37 36970
+
+hg38 8747.0 in comparison to hg37 8748
+
+hg38 330208.0 in comparison to hg37 330207
+
+hg38 8873.0 in comparison to hg37 8875
+
+hg38 18732.0 in comparison to hg37 18733
+
+hg38 17446.0 in comparison to hg37 11050
+
+hg38 2656.0 in comparison to hg37 2567
+
+hg38 22671.0 in comparison to hg37 22670
+
+hg38 21001.0 in comparison to hg37 21000
+
+hg38 784751.0 in comparison to hg37 784750
+
+hg38 364717.0 in comparison to hg37 364717
+
+hg38 116914.0 in comparison to hg37 116913
+
+hg38 135601.0 in comparison to hg37 135600
+
+hg38 471029.0 in comparison to hg37 469755
+
+hg38 75232.0 in comparison to hg37 75230
+
+hg38 1.10348e6 in comparison to hg37 1168229
+
+hg38 807317.0 in comparison to hg37 872066
+
+hg38 1.767992e6 in comparison to hg37 1832741
+
+hg38 57835.0 in comparison to hg37 57836
+
+hg38 133072.0 in comparison to hg37 133000
+
+hg38 1.168224e6 in comparison to hg37 1168235
+
+hg38 5793.0 in comparison to hg37 5792
+
+hg38 322508.0 in comparison to hg37 322507
+
+hg38 257047.0 in comparison to hg37 257048
+
+hg38 51995.0 in comparison to hg37 51951
+
+hg38 23006.0 in comparison to hg37 23000
+
+hg38 190357.0 in comparison to hg37 190362
+
+hg38 2291.0 in comparison to hg37 1015
+
+hg38 4473.0 in comparison to hg37 4474
+
+hg38 287529.0 in comparison to hg37 287528
+
+hg38 1045.0 in comparison to hg37 1044
+
+hg38 21601.0 in comparison to hg37 21600
+
+hg38 148448.0 in comparison to hg37 147393
+
+hg38 4998.0 in comparison to hg37 5000
+
+hg38 34776.0 in comparison to hg37 34777
+
+hg38 334.0 in comparison to hg37 338
+
+hg38 18186.0 in comparison to hg37 18187
+
+hg38 668175.0 in comparison to hg37 668174
+
+hg38 66115.0 in comparison to hg37 66114
+
+hg38 14567.0 in comparison to hg37 6000
+
+hg38 4044.0 in comparison to hg37 1008
+
+hg38 92.0 in comparison to hg37 130
+
+hg38 1392.0 in comparison to hg37 1393
+
+hg38 4411.0 in comparison to hg37 4410
+
+hg38 1412.0 in comparison to hg37 1413
+
+hg38 47162.0 in comparison to hg37 47163
+
+hg38 256823.0 in comparison to hg37 256824
+
+hg38 782.0 in comparison to hg37 780
+
+hg38 663.0 in comparison to hg37 675
+
+hg38 209446.0 in comparison to hg37 209449
+
+hg38 723.0 in comparison to hg37 724
+
+hg38 159680.0 in comparison to hg37 159682
+
+hg38 109108.0 in comparison to hg37 109111
+
+hg38 21890.0 in comparison to hg37 21892
+
+hg38 176466.0 in comparison to hg37 176467
+
+hg38 164279.0 in comparison to hg37 164281
+
+hg38 123269.0 in comparison to hg37 123270
+
+hg38 114379.0 in comparison to hg37 114380
+
+hg38 64111.0 in comparison to hg37 64072
+
+hg38 87511.0 in comparison to hg37 87450
+
+hg38 9593.0 in comparison to hg37 9582
+
+hg38 29023.0 in comparison to hg37 29034
+
+hg38 4415.0 in comparison to hg37 4418
+
+hg38 91141.0 in comparison to hg37 91143
+
+hg38 671.0 in comparison to hg37 674
+
+hg38 22822.0 in comparison to hg37 11500
+
+hg38 468895.0 in comparison to hg37 468896
+
+hg38 1418.0 in comparison to hg37 1417
+
+hg38 3270.0 in comparison to hg37 3274
+
+hg38 62.0 in comparison to hg37 60
+
+hg38 4592.0 in comparison to hg37 4590
+
+hg38 3547.0 in comparison to hg37 3549
+
+hg38 91697.0 in comparison to hg37 91696
+
+hg38 5003.0 in comparison to hg37 5000
+
+hg38 1016.0 in comparison to hg37 845
+
+hg38 49.0 in comparison to hg37 50
+
+hg38 1015.0 in comparison to hg37 844
+
+hg38 824.0 in comparison to hg37 738
+
+hg38 825.0 in comparison to hg37 740
+
+hg38 5224.0 in comparison to hg37 5225
+
+hg38 67819.0 in comparison to hg37 67819
+
+hg38 9.1414627e7 in comparison to hg37 91470061
+
+hg38 25110.0 in comparison to hg37 25109
+
+hg38 8.6572804e7 in comparison to hg37 86628239
+
+hg38 8.6913742e7 in comparison to hg37 86969177
+
+hg38 93.0 in comparison to hg37 81
+
+hg38 1.1823848e7 in comparison to hg37 11823847
+
+hg38 43835.0 in comparison to hg37 43836
+
+hg38 220902.0 in comparison to hg37 220901
+
+hg38 12182.0 in comparison to hg37 12187
+
+hg38 26002.0 in comparison to hg37 26000
+
+hg38 22502.0 in comparison to hg37 22500
+
+hg38 9.100728e6 in comparison to hg37 9100734
+
+hg38 123089.0 in comparison to hg37 123088
+
+hg38 534109.0 in comparison to hg37 534030
+
+hg38 4.548651e6 in comparison to hg37 4548203
+
+hg38 97.0 in comparison to hg37 137
+
+hg38 12549.0 in comparison to hg37 12550
+
+hg38 346145.0 in comparison to hg37 346151
+
+hg38 916.0 in comparison to hg37 832
+
+hg38 665701.0 in comparison to hg37 665700
+
+hg38 1.056501e6 in comparison to hg37 1056500
+
+hg38 582930.0 in comparison to hg37 582929
+
+hg38 5.642921e6 in comparison to hg37 5698358
+
+hg38 390069.0 in comparison to hg37 390068
+
+hg38 2.865183e6 in comparison to hg37 2920619
+
+hg38 73702.0 in comparison to hg37 73701
+
+hg38 314363.0 in comparison to hg37 314362
+
+hg38 331365.0 in comparison to hg37 331364
+
+hg38 1.158669e6 in comparison to hg37 1158668
+
+hg38 334990.0 in comparison to hg37 334989
+
+hg38 19039.0 in comparison to hg37 19040
+
+hg38 18001.0 in comparison to hg37 18000
+
+hg38 131001.0 in comparison to hg37 131000
+
+hg38 111399.0 in comparison to hg37 111400
+
+hg38 1.1524747e7 in comparison to hg37 11524299
+
+hg38 126752.0 in comparison to hg37 126645
+
+hg38 39547.0 in comparison to hg37 39593
+
+hg38 536286.0 in comparison to hg37 536184
+
+hg38 1.094498e6 in comparison to hg37 1153991
+
+hg38 572.0 in comparison to hg37 565
+
+hg38 5983.0 in comparison to hg37 5976
+
+hg38 155624.0 in comparison to hg37 155667
+
+hg38 5098.0 in comparison to hg37 5100
+
+hg38 20331.0 in comparison to hg37 20333
+
+hg38 86831.0 in comparison to hg37 86833
+
+hg38 614260.0 in comparison to hg37 613813
+
+hg38 275931.0 in comparison to hg37 275932
+
+hg38 706553.0 in comparison to hg37 706553
+
+hg38 94958.0 in comparison to hg37 94961
+
+hg38 583524.0 in comparison to hg37 583524
+
+hg38 5704.0 in comparison to hg37 5700
+
+hg38 8103.0 in comparison to hg37 8100
+
+hg38 133122.0 in comparison to hg37 133100
+
+hg38 30769.0 in comparison to hg37 30772
+
+hg38 536.0 in comparison to hg37 451
+
+hg38 931.0 in comparison to hg37 763
+
+hg38 105.0 in comparison to hg37 190
+
+hg38 24430.0 in comparison to hg37 24350
+
+hg38 3960.0 in comparison to hg37 3962
+
+hg38 46177.0 in comparison to hg37 46182
+
+hg38 82094.0 in comparison to hg37 82093
+
+hg38 7626.0 in comparison to hg37 7628
+
+hg38 156.0 in comparison to hg37 146
+
+hg38 8726.0 in comparison to hg37 8700
+
+hg38 531566.0 in comparison to hg37 531459
+
+hg38 533809.0 in comparison to hg37 533727
+
+hg38 20715.0 in comparison to hg37 20714
+
+hg38 34099.0 in comparison to hg37 34098
+
+hg38 10119.0 in comparison to hg37 10132
+
+hg38 20448.0 in comparison to hg37 20457
+
+hg38 91097.0 in comparison to hg37 85000
+
+hg38 67832.0 in comparison to hg37 61725
+
+hg38 1036.0 in comparison to hg37 1037
+
+hg38 3667.0 in comparison to hg37 3669
+
+hg38 186095.0 in comparison to hg37 180000
+
+hg38 459114.0 in comparison to hg37 453011
+
+hg38 11718.0 in comparison to hg37 11717
+
+hg38 5404.0 in comparison to hg37 5403
+
+hg38 15155.0 in comparison to hg37 9018
+
+hg38 15189.0 in comparison to hg37 9087
+
+hg38 986072.0 in comparison to hg37 986073
+
+hg38 6708.0 in comparison to hg37 6707
+
+hg38 3867.0 in comparison to hg37 3866
+
+hg38 130458.0 in comparison to hg37 130457
+
+hg38 115788.0 in comparison to hg37 115794
+
+hg38 1158.0 in comparison to hg37 1159
+
+hg38 2994.0 in comparison to hg37 2968
+
+hg38 3199.0 in comparison to hg37 3196
+
+hg38 161303.0 in comparison to hg37 155200
+
+hg38 30578.0 in comparison to hg37 30577
+
+hg38 834101.0 in comparison to hg37 834098
+
+hg38 920570.0 in comparison to hg37 920569
+
+hg38 5411.0 in comparison to hg37 5407
+
+hg38 2.575168e6 in comparison to hg37 2575166
+
+hg38 30045.0 in comparison to hg37 30044
+
+hg38 9993.0 in comparison to hg37 9992
+
+hg38 98903.0 in comparison to hg37 98902
+
+hg38 15602.0 in comparison to hg37 15601
+
+hg38 521.0 in comparison to hg37 520
+
+hg38 171040.0 in comparison to hg37 171039
+
+hg38 149556.0 in comparison to hg37 149556
+
+hg38 4737.0 in comparison to hg37 4730
+
+hg38 35009.0 in comparison to hg37 35000
+
+hg38 2221.0 in comparison to hg37 2215
+
+hg38 9097.0 in comparison to hg37 9096
+
+hg38 2817.0 in comparison to hg37 2816
+
+hg38 6.454328e6 in comparison to hg37 6454326
+
+hg38 354.0 in comparison to hg37 353
+
+hg38 104011.0 in comparison to hg37 104000
+
+hg38 5101.0 in comparison to hg37 5100
+
+hg38 50183.0 in comparison to hg37 50182
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 2.616739e7 in comparison to hg37 26207269
+
+hg38 1.306605e6 in comparison to hg37 1306603
+
+hg38 4.3934493e7 in comparison to hg37 43974369
+
+hg38 3.4432789e7 in comparison to hg37 34476655
+
+hg38 3.842838e6 in comparison to hg37 3842839
+
+hg38 105223.0 in comparison to hg37 105222
+
+hg38 6.289155e6 in comparison to hg37 6289152
+
+hg38 68885.0 in comparison to hg37 69000
+
+hg38 419.0 in comparison to hg37 418
+
+hg38 9981.0 in comparison to hg37 9980
+
+hg38 477001.0 in comparison to hg37 477000
+
+hg38 2986.0 in comparison to hg37 2985
+
+hg38 9594.0 in comparison to hg37 9593
+
+hg38 1737.0 in comparison to hg37 1736
+
+hg38 121363.0 in comparison to hg37 121362
+
+hg38 79.0 in comparison to hg37 75
+
+hg38 407094.0 in comparison to hg37 454544
+
+hg38 81900.0 in comparison to hg37 81901
+
+hg38 22332.0 in comparison to hg37 22329
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 63575.0 in comparison to hg37 63692
+
+hg38 101990.0 in comparison to hg37 102107
+
+hg38 77065.0 in comparison to hg37 77182
+
+hg38 7116.0 in comparison to hg37 7212
+
+hg38 85318.0 in comparison to hg37 85435
+
+hg38 110388.0 in comparison to hg37 110387
+
+hg38 712241.0 in comparison to hg37 712240
+
+hg38 1.072656e6 in comparison to hg37 1072655
+
+hg38 5274.0 in comparison to hg37 5273
+
+hg38 26001.0 in comparison to hg37 26000
+
+hg38 8576.0 in comparison to hg37 8575
+
+hg38 5501.0 in comparison to hg37 5500
+
+hg38 36134.0 in comparison to hg37 36125
+
+hg38 20008.0 in comparison to hg37 20000
+
+hg38 8301.0 in comparison to hg37 8300
+
+hg38 30301.0 in comparison to hg37 30302
+
+hg38 114225.0 in comparison to hg37 114224
+
+hg38 55503.0 in comparison to hg37 55500
+
+hg38 118897.0 in comparison to hg37 118894
+
+hg38 362744.0 in comparison to hg37 362743
+
+hg38 752916.0 in comparison to hg37 752912
+
+hg38 512760.0 in comparison to hg37 512761
+
+hg38 145024.0 in comparison to hg37 145139
+
+hg38 48395.0 in comparison to hg37 48394
+
+hg38 120620.0 in comparison to hg37 120735
+
+hg38 10187.0 in comparison to hg37 10186
+
+hg38 157575.0 in comparison to hg37 157690
+
+hg38 108299.0 in comparison to hg37 108300
+
+hg38 10001.0 in comparison to hg37 10000
+
+hg38 2.9210434e7 in comparison to hg37 28506160
+
+hg38 854913.0 in comparison to hg37 854912
+
+hg38 817848.0 in comparison to hg37 817847
+
+hg38 33071.0 in comparison to hg37 33070
+
+hg38 988986.0 in comparison to hg37 988985
+
+hg38 13499.0 in comparison to hg37 13500
+
+hg38 47000.0 in comparison to hg37 47000
+
+hg38 22412.0 in comparison to hg37 22411
+
+hg38 26912.0 in comparison to hg37 26911
+
+hg38 725951.0 in comparison to hg37 725950
+
+hg38 93605.0 in comparison to hg37 93604
+
+hg38 81915.0 in comparison to hg37 81914
+
+hg38 799840.0 in comparison to hg37 799833
+
+hg38 385498.0 in comparison to hg37 385491
+
+hg38 51371.0 in comparison to hg37 51376
+
+hg38 40738.0 in comparison to hg37 40739
+
+hg38 151001.0 in comparison to hg37 151000
+
+hg38 36001.0 in comparison to hg37 36000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 30068.0 in comparison to hg37 30069
+
+hg38 26901.0 in comparison to hg37 26900
+
+hg38 276660.0 in comparison to hg37 276661
+
+hg38 2978.0 in comparison to hg37 2981
+
+hg38 204098.0 in comparison to hg37 204079
+
+hg38 435.0 in comparison to hg37 426
+
+hg38 514.0 in comparison to hg37 505
+
+hg38 287096.0 in comparison to hg37 287095
+
+hg38 38363.0 in comparison to hg37 38362
+
+hg38 774.0 in comparison to hg37 773
+
+hg38 511.0 in comparison to hg37 510
+
+hg38 11088.0 in comparison to hg37 11087
+
+hg38 1230.0 in comparison to hg37 1216
+
+hg38 708.0 in comparison to hg37 707
+
+hg38 28305.0 in comparison to hg37 28280
+
+hg38 116.0 in comparison to hg37 77
+
+hg38 997.0 in comparison to hg37 988
+
+hg38 5683.0 in comparison to hg37 5682
+
+hg38 2.3279173e7 in comparison to hg37 22890618
+
+hg38 7.0046807e7 in comparison to hg37 69758120
+
+hg38 228045.0 in comparison to hg37 228111
+
+hg38 482.0 in comparison to hg37 481
+
+hg38 7233.0 in comparison to hg37 7237
+
+hg38 73155.0 in comparison to hg37 73154
+
+hg38 711.0 in comparison to hg37 640
+
+hg38 333001.0 in comparison to hg37 333000
+
+hg38 180999.0 in comparison to hg37 181000
+
+hg38 29970.0 in comparison to hg37 29971
+
+hg38 79252.0 in comparison to hg37 71727
+
+hg38 64697.0 in comparison to hg37 57153
+
+hg38 370620.0 in comparison to hg37 370619
+
+hg38 356727.0 in comparison to hg37 355431
+
+hg38 538528.0 in comparison to hg37 525720
+
+hg38 542454.0 in comparison to hg37 529646
+
+hg38 12271.0 in comparison to hg37 11000
+
+hg38 7998.0 in comparison to hg37 8000
+
+hg38 8034.0 in comparison to hg37 8000
+
+hg38 166585.0 in comparison to hg37 166000
+
+hg38 1009.0 in comparison to hg37 918
+
+hg38 587.0 in comparison to hg37 586
+
+hg38 462.0 in comparison to hg37 461
+
+hg38 733.0 in comparison to hg37 664
+
+hg38 5095.0 in comparison to hg37 5100
+
+hg38 16434.0 in comparison to hg37 16440
+
+hg38 645989.0 in comparison to hg37 645988
+
+hg38 101351.0 in comparison to hg37 78573
+
+hg38 11487.0 in comparison to hg37 11486
+
+hg38 3074.0 in comparison to hg37 3096
+
+hg38 13439.0 in comparison to hg37 13438
+
+hg38 423.0 in comparison to hg37 411
+
+hg38 2877.0 in comparison to hg37 2876
+
+hg38 635.0 in comparison to hg37 634
+
+hg38 742.0 in comparison to hg37 747
+
+hg38 92.0 in comparison to hg37 90
+
+hg38 447.0 in comparison to hg37 365
+
+hg38 85.0 in comparison to hg37 75
+
+hg38 118778.0 in comparison to hg37 96000
+
+hg38 7699.0 in comparison to hg37 7696
+
+hg38 209936.0 in comparison to hg37 209940
+
+hg38 9937.0 in comparison to hg37 9940
+
+hg38 23251.0 in comparison to hg37 23250
+
+hg38 137957.0 in comparison to hg37 137956
+
+hg38 14559.0 in comparison to hg37 14558
+
+hg38 8812.0 in comparison to hg37 8813
+
+hg38 11442.0 in comparison to hg37 11439
+
+hg38 212857.0 in comparison to hg37 212856
+
+hg38 15202.0 in comparison to hg37 15179
+
+hg38 1757.0 in comparison to hg37 1756
+
+hg38 146.0 in comparison to hg37 152
+
+hg38 335047.0 in comparison to hg37 335049
+
+hg38 17871.0 in comparison to hg37 17872
+
+hg38 2665.0 in comparison to hg37 2664
+
+hg38 5494.0 in comparison to hg37 5491
+
+hg38 213.0 in comparison to hg37 210
+
+hg38 1210.0 in comparison to hg37 1209
+
+hg38 447.0 in comparison to hg37 365
+
+hg38 5994.0 in comparison to hg37 6000
+
+hg38 5948.0 in comparison to hg37 6000
+
+hg38 6957.0 in comparison to hg37 7000
+
+hg38 5984.0 in comparison to hg37 6000
+
+hg38 26417.0 in comparison to hg37 26432
+
+hg38 17934.0 in comparison to hg37 17970
+
+hg38 147559.0 in comparison to hg37 147558
+
+hg38 791.0 in comparison to hg37 603
+
+hg38 21532.0 in comparison to hg37 21427
+
+hg38 117066.0 in comparison to hg37 117065
+
+hg38 42876.0 in comparison to hg37 16100
+
+hg38 3432.0 in comparison to hg37 3440
+
+hg38 9016.0 in comparison to hg37 9000
+
+hg38 407466.0 in comparison to hg37 407465
+
+hg38 3.385601e6 in comparison to hg37 3385599
+
+hg38 691.0 in comparison to hg37 615
+
+hg38 7860.0 in comparison to hg37 7857
+
+hg38 5133.0 in comparison to hg37 5132
+
+hg38 265583.0 in comparison to hg37 265582
+
+hg38 193844.0 in comparison to hg37 193843
+
+hg38 10643.0 in comparison to hg37 10642
+
+hg38 18831.0 in comparison to hg37 18830
+
+hg38 833.0 in comparison to hg37 832
+
+hg38 8032.0 in comparison to hg37 8031
+
+hg38 43502.0 in comparison to hg37 43500
+
+hg38 4816.0 in comparison to hg37 4783
+
+hg38 45.0 in comparison to hg37 37
+
+hg38 634.0 in comparison to hg37 437
+
+hg38 128352.0 in comparison to hg37 95902
+
+hg38 132892.0 in comparison to hg37 64990
+
+hg38 145963.0 in comparison to hg37 239019
+
+hg38 1.644501e6 in comparison to hg37 1644500
+
+hg38 2.157998e6 in comparison to hg37 2157998
+
+hg38 1.206002e6 in comparison to hg37 1206001
+
+hg38 651825.0 in comparison to hg37 639017
+
+hg38 4177.0 in comparison to hg37 4176
+
+hg38 178989.0 in comparison to hg37 177693
+
+hg38 22494.0 in comparison to hg37 22500
+
+hg38 45494.0 in comparison to hg37 25100
+
+hg38 117041.0 in comparison to hg37 78533
+
+hg38 43763.0 in comparison to hg37 44100
+
+hg38 8015.0 in comparison to hg37 8000
+
+hg38 8890.0 in comparison to hg37 8889
+
+hg38 18996.0 in comparison to hg37 19000
+
+hg38 70003.0 in comparison to hg37 70000
+
+hg38 1771.0 in comparison to hg37 1774
+
+hg38 1.224149e6 in comparison to hg37 1224150
+
+hg38 132304.0 in comparison to hg37 132311
+
+hg38 9745.0 in comparison to hg37 9761
+
+hg38 4996.0 in comparison to hg37 5000
+
+hg38 7982.0 in comparison to hg37 7975
+
+hg38 432631.0 in comparison to hg37 6098
+
+hg38 415723.0 in comparison to hg37 8856
+
+hg38 9902.0 in comparison to hg37 9900
+
+hg38 19005.0 in comparison to hg37 19000
+
+hg38 11603.0 in comparison to hg37 11600
+
+hg38 12003.0 in comparison to hg37 12000
+
+hg38 17005.0 in comparison to hg37 17000
+
+hg38 7153.0 in comparison to hg37 7350
+
+hg38 7502.0 in comparison to hg37 7500
+
+hg38 20000.0 in comparison to hg37 20000
+
+hg38 10179.0 in comparison to hg37 10200
+
+hg38 29025.0 in comparison to hg37 29050
+
+hg38 5094.0 in comparison to hg37 5100
+
+hg38 10003.0 in comparison to hg37 10000
+
+hg38 32994.0 in comparison to hg37 33000
+
+hg38 168278.0 in comparison to hg37 168300
+
+hg38 91014.0 in comparison to hg37 91000
+
+hg38 14560.0 in comparison to hg37 14576
+
+hg38 5990.0 in comparison to hg37 6000
+
+hg38 11499.0 in comparison to hg37 11500
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 210220.0 in comparison to hg37 210155
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 10021.0 in comparison to hg37 10000
+
+hg38 1615.0 in comparison to hg37 1616
+
+hg38 5044.0 in comparison to hg37 5050
+
+hg38 105200.0 in comparison to hg37 49000
+
+hg38 78846.0 in comparison to hg37 22600
+
+hg38 79795.0 in comparison to hg37 23550
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 5591.0 in comparison to hg37 5600
+
+hg38 92379.0 in comparison to hg37 16350
+
+hg38 81052.0 in comparison to hg37 81000
+
+hg38 88240.0 in comparison to hg37 88200
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 15002.0 in comparison to hg37 15000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 64016.0 in comparison to hg37 64000
+
+hg38 6102.0 in comparison to hg37 6300
+
+hg38 5988.0 in comparison to hg37 6000
+
+hg38 302379.0 in comparison to hg37 16878
+
+hg38 27972.0 in comparison to hg37 16857
+
+hg38 4613.0 in comparison to hg37 4621
+
+hg38 46041.0 in comparison to hg37 56059
+
+hg38 4019.0 in comparison to hg37 4047
+
+hg38 4801.0 in comparison to hg37 4804
+
+hg38 52461.0 in comparison to hg37 36000
+
+hg38 45519.0 in comparison to hg37 23039
+
+hg38 27673.0 in comparison to hg37 5691
+
+hg38 32763.0 in comparison to hg37 4817
+
+hg38 5971.0 in comparison to hg37 6000
+
+hg38 22001.0 in comparison to hg37 22000
+
+hg38 26100.0 in comparison to hg37 26100
+
+hg38 7995.0 in comparison to hg37 8000
+
+hg38 27011.0 in comparison to hg37 27000
+
+hg38 4704.0 in comparison to hg37 4703
+
+hg38 41100.0 in comparison to hg37 41160
+
+hg38 5835.0 in comparison to hg37 5837
+
+hg38 2.021938e6 in comparison to hg37 2021937
+
+hg38 944401.0 in comparison to hg37 944400
+
+hg38 138301.0 in comparison to hg37 138300
+
+hg38 359920.0 in comparison to hg37 359919
+
+hg38 328925.0 in comparison to hg37 297236
+
+hg38 9951.0 in comparison to hg37 9950
+
+hg38 32948.0 in comparison to hg37 33000
+
+hg38 17444.0 in comparison to hg37 17508
+
+hg38 23191.0 in comparison to hg37 23266
+
+hg38 65688.0 in comparison to hg37 18170
+
+hg38 259980.0 in comparison to hg37 106585
+
+hg38 253722.0 in comparison to hg37 22038
+
+hg38 5996.0 in comparison to hg37 6000
+
+hg38 8998.0 in comparison to hg37 9000
+
+hg38 10483.0 in comparison to hg37 10500
+
+hg38 5005.0 in comparison to hg37 5000
+
+hg38 14595.0 in comparison to hg37 13500
+
+hg38 31098.0 in comparison to hg37 30000
+
+hg38 9996.0 in comparison to hg37 10000
+
+hg38 294592.0 in comparison to hg37 30000
+
+hg38 7002.0 in comparison to hg37 6900
+
+hg38 4775.0 in comparison to hg37 4774
+
+hg38 5009.0 in comparison to hg37 5000
+
+hg38 454704.0 in comparison to hg37 125875
+
+hg38 19091.0 in comparison to hg37 19100
+
+hg38 7899.0 in comparison to hg37 7899
+
+hg38 8006.0 in comparison to hg37 8000
+
+hg38 23252.0 in comparison to hg37 23250
+
+hg38 10001.0 in comparison to hg37 10000
+
+hg38 5401.0 in comparison to hg37 5400
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 21577.0 in comparison to hg37 21600
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 61064.0 in comparison to hg37 5170
+
+hg38 17064.0 in comparison to hg37 17090
+
+hg38 5149.0 in comparison to hg37 5150
+
+hg38 5010.0 in comparison to hg37 5000
+
+hg38 5501.0 in comparison to hg37 5500
+
+hg38 636348.0 in comparison to hg37 634299
+
+hg38 13437.0 in comparison to hg37 13434
+
+hg38 123958.0 in comparison to hg37 123957
+
+hg38 792157.0 in comparison to hg37 792156
+
+hg38 278977.0 in comparison to hg37 284529
+
+hg38 14552.0 in comparison to hg37 14551
+
+hg38 427344.0 in comparison to hg37 419343
+
+hg38 1.714785e6 in comparison to hg37 1714784
+
+hg38 1.155003e6 in comparison to hg37 1155000
+
+hg38 2.215095e6 in comparison to hg37 2215094
+
+hg38 61164.0 in comparison to hg37 5270
+
+hg38 12201.0 in comparison to hg37 12200
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 5410.0 in comparison to hg37 5411
+
+hg38 19991.0 in comparison to hg37 20000
+
+hg38 5315.0 in comparison to hg37 5316
+
+hg38 12006.0 in comparison to hg37 11997
+
+hg38 5594.0 in comparison to hg37 7300
+
+hg38 3386.0 in comparison to hg37 3390
+
+hg38 6998.0 in comparison to hg37 7000
+
+hg38 10438.0 in comparison to hg37 10400
+
+hg38 1119.0 in comparison to hg37 1121
+
+hg38 10320.0 in comparison to hg37 10325
+
+hg38 139148.0 in comparison to hg37 63750
+
+hg38 27673.0 in comparison to hg37 7879
+
+hg38 998821.0 in comparison to hg37 998819
+
+hg38 468215.0 in comparison to hg37 468214
+
+hg38 55495.0 in comparison to hg37 61457
+
+hg38 35822.0 in comparison to hg37 12772
+
+hg38 33749.0 in comparison to hg37 5817
+
+hg38 6002.0 in comparison to hg37 6000
+
+hg38 12008.0 in comparison to hg37 12000
+
+hg38 48432.0 in comparison to hg37 48495
+
+hg38 6897.0 in comparison to hg37 6900
+
+hg38 1254.0 in comparison to hg37 1256
+
+hg38 129007.0 in comparison to hg37 129006
+
+hg38 120219.0 in comparison to hg37 120218
+
+hg38 48001.0 in comparison to hg37 48000
+
+hg38 2735.0 in comparison to hg37 2738
+
+hg38 339.0 in comparison to hg37 459
+
+hg38 675.0 in comparison to hg37 655
+
+hg38 6004.0 in comparison to hg37 6000
+
+hg38 10725.0 in comparison to hg37 10750
+
+hg38 3768.0 in comparison to hg37 3799
+
+hg38 70.0 in comparison to hg37 72
+
+hg38 5005.0 in comparison to hg37 5000
+
+hg38 381.0 in comparison to hg37 382
+
+hg38 13001.0 in comparison to hg37 13000
+
+hg38 69692.0 in comparison to hg37 69305
+
+hg38 177039.0 in comparison to hg37 177038
+
+hg38 4818.0 in comparison to hg37 4817
+
+hg38 14816.0 in comparison to hg37 14850
+
+hg38 27972.0 in comparison to hg37 6097
+
+hg38 6356.0 in comparison to hg37 6350
+
+hg38 3063.0 in comparison to hg37 3062
+
+hg38 83690.0 in comparison to hg37 83689
+
+hg38 177324.0 in comparison to hg37 177323
+
+hg38 293451.0 in comparison to hg37 293450
+
+hg38 23826.0 in comparison to hg37 23825
+
+hg38 159601.0 in comparison to hg37 159600
+
+hg38 83909.0 in comparison to hg37 83909
+
+hg38 744011.0 in comparison to hg37 772113
+
+hg38 34494.0 in comparison to hg37 34493
+
+hg38 15185.0 in comparison to hg37 15184
+
+hg38 125852.0 in comparison to hg37 125851
+
+hg38 7997.0 in comparison to hg37 8000
+
+hg38 637557.0 in comparison to hg37 629556
+
+hg38 158542.0 in comparison to hg37 158536
+
+hg38 15611.0 in comparison to hg37 15614
+
+hg38 3740.0 in comparison to hg37 3737
+
+hg38 47384.0 in comparison to hg37 47354
+
+hg38 29978.0 in comparison to hg37 30000
+
+hg38 25498.0 in comparison to hg37 25500
+
+hg38 102418.0 in comparison to hg37 102400
+
+hg38 151926.0 in comparison to hg37 152000
+
+hg38 7099.0 in comparison to hg37 7100
+
+hg38 33947.0 in comparison to hg37 34000
+
+hg38 130466.0 in comparison to hg37 130464
+
+hg38 65688.0 in comparison to hg37 18170
+
+hg38 1.091798e6 in comparison to hg37 1091795
+
+hg38 163001.0 in comparison to hg37 163000
+
+hg38 6103.0 in comparison to hg37 6100
+
+hg38 4135.0 in comparison to hg37 4134
+
+hg38 5132.0 in comparison to hg37 5150
+
+hg38 8840.0 in comparison to hg37 8839
+
+hg38 420.0 in comparison to hg37 6000
+
+hg38 1202.0 in comparison to hg37 942
+
+hg38 7770.0 in comparison to hg37 7800
+
+hg38 7159.0 in comparison to hg37 7150
+
+hg38 8002.0 in comparison to hg37 8000
+
+hg38 5005.0 in comparison to hg37 5000
+
+hg38 16073.0 in comparison to hg37 16075
+
+hg38 8238.0 in comparison to hg37 8250
+
+hg38 51980.0 in comparison to hg37 52000
+
+hg38 7994.0 in comparison to hg37 8000
+
+hg38 169896.0 in comparison to hg37 209862
+
+hg38 360498.0 in comparison to hg37 400135
+
+hg38 35342.0 in comparison to hg37 35253
+
+hg38 8115.0 in comparison to hg37 7875
+
+hg38 143437.0 in comparison to hg37 143436
+
+hg38 6051.0 in comparison to hg37 6050
+
+hg38 861252.0 in comparison to hg37 861251
+
+hg38 15530.0 in comparison to hg37 15529
+
+hg38 187565.0 in comparison to hg37 187564
+
+hg38 917972.0 in comparison to hg37 917969
+
+hg38 138679.0 in comparison to hg37 138680
+
+hg38 5187.0 in comparison to hg37 5195
+
+hg38 130440.0 in comparison to hg37 130330
+
+hg38 12525.0 in comparison to hg37 12539
+
+hg38 5685.0 in comparison to hg37 5700
+
+hg38 5004.0 in comparison to hg37 5000
+
+hg38 10559.0 in comparison to hg37 10556
+
+hg38 10704.0 in comparison to hg37 10675
+
+hg38 10605.0 in comparison to hg37 10567
+
+hg38 8002.0 in comparison to hg37 8000
+
+hg38 709.0 in comparison to hg37 708
+
+hg38 15125.0 in comparison to hg37 5000
+
+hg38 10981.0 in comparison to hg37 856
+
+hg38 168.0 in comparison to hg37 169
+
+hg38 1228.0 in comparison to hg37 1227
+
+hg38 43.0 in comparison to hg37 56
+
+hg38 4983.0 in comparison to hg37 5000
+
+hg38 4605.0 in comparison to hg37 4606
+
+hg38 27087.0 in comparison to hg37 27100
+
+hg38 8988.0 in comparison to hg37 9000
+
+hg38 791.0 in comparison to hg37 796
+
+hg38 528.0 in comparison to hg37 527
+
+hg38 931.0 in comparison to hg37 934
+
+hg38 1973.0 in comparison to hg37 1973
+
+hg38 6302.0 in comparison to hg37 6500
+
+hg38 5625.0 in comparison to hg37 5624
+
+hg38 5102.0 in comparison to hg37 5100
+
+hg38 259980.0 in comparison to hg37 4635
+
+hg38 10009.0 in comparison to hg37 10000
+
+hg38 220.0 in comparison to hg37 221
+
+hg38 11138.0 in comparison to hg37 11145
+
+hg38 30516.0 in comparison to hg37 30528
+
+hg38 61253.0 in comparison to hg37 61300
+
+hg38 3590.0 in comparison to hg37 3588
+
+hg38 7938.0 in comparison to hg37 7935
+
+hg38 29996.0 in comparison to hg37 30000
+
+hg38 896.0 in comparison to hg37 897
+
+hg38 5007.0 in comparison to hg37 5012
+
+hg38 2670.0 in comparison to hg37 2675
+
+hg38 35499.0 in comparison to hg37 35500
+
+hg38 1604.0 in comparison to hg37 1603
+
+hg38 32534.0 in comparison to hg37 32500
+
+hg38 28307.0 in comparison to hg37 28300
+
+hg38 5224.0 in comparison to hg37 5225
+
+hg38 18108.0 in comparison to hg37 18100
+
+hg38 6994.0 in comparison to hg37 7000
+
+hg38 10101.0 in comparison to hg37 10100
+
+hg38 72035.0 in comparison to hg37 72000
+
+hg38 6601.0 in comparison to hg37 6600
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 15250.0 in comparison to hg37 15250
+
+hg38 5099.0 in comparison to hg37 5100
+
+hg38 25041.0 in comparison to hg37 25000
+
+hg38 1805.0 in comparison to hg37 1807
+
+hg38 697.0 in comparison to hg37 699
+
+hg38 517.0 in comparison to hg37 518
+
+hg38 347743.0 in comparison to hg37 347749
+
+hg38 1863.0 in comparison to hg37 1864
+
+hg38 153164.0 in comparison to hg37 153163
+
+hg38 189900.0 in comparison to hg37 189899
+
+hg38 77001.0 in comparison to hg37 77000
+
+hg38 1422.0 in comparison to hg37 1421
+
+hg38 370002.0 in comparison to hg37 370000
+
+hg38 43067.0 in comparison to hg37 43066
+
+hg38 5399.0 in comparison to hg37 5398
+
+hg38 31640.0 in comparison to hg37 31650
+
+hg38 474001.0 in comparison to hg37 466000
+
+hg38 4998.0 in comparison to hg37 5000
+
+hg38 15611.0 in comparison to hg37 15614
+
+hg38 914.0 in comparison to hg37 914
+
+hg38 6477.0 in comparison to hg37 6475
+
+hg38 28040.0 in comparison to hg37 28050
+
+hg38 14990.0 in comparison to hg37 15000
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 55.0 in comparison to hg37 54
+
+hg38 2.446707e6 in comparison to hg37 2451242
+
+hg38 717915.0 in comparison to hg37 722524
+
+hg38 505720.0 in comparison to hg37 510315
+
+hg38 6004.0 in comparison to hg37 6000
+
+hg38 768.0 in comparison to hg37 645
+
+hg38 143569.0 in comparison to hg37 143570
+
+hg38 27550.0 in comparison to hg37 27545
+
+hg38 14524.0 in comparison to hg37 14523
+
+hg38 9002.0 in comparison to hg37 9005
+
+hg38 2490.0 in comparison to hg37 2486
+
+hg38 5818.0 in comparison to hg37 5817
+
+hg38 1748.0 in comparison to hg37 1749
+
+hg38 607.0 in comparison to hg37 599
+
+hg38 1064.0 in comparison to hg37 1068
+
+hg38 397.0 in comparison to hg37 382
+
+hg38 31516.0 in comparison to hg37 31515
+
+hg38 12838.0 in comparison to hg37 12837
+
+hg38 280251.0 in comparison to hg37 280250
+
+hg38 2595.0 in comparison to hg37 2594
+
+hg38 31220.0 in comparison to hg37 31221
+
+hg38 8966.0 in comparison to hg37 9000
+
+hg38 8248.0 in comparison to hg37 8249
+
+hg38 31849.0 in comparison to hg37 31850
+
+hg38 4857.0 in comparison to hg37 4858
+
+hg38 10299.0 in comparison to hg37 10300
+
+hg38 5140.0 in comparison to hg37 5000
+
+hg38 1032.0 in comparison to hg37 949
+
+hg38 404.0 in comparison to hg37 364
+
+hg38 82325.0 in comparison to hg37 82324
+
+hg38 65188.0 in comparison to hg37 65187
+
+hg38 13301.0 in comparison to hg37 13300
+
+hg38 22758.0 in comparison to hg37 22757
+
+hg38 82108.0 in comparison to hg37 82107
+
+hg38 10117.0 in comparison to hg37 10116
+
+hg38 9002.0 in comparison to hg37 9000
+
+hg38 61119.0 in comparison to hg37 5230
+
+hg38 16707.0 in comparison to hg37 16715
+
+hg38 621.0 in comparison to hg37 606
+
+hg38 361462.0 in comparison to hg37 361461
+
+hg38 118228.0 in comparison to hg37 118227
+
+hg38 385000.0 in comparison to hg37 385000
+
+hg38 159088.0 in comparison to hg37 159087
+
+hg38 160100.0 in comparison to hg37 160100
+
+hg38 229453.0 in comparison to hg37 229452
+
+hg38 116322.0 in comparison to hg37 116321
+
+hg38 119636.0 in comparison to hg37 119637
+
+hg38 916.0 in comparison to hg37 917
+
+hg38 4567.0 in comparison to hg37 4561
+
+hg38 750.0 in comparison to hg37 740
+
+hg38 312404.0 in comparison to hg37 318000
+
+hg38 77017.0 in comparison to hg37 77000
+
+hg38 3118.0 in comparison to hg37 3124
+
+hg38 2344.0 in comparison to hg37 2336
+
+hg38 8000.0 in comparison to hg37 8000
+
+hg38 68870.0 in comparison to hg37 28645
+
+hg38 10980.0 in comparison to hg37 11000
+
+hg38 5227.0 in comparison to hg37 5225
+
+hg38 6994.0 in comparison to hg37 7000
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 16275.0 in comparison to hg37 16274
+
+hg38 339413.0 in comparison to hg37 339411
+
+hg38 57567.0 in comparison to hg37 18737
+
+hg38 57567.0 in comparison to hg37 8737
+
+hg38 885.0 in comparison to hg37 894
+
+hg38 427.0 in comparison to hg37 426
+
+hg38 116667.0 in comparison to hg37 116666
+
+hg38 511.0 in comparison to hg37 463
+
+hg38 314822.0 in comparison to hg37 409447
+
+hg38 259499.0 in comparison to hg37 259498
+
+hg38 15824.0 in comparison to hg37 15825
+
+hg38 18636.0 in comparison to hg37 18650
+
+hg38 4122.0 in comparison to hg37 4137
+
+hg38 298722.0 in comparison to hg37 298721
+
+hg38 18000.0 in comparison to hg37 18000
+
+hg38 112766.0 in comparison to hg37 112765
+
+hg38 520698.0 in comparison to hg37 520697
+
+hg38 391680.0 in comparison to hg37 391679
+
+hg38 133602.0 in comparison to hg37 133601
+
+hg38 10644.0 in comparison to hg37 10643
+
+hg38 174692.0 in comparison to hg37 174715
+
+hg38 775813.0 in comparison to hg37 773100
+
+hg38 51992.0 in comparison to hg37 52000
+
+hg38 17999.0 in comparison to hg37 18000
+
+hg38 17002.0 in comparison to hg37 17000
+
+hg38 19630.0 in comparison to hg37 19630
+
+hg38 5699.0 in comparison to hg37 5700
+
+hg38 1995.0 in comparison to hg37 1996
+
+hg38 9501.0 in comparison to hg37 9500
+
+hg38 227.0 in comparison to hg37 151
+
+hg38 15125.0 in comparison to hg37 5000
+
+hg38 19407.0 in comparison to hg37 19421
+
+hg38 922647.0 in comparison to hg37 922644
+
+hg38 439225.0 in comparison to hg37 439224
+
+hg38 7979.0 in comparison to hg37 8000
+
+hg38 219064.0 in comparison to hg37 218412
+
+hg38 398.0 in comparison to hg37 392
+
+hg38 3848.0 in comparison to hg37 4183
+
+hg38 3920.0 in comparison to hg37 3907
+
+hg38 5139.0 in comparison to hg37 5119
+
+hg38 13502.0 in comparison to hg37 13500
+
+hg38 5.495868e6 in comparison to hg37 5540573
+
+hg38 328.0 in comparison to hg37 327
+
+hg38 16221.0 in comparison to hg37 16222
+
+hg38 8001.0 in comparison to hg37 8002
+
+hg38 7441.0 in comparison to hg37 7440
+
+hg38 12798.0 in comparison to hg37 12799
+
+hg38 184676.0 in comparison to hg37 184677
+
+hg38 27001.0 in comparison to hg37 27000
+
+hg38 239412.0 in comparison to hg37 239400
+
+hg38 939.0 in comparison to hg37 938
+
+hg38 354694.0 in comparison to hg37 354693
+
+hg38 414800.0 in comparison to hg37 412966
+
+hg38 176834.0 in comparison to hg37 175000
+
+hg38 101.0 in comparison to hg37 103
+
+hg38 66865.0 in comparison to hg37 66876
+
+hg38 447353.0 in comparison to hg37 229738
+
+hg38 2391.0 in comparison to hg37 2349
+
+hg38 19171.0 in comparison to hg37 19172
+
+hg38 724.0 in comparison to hg37 725
+
+hg38 71001.0 in comparison to hg37 71000
+
+hg38 3882.0 in comparison to hg37 3961
+
+hg38 854.0 in comparison to hg37 853
+
+hg38 9693.0 in comparison to hg37 9691
+
+hg38 77933.0 in comparison to hg37 77927
+
+hg38 80.0 in comparison to hg37 85
+
+hg38 57895.0 in comparison to hg37 57879
+
+hg38 171.0 in comparison to hg37 169
+
+hg38 131545.0 in comparison to hg37 131531
+
+hg38 271201.0 in comparison to hg37 271200
+
+hg38 354.0 in comparison to hg37 355
+
+hg38 12814.0 in comparison to hg37 12827
+
+hg38 11556.0 in comparison to hg37 11750
+
+hg38 24909.0 in comparison to hg37 24910
+
+hg38 61404.0 in comparison to hg37 61401
+
+hg38 3262.0 in comparison to hg37 3258
+
+hg38 2610.0 in comparison to hg37 2611
+
+hg38 16355.0 in comparison to hg37 8350
+
+hg38 2794.0 in comparison to hg37 2790
+
+hg38 11065.0 in comparison to hg37 11072
+
+hg38 16181.0 in comparison to hg37 5500
+
+hg38 63946.0 in comparison to hg37 64353
+
+hg38 96168.0 in comparison to hg37 5000
+
+hg38 413483.0 in comparison to hg37 188237
+
+hg38 45.0 in comparison to hg37 46
+
+hg38 896.0 in comparison to hg37 895
+
+hg38 34162.0 in comparison to hg37 34250
+
+hg38 9996.0 in comparison to hg37 10000
+
+hg38 91.0 in comparison to hg37 89
+
+hg38 165899.0 in comparison to hg37 165900
+
+hg38 952.0 in comparison to hg37 951
+
+hg38 160835.0 in comparison to hg37 160834
+
+hg38 4.720869e6 in comparison to hg37 4820863
+
+hg38 42824.0 in comparison to hg37 42823
+
+hg38 3027.0 in comparison to hg37 3069
+
+hg38 154464.0 in comparison to hg37 154357
+
+hg38 7860.0 in comparison to hg37 7863
+
+hg38 3142.0 in comparison to hg37 3139
+
+hg38 524045.0 in comparison to hg37 595306
+
+hg38 8723.0 in comparison to hg37 8800
+
+hg38 5997.0 in comparison to hg37 6023
+
+hg38 30.0 in comparison to hg37 54
+
+hg38 3537.0 in comparison to hg37 3537
+
+hg38 7514.0 in comparison to hg37 7540
+
+hg38 236857.0 in comparison to hg37 236858
+
+hg38 2443.0 in comparison to hg37 2442
+
+hg38 31003.0 in comparison to hg37 31002
+
+hg38 375537.0 in comparison to hg37 191467
+
+hg38 625.0 in comparison to hg37 621
+
+hg38 263.0 in comparison to hg37 174
+
+hg38 539.0 in comparison to hg37 538
+
+hg38 5748.0 in comparison to hg37 5741
+
+hg38 5418.0 in comparison to hg37 5411
+
+hg38 4131.0 in comparison to hg37 4125
+
+hg38 11864.0 in comparison to hg37 11844
+
+hg38 172.0 in comparison to hg37 184
+
+hg38 21659.0 in comparison to hg37 21000
+
+hg38 554.0 in comparison to hg37 818
+
+hg38 2780.0 in comparison to hg37 3042
+
+hg38 40840.0 in comparison to hg37 41113
+
+hg38 9724.0 in comparison to hg37 9730
+
+hg38 98460.0 in comparison to hg37 98300
+
+hg38 286.0 in comparison to hg37 370
+
+hg38 7401.0 in comparison to hg37 7400
+
+hg38 1206.0 in comparison to hg37 1207
+
+hg38 1985.0 in comparison to hg37 1984
+
+hg38 6665.0 in comparison to hg37 6000
+
+hg38 5773.0 in comparison to hg37 5774
+
+hg38 22391.0 in comparison to hg37 21862
+
+hg38 2749.0 in comparison to hg37 2748
+
+hg38 763.0 in comparison to hg37 762
+
+hg38 3936.0 in comparison to hg37 3935
+
+hg38 17908.0 in comparison to hg37 18000
+
+hg38 9455.0 in comparison to hg37 9481
+
+hg38 1250.0 in comparison to hg37 1254
+
+hg38 2178.0 in comparison to hg37 2182
+
+hg38 27998.0 in comparison to hg37 28000
+
+hg38 14998.0 in comparison to hg37 15000
+
+hg38 5341.0 in comparison to hg37 5386
+
+hg38 5363.0 in comparison to hg37 5300
+
+hg38 7023.0 in comparison to hg37 7000
+
+hg38 11033.0 in comparison to hg37 11061
+
+hg38 1022.0 in comparison to hg37 1044
+
+hg38 5641.0 in comparison to hg37 5663
+
+hg38 27935.0 in comparison to hg37 28073
+
+hg38 422.0 in comparison to hg37 409
+
+hg38 1.25233e6 in comparison to hg37 1252331
+
+hg38 657.0 in comparison to hg37 645
+
+hg38 87206.0 in comparison to hg37 87200
+
+hg38 242936.0 in comparison to hg37 111500
+
+hg38 164.0 in comparison to hg37 210
+
+hg38 64.0 in comparison to hg37 75
+
+hg38 213274.0 in comparison to hg37 378
+
+hg38 739.0 in comparison to hg37 998
+
+hg38 647.0 in comparison to hg37 562
+
+hg38 14324.0 in comparison to hg37 14342
+
+hg38 485369.0 in comparison to hg37 328928
+
+hg38 93395.0 in comparison to hg37 26500
+
+hg38 367264.0 in comparison to hg37 206516
+
+hg38 56504.0 in comparison to hg37 8750
+
+hg38 36076.0 in comparison to hg37 36150
+
+hg38 90.0 in comparison to hg37 92
+
+hg38 97073.0 in comparison to hg37 6000
+
+hg38 238898.0 in comparison to hg37 9500
+
+hg38 244400.0 in comparison to hg37 12500
+
+hg38 316.0 in comparison to hg37 313
+
+hg38 101.0 in comparison to hg37 75
+
+hg38 98.0 in comparison to hg37 72
+
+hg38 79600.0 in comparison to hg37 80000
+
+hg38 685853.0 in comparison to hg37 686284
+
+hg38 337267.0 in comparison to hg37 246197
+
+hg38 22370.0 in comparison to hg37 21841
+
+hg38 12913.0 in comparison to hg37 12356
+
+hg38 19757.0 in comparison to hg37 19232
+
+hg38 103.0 in comparison to hg37 192
+
+hg38 438.0 in comparison to hg37 482
+
+hg38 23906.0 in comparison to hg37 23907
+
+hg38 7002.0 in comparison to hg37 7000
+
+hg38 5902.0 in comparison to hg37 5900
+
+hg38 18001.0 in comparison to hg37 18000
+
+hg38 134247.0 in comparison to hg37 134246
+
+hg38 808630.0 in comparison to hg37 806796
+
+hg38 71616.0 in comparison to hg37 71000
+
+hg38 305041.0 in comparison to hg37 303207
+
+hg38 185408.0 in comparison to hg37 185836
+
+hg38 34302.0 in comparison to hg37 32468
+
+hg38 485943.0 in comparison to hg37 252100
+
+hg38 80.0 in comparison to hg37 76
+
+hg38 392.0 in comparison to hg37 313
+
+hg38 327.0 in comparison to hg37 246
+
+hg38 242.0 in comparison to hg37 161
+
+hg38 228.0 in comparison to hg37 147
+
+hg38 9566.0 in comparison to hg37 9529
+
+hg38 100228.0 in comparison to hg37 100000
+
+hg38 352409.0 in comparison to hg37 261334
+
+hg38 5665.0 in comparison to hg37 5000
+
+hg38 720982.0 in comparison to hg37 577063
+
+hg38 465.0 in comparison to hg37 435
+
+hg38 19340.0 in comparison to hg37 19346
+
+hg38 2.0692396e7 in comparison to hg37 20692408
+
+hg38 27322.0 in comparison to hg37 27300
+
+hg38 991169.0 in comparison to hg37 991170
+
+hg38 12494.0 in comparison to hg37 12495
+
+hg38 287056.0 in comparison to hg37 287055
+
+hg38 15859.0 in comparison to hg37 15858
+
+hg38 730189.0 in comparison to hg37 584574
+
+hg38 440259.0 in comparison to hg37 224304
+
+hg38 802994.0 in comparison to hg37 712529
+
+hg38 546884.0 in comparison to hg37 456221
+
+hg38 54648.0 in comparison to hg37 54212
+
+hg38 224715.0 in comparison to hg37 134119
+
+hg38 7231.0 in comparison to hg37 7232
+
+hg38 21653.0 in comparison to hg37 21651
+
+hg38 7.969462e6 in comparison to hg37 7969462
+
+hg38 64478.0 in comparison to hg37 49273
+
+hg38 414042.0 in comparison to hg37 414043
+
+hg38 53812.0 in comparison to hg37 53811
+
+hg38 270734.0 in comparison to hg37 270715
+
+hg38 7435.0 in comparison to hg37 7447
+
+hg38 130123.0 in comparison to hg37 69421
+
+hg38 130135.0 in comparison to hg37 69433
+
+hg38 16352.0 in comparison to hg37 15400
+
+hg38 60404.0 in comparison to hg37 60401
+
+hg38 205591.0 in comparison to hg37 205592
+
+hg38 8999.0 in comparison to hg37 9000
+
+hg38 71014.0 in comparison to hg37 71000
+
+hg38 2.598637e6 in comparison to hg37 2598636
+
+hg38 1.735062e6 in comparison to hg37 1735061
+
+hg38 6674.0 in comparison to hg37 6675
+
+hg38 313496.0 in comparison to hg37 313490
+
+hg38 22001.0 in comparison to hg37 22000
+
+hg38 191678.0 in comparison to hg37 191679
+
+hg38 152685.0 in comparison to hg37 152686
+
+hg38 5423.0 in comparison to hg37 5424
+
+hg38 14209.0 in comparison to hg37 14207
+
+hg38 186619.0 in comparison to hg37 186601
+
+hg38 489566.0 in comparison to hg37 489563
+
+hg38 9979.0 in comparison to hg37 9980
+
+hg38 85001.0 in comparison to hg37 85000
+
+hg38 51576.0 in comparison to hg37 51577
+
+hg38 677977.0 in comparison to hg37 677978
+
+hg38 426695.0 in comparison to hg37 426696
+
+hg38 94800.0 in comparison to hg37 94801
+
+hg38 676263.0 in comparison to hg37 676265
+
+hg38 7998.0 in comparison to hg37 8000
+
+hg38 399999.0 in comparison to hg37 400000
+
+hg38 778265.0 in comparison to hg37 778268
+
+hg38 86981.0 in comparison to hg37 86982
+
+hg38 699458.0 in comparison to hg37 590377
+
+hg38 458.0 in comparison to hg37 428
+
+hg38 326.0 in comparison to hg37 296
+
+hg38 2.042305e6 in comparison to hg37 2113623
+
+hg38 323629.0 in comparison to hg37 323628
+
+hg38 5.6828628e7 in comparison to hg37 56928640
+
+hg38 2.8535098e7 in comparison to hg37 28635091
+
+hg38 2.4897002e7 in comparison to hg37 24896677
+
+hg38 46.0 in comparison to hg37 20
+
+hg38 102.0 in comparison to hg37 76
+
+hg38 104.0 in comparison to hg37 78
+
+hg38 36.0 in comparison to hg37 38
+
+hg38 64.0 in comparison to hg37 66
+
+hg38 51.0 in comparison to hg37 41
+
+hg38 24.0 in comparison to hg37 15
+
+hg38 45.0 in comparison to hg37 32
+
+hg38 491.0 in comparison to hg37 431
+
+hg38 5153.0 in comparison to hg37 5140
+
+hg38 13619.0 in comparison to hg37 13610
+
+hg38 36391.0 in comparison to hg37 36390
+
+hg38 8002.0 in comparison to hg37 8000
+
+hg38 6499.0 in comparison to hg37 6500
+
+hg38 40862.0 in comparison to hg37 40863
+
+hg38 110000.0 in comparison to hg37 110001
+
+hg38 3588.0 in comparison to hg37 5100
+
+hg38 14023.0 in comparison to hg37 14000
+
+hg38 7099.0 in comparison to hg37 7100
+
+hg38 209.0 in comparison to hg37 179
+
+hg38 299.0 in comparison to hg37 269
+
+hg38 8310.0 in comparison to hg37 8500
+
+hg38 26305.0 in comparison to hg37 28000
+
+hg38 15326.0 in comparison to hg37 15325
+
+hg38 17528.0 in comparison to hg37 17500
+
+hg38 5171.0 in comparison to hg37 5250
+
+hg38 2.63264e6 in comparison to hg37 59123
+
+hg38 4418.0 in comparison to hg37 4417
+
+hg38 41794.0 in comparison to hg37 41793
+
+hg38 377427.0 in comparison to hg37 377426
+
+hg38 10382.0 in comparison to hg37 10350
+
+hg38 12966.0 in comparison to hg37 13000
+
+hg38 188983.0 in comparison to hg37 188982
+
+hg38 75311.0 in comparison to hg37 75312
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 242250.0 in comparison to hg37 242249
+
+hg38 27002.0 in comparison to hg37 23000
+
+hg38 21715.0 in comparison to hg37 21750
+
+hg38 1.810898e6 in comparison to hg37 2749532
+
+hg38 26135.0 in comparison to hg37 25813
+
+hg38 13502.0 in comparison to hg37 13508
+
+hg38 136527.0 in comparison to hg37 136467
+
+hg38 22279.0 in comparison to hg37 22250
+
+hg38 28175.0 in comparison to hg37 28300
+
+hg38 129552.0 in comparison to hg37 125550
+
+hg38 293493.0 in comparison to hg37 293492
+
+hg38 759173.0 in comparison to hg37 759172
+
+hg38 32543.0 in comparison to hg37 32586
+
+hg38 736.0 in comparison to hg37 738
+
+hg38 117605.0 in comparison to hg37 144329
+
+hg38 61054.0 in comparison to hg37 61052
+
+hg38 15999.0 in comparison to hg37 16002
+
+hg38 7937.0 in comparison to hg37 7925
+
+hg38 107758.0 in comparison to hg37 103756
+
+hg38 7866.0 in comparison to hg37 8000
+
+hg38 372968.0 in comparison to hg37 372969
+
+hg38 248001.0 in comparison to hg37 248000
+
+hg38 2.628342e6 in comparison to hg37 5250
+
+hg38 2.628342e6 in comparison to hg37 7550
+
+hg38 13008.0 in comparison to hg37 13000
+
+hg38 2.628342e6 in comparison to hg37 28600
+
+hg38 5000.0 in comparison to hg37 5000
+
+hg38 2.639303e6 in comparison to hg37 11000
+
+hg38 2.640482e6 in comparison to hg37 12200
+
+hg38 6424.0 in comparison to hg37 6100
+
+hg38 2.674303e6 in comparison to hg37 46000
+
+hg38 8345.0 in comparison to hg37 5000
+
+hg38 5543.0 in comparison to hg37 5500
+
+hg38 10846.0 in comparison to hg37 7500
+
+hg38 31724.0 in comparison to hg37 22000
+
+hg38 2.636103e6 in comparison to hg37 9000
+
+hg38 128211.0 in comparison to hg37 1737932
+
+hg38 44344.0 in comparison to hg37 44346
+
+hg38 6838.0 in comparison to hg37 6800
+
+hg38 10886.0 in comparison to hg37 10875
+
+hg38 19614.0 in comparison to hg37 19575
+
+hg38 9762.0 in comparison to hg37 10000
+
+hg38 24111.0 in comparison to hg37 24100
+
+hg38 19410.0 in comparison to hg37 19450
+
+hg38 873819.0 in comparison to hg37 873818
+
+hg38 3804.0 in comparison to hg37 3801
+
+hg38 6006.0 in comparison to hg37 6000
+
+hg38 18584.0 in comparison to hg37 18451
+
+hg38 13327.0 in comparison to hg37 13200
+
+hg38 15776.0 in comparison to hg37 16000
+
+hg38 16122.0 in comparison to hg37 16000
+
+hg38 8500.0 in comparison to hg37 8500
+
+hg38 20080.0 in comparison to hg37 20100
+
+hg38 6984.0 in comparison to hg37 7000
+
+hg38 5491.0 in comparison to hg37 5500
+
+hg38 65479.0 in comparison to hg37 65376
+
+hg38 6273.0 in comparison to hg37 6300
+
+hg38 11276.0 in comparison to hg37 11525
+
+hg38 23718.0 in comparison to hg37 23601
+
+hg38 12104.0 in comparison to hg37 12086
+
+hg38 5071.0 in comparison to hg37 5050
+
+hg38 3.875511e6 in comparison to hg37 3530738
+
+hg38 4999.0 in comparison to hg37 5000
+
+hg38 177.0 in comparison to hg37 117
+
+hg38 13733.0 in comparison to hg37 13752
+
+hg38 405.0 in comparison to hg37 407
+
+hg38 5918.0 in comparison to hg37 5829
+
+hg38 5876.0 in comparison to hg37 5880
+
+hg38 34001.0 in comparison to hg37 34000
+
+hg38 22872.0 in comparison to hg37 23000
+
+hg38 11060.0 in comparison to hg37 11000
+
+hg38 70112.0 in comparison to hg37 70200
+
+hg38 31055.0 in comparison to hg37 31000
+
+hg38 311.0 in comparison to hg37 341
+
+hg38 3132.0 in comparison to hg37 3161
+
+hg38 5333.0 in comparison to hg37 5000
+
+hg38 5308.0 in comparison to hg37 5000
+
+hg38 2827.0 in comparison to hg37 2813
+
+hg38 43478.0 in comparison to hg37 43074
+
+hg38 473296.0 in comparison to hg37 401610
+
+hg38 5098.0 in comparison to hg37 5100
+
+hg38 11580.0 in comparison to hg37 11550
+
+hg38 6954.0 in comparison to hg37 6979
+
+hg38 19560.0 in comparison to hg37 19600
+
+hg38 342.0 in comparison to hg37 339
+
+hg38 14776.0 in comparison to hg37 15000
+
+hg38 4996.0 in comparison to hg37 5000
+
+hg38 144.0 in comparison to hg37 59
+
+hg38 264790.0 in comparison to hg37 264789
+
+hg38 13575.0 in comparison to hg37 13600
+
+hg38 5264.0 in comparison to hg37 5454
+
+hg38 4901.0 in comparison to hg37 5000
+
+hg38 4418.0 in comparison to hg37 4417
+
+hg38 9924.0 in comparison to hg37 9950
+
+hg38 28979.0 in comparison to hg37 29000
+
+hg38 87506.0 in comparison to hg37 87535
+
+hg38 483600.0 in comparison to hg37 364788
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 3497.0 in comparison to hg37 3498
+
+hg38 957990.0 in comparison to hg37 960596
+
+hg38 874425.0 in comparison to hg37 874426
+
+hg38 4.6014322e7 in comparison to hg37 46291253
+
+hg38 43455.0 in comparison to hg37 43400
+
+hg38 1.1708788e7 in comparison to hg37 11708787
+
+hg38 25224.0 in comparison to hg37 22000
+
+hg38 5010.0 in comparison to hg37 5000
+
+hg38 1.5556585e7 in comparison to hg37 15556586
+
+hg38 2.1499275e7 in comparison to hg37 22970107
+
+hg38 3294.0 in comparison to hg37 3290
+
+hg38 29.0 in comparison to hg37 45
+
+hg38 29.0 in comparison to hg37 45
+
+hg38 34.0 in comparison to hg37 50
+
+hg38 5551.0 in comparison to hg37 5550
+
+hg38 798797.0 in comparison to hg37 18911
+
+hg38 2955.0 in comparison to hg37 2963
+
+hg38 54677.0 in comparison to hg37 54700
+
+hg38 814144.0 in comparison to hg37 814143
+
+hg38 35983.0 in comparison to hg37 36000
+
+hg38 3.14859e6 in comparison to hg37 3148591
+
+hg38 52423.0 in comparison to hg37 52424
+
+hg38 261246.0 in comparison to hg37 261246
+
+hg38 122171.0 in comparison to hg37 122168
+
+hg38 11004.0 in comparison to hg37 11000
+
+hg38 670999.0 in comparison to hg37 671000
+
+hg38 491.0 in comparison to hg37 491
+
+hg38 76593.0 in comparison to hg37 76633
+
+hg38 1.03306e6 in comparison to hg37 1142755
+
+hg38 499604.0 in comparison to hg37 514845
+
+hg38 2955.0 in comparison to hg37 2963
+
+hg38 25325.0 in comparison to hg37 25325
+
+hg38 278000.0 in comparison to hg37 278000
+
+hg38 114779.0 in comparison to hg37 114783
+
+hg38 9847.0 in comparison to hg37 9850
+
+hg38 92105.0 in comparison to hg37 92121
+
+hg38 9981.0 in comparison to hg37 10000
+
+hg38 20915.0 in comparison to hg37 20983
+
+hg38 22238.0 in comparison to hg37 22269
+
+hg38 3204.0 in comparison to hg37 3203
+
+hg38 3518.0 in comparison to hg37 3526
+
+hg38 63864.0 in comparison to hg37 63888
+
+hg38 63864.0 in comparison to hg37 63888
+
+hg38 15586.0 in comparison to hg37 15594
+
+hg38 14249.0 in comparison to hg37 14263
+
+hg38 11559.0 in comparison to hg37 11556
+
+hg38 163225.0 in comparison to hg37 163231
+
+hg38 28993.0 in comparison to hg37 29000
+
+hg38 5704.0 in comparison to hg37 5700
+
+hg38 29279.0 in comparison to hg37 29300
+
+hg38 2355.0 in comparison to hg37 2354
+
+hg38 1.102818e6 in comparison to hg37 32550
+
+hg38 34783.0 in comparison to hg37 34784
+
+hg38 121.0 in comparison to hg37 449
+
+hg38 5299.0 in comparison to hg37 5300
+
+hg38 31801.0 in comparison to hg37 31805
+
+hg38 16997.0 in comparison to hg37 17000
+
+hg38 6149.0 in comparison to hg37 6150
+
+hg38 9004.0 in comparison to hg37 9000
+
+hg38 913.0 in comparison to hg37 904
+
+hg38 213002.0 in comparison to hg37 213000
+
+hg38 796906.0 in comparison to hg37 796904
+
+hg38 321729.0 in comparison to hg37 321500
+
+hg38 71026.0 in comparison to hg37 71000
+
+hg38 8352.0 in comparison to hg37 8350
+
+hg38 30595.0 in comparison to hg37 30550
+
+hg38 737584.0 in comparison to hg37 52200
+
+hg38 6509.0 in comparison to hg37 6500
+
+hg38 712604.0 in comparison to hg37 6500
+
+hg38 716611.0 in comparison to hg37 10500
+
+hg38 1.428441e6 in comparison to hg37 103209
+
+hg38 711093.0 in comparison to hg37 5000
+
+hg38 984341.0 in comparison to hg37 126000
+
+hg38 735358.0 in comparison to hg37 29250
+
+hg38 1.07646982e8 in comparison to hg37 109364778
+
+hg38 4977.0 in comparison to hg37 5000
+
+hg38 8769.0 in comparison to hg37 8767
+
+hg38 123642.0 in comparison to hg37 123643
+
+hg38 14069.0 in comparison to hg37 14068
+
+hg38 26210.0 in comparison to hg37 26211
+
+hg38 14610.0 in comparison to hg37 14609
+
+hg38 1.413575e6 in comparison to hg37 1413326
+
+hg38 4903.0 in comparison to hg37 4899
+
+hg38 79561.0 in comparison to hg37 79559
+
+hg38 5912.0 in comparison to hg37 5920
+
+hg38 2.558964e6 in comparison to hg37 2488018
+
+hg38 74026.0 in comparison to hg37 74027
+
+hg38 7394.0 in comparison to hg37 7383
+
+hg38 1630.0 in comparison to hg37 1631
+
+hg38 7902.0 in comparison to hg37 7905
+
+hg38 687.0 in comparison to hg37 688
+
+hg38 2402.0 in comparison to hg37 2382
+
+hg38 824.0 in comparison to hg37 848
+
+hg38 221277.0 in comparison to hg37 221278
+
+hg38 32436.0 in comparison to hg37 32485
+
+hg38 4140.0 in comparison to hg37 4135
+
+hg38 163001.0 in comparison to hg37 163000
+
+hg38 45299.0 in comparison to hg37 45300
+
+hg38 126736.0 in comparison to hg37 126737
+
+hg38 2698.0 in comparison to hg37 2711
+
+hg38 7019.0 in comparison to hg37 7025
+
+hg38 13047.0 in comparison to hg37 13050
+
+hg38 6527.0 in comparison to hg37 6545
+
+hg38 29379.0 in comparison to hg37 29400
+
+hg38 8968.0 in comparison to hg37 8959
+
+hg38 6960.0 in comparison to hg37 6950
+
+hg38 179450.0 in comparison to hg37 179456
+
+hg38 73054.0 in comparison to hg37 73056
+
+hg38 6660.0 in comparison to hg37 6656
+
+hg38 21378.0 in comparison to hg37 20985
+
+hg38 6035.0 in comparison to hg37 6019
+
+hg38 1142.0 in comparison to hg37 1144
+
+hg38 34077.0 in comparison to hg37 33759
+
+hg38 4357.0 in comparison to hg37 4343
+
+hg38 39008.0 in comparison to hg37 38986
+
+hg38 4210.0 in comparison to hg37 4215
+
+hg38 20861.0 in comparison to hg37 20877
+
+hg38 1006.0 in comparison to hg37 1009
+
+hg38 1390.0 in comparison to hg37 1408
+
+hg38 16009.0 in comparison to hg37 16010
+
+hg38 6482.0 in comparison to hg37 6500
+
+hg38 8702.0 in comparison to hg37 8700
+
+hg38 7578.0 in comparison to hg37 8000
+
+hg38 1369.0 in comparison to hg37 1368
+
+hg38 54.0 in comparison to hg37 53
+
+hg38 747.0 in comparison to hg37 783
+
+hg38 4.6831753e7 in comparison to hg37 48096062
+
+hg38 1.00969165e8 in comparison to hg37 102686924
+
+hg38 1.07195401e8 in comparison to hg37 108912949
+
+hg38 1.05413694e8 in comparison to hg37 107131241
+
+hg38 1.00118299e8 in comparison to hg37 101836094
+
+hg38 1.04173864e8 in comparison to hg37 105891660
+
+hg38 1.05623619e8 in comparison to hg37 107341416
+
+hg38 2.524812e6 in comparison to hg37 2524813
+
+hg38 971.0 in comparison to hg37 961
+
+hg38 126678.0 in comparison to hg37 126676
+
+hg38 8999.0 in comparison to hg37 9000
+
+hg38 2729.0 in comparison to hg37 2732
+
+hg38 6258.0 in comparison to hg37 6277
+
+hg38 19130.0 in comparison to hg37 19150
+
+hg38 9397.0 in comparison to hg37 9400
+
+hg38 5097.0 in comparison to hg37 5100
+
+hg38 13499.0 in comparison to hg37 13500
+
+hg38 12518.0 in comparison to hg37 12525
+
+hg38 5970.0 in comparison to hg37 6000
+
+hg38 269.0 in comparison to hg37 266
+
+hg38 6596.0 in comparison to hg37 6600
+
+hg38 5557.0 in comparison to hg37 5550
+
+hg38 7053.0 in comparison to hg37 7050
+
+hg38 805842.0 in comparison to hg37 61000
+
+hg38 8726.0 in comparison to hg37 5500
+
+hg38 13168.0 in comparison to hg37 13200
+
+hg38 5084.0 in comparison to hg37 5100
+
+hg38 5102.0 in comparison to hg37 5100
+
+hg38 30754.0 in comparison to hg37 30752
+
+hg38 146620.0 in comparison to hg37 146619
+
+hg38 409501.0 in comparison to hg37 409500
+
+hg38 89769.0 in comparison to hg37 89768
+
+hg38 57084.0 in comparison to hg37 57084
+
+hg38 298011.0 in comparison to hg37 297980
+
+hg38 6299.0 in comparison to hg37 6300
+
+hg38 555026.0 in comparison to hg37 555024
+
+hg38 435998.0 in comparison to hg37 435997
+
+hg38 79695.0 in comparison to hg37 79694
+
+hg38 410694.0 in comparison to hg37 410695
+
+hg38 168252.0 in comparison to hg37 168253
+
+hg38 253245.0 in comparison to hg37 253246
+
+hg38 18639.0 in comparison to hg37 18640
+
+hg38 148840.0 in comparison to hg37 148841
+
+hg38 196381.0 in comparison to hg37 134000
+
+hg38 8494.0 in comparison to hg37 8500
+
+hg38 10132.0 in comparison to hg37 10132
+
+hg38 152725.0 in comparison to hg37 152733
+
+hg38 2628.0 in comparison to hg37 2633
+
+hg38 7825.0 in comparison to hg37 7833
+
+hg38 1570.0 in comparison to hg37 1576
+
+hg38 154390.0 in comparison to hg37 154389
+
+hg38 35863.0 in comparison to hg37 35862
+
+hg38 5590.0 in comparison to hg37 5589
+
+hg38 743.0 in comparison to hg37 743
+
+hg38 444.0 in comparison to hg37 439
+
+hg38 2278.0 in comparison to hg37 2277
+
+hg38 35174.0 in comparison to hg37 35175
+
+hg38 82404.0 in comparison to hg37 82403
+
+hg38 419392.0 in comparison to hg37 419391
+
+hg38 48227.0 in comparison to hg37 48226
+
+hg38 151.0 in comparison to hg37 147
+
+hg38 9028.0 in comparison to hg37 9000
+
+hg38 27501.0 in comparison to hg37 27500
+
+hg38 39001.0 in comparison to hg37 39000
+
+hg38 66543.0 in comparison to hg37 66551
+
+hg38 1875.0 in comparison to hg37 1883
+
+hg38 7750.0 in comparison to hg37 7750
+
+hg38 24988.0 in comparison to hg37 25000
+
+hg38 73360.0 in comparison to hg37 11000
+
+hg38 74.0 in comparison to hg37 90
+
+hg38 7999.0 in comparison to hg37 8000
+
+hg38 76.0 in comparison to hg37 72
+
+hg38 844.0 in comparison to hg37 846
+
+hg38 481690.0 in comparison to hg37 481691
+
+hg38 23960.0 in comparison to hg37 23959
+
+hg38 23051.0 in comparison to hg37 23050
+
+hg38 743655.0 in comparison to hg37 743654
+
+hg38 50504.0 in comparison to hg37 50505
+
+hg38 75576.0 in comparison to hg37 75577
+
+hg38 91010.0 in comparison to hg37 91000
+
+hg38 29001.0 in comparison to hg37 29000
+
+hg38 132180.0 in comparison to hg37 132180
+
+hg38 1.311318e6 in comparison to hg37 1311316
+
+hg38 220.0 in comparison to hg37 190
+
+hg38 306.0 in comparison to hg37 254
+
+hg38 7.18397e6 in comparison to hg37 7206092
+
+hg38 67133.0 in comparison to hg37 67132
+
+hg38 28963.0 in comparison to hg37 28962
+
+hg38 86378.0 in comparison to hg37 86377
+
+hg38 134436.0 in comparison to hg37 134435
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 650.0 in comparison to hg37 583
+
+hg38 63.0 in comparison to hg37 79
+
+hg38 114.0 in comparison to hg37 107
+
+hg38 108.0 in comparison to hg37 117
+
+hg38 14208.0 in comparison to hg37 12000
+
+hg38 31563.0 in comparison to hg37 31564
+
+hg38 177.0 in comparison to hg37 173
+
+hg38 94136.0 in comparison to hg37 94138
+
+hg38 130.0 in comparison to hg37 69
+
+hg38 7.0 in comparison to hg37 6
+
+hg38 30.0 in comparison to hg37 32
+
+hg38 64.0 in comparison to hg37 44
+
+hg38 242866.0 in comparison to hg37 242867
+
+hg38 37502.0 in comparison to hg37 37500
+
+hg38 81694.0 in comparison to hg37 81693
+
+hg38 15012.0 in comparison to hg37 15011
+
+hg38 12215.0 in comparison to hg37 12214
+
+hg38 4786.0 in comparison to hg37 4787
+
+hg38 21604.0 in comparison to hg37 21603
+
+hg38 2157.0 in comparison to hg37 2156
+
+hg38 447.0 in comparison to hg37 446
+
+hg38 5226.0 in comparison to hg37 5226
+
+hg38 33146.0 in comparison to hg37 33179
+
+hg38 10302.0 in comparison to hg37 10300
+
+hg38 864.0 in comparison to hg37 855
+
+hg38 10950.0 in comparison to hg37 11000
+
+hg38 9752.0 in comparison to hg37 9750
+
+hg38 4999.0 in comparison to hg37 5000
+
+hg38 17062.0 in comparison to hg37 15000
+
+hg38 653.0 in comparison to hg37 625
+
+hg38 12030.0 in comparison to hg37 8000
+
+hg38 4973.0 in comparison to hg37 943
+
+hg38 28281.0 in comparison to hg37 28000
+
+hg38 16955.0 in comparison to hg37 16379
+
+hg38 776.0 in comparison to hg37 664
+
+hg38 974.0 in comparison to hg37 718
+
+hg38 16095.0 in comparison to hg37 16100
+
+hg38 225283.0 in comparison to hg37 225284
+
+hg38 67209.0 in comparison to hg37 67210
+
+hg38 508.0 in comparison to hg37 511
+
+hg38 707.0 in comparison to hg37 708
+
+hg38 32847.0 in comparison to hg37 32846
+
+hg38 53896.0 in comparison to hg37 53895
+
+hg38 5.103874e7 in comparison to hg37 50728235
+
+hg38 5.1038618e7 in comparison to hg37 50728113
+
+hg38 5.119821e7 in comparison to hg37 50887707
+
+hg38 720457.0 in comparison to hg37 658076
+
+hg38 47085.0 in comparison to hg37 47096
+
+hg38 215719.0 in comparison to hg37 215720
+
+hg38 4279.0 in comparison to hg37 4278
+
+hg38 295225.0 in comparison to hg37 295224
+
+hg38 74889.0 in comparison to hg37 74888
+
+hg38 223339.0 in comparison to hg37 223340
+
+hg38 33170.0 in comparison to hg37 33171
+
+hg38 277.0 in comparison to hg37 224
+
+hg38 84463.0 in comparison to hg37 84462
+
+hg38 18751.0 in comparison to hg37 18750
+
+hg38 105693.0 in comparison to hg37 105693
+
+hg38 52244.0 in comparison to hg37 52244
+
+hg38 3929.0 in comparison to hg37 3930
+
+hg38 76244.0 in comparison to hg37 76245
+
+hg38 631832.0 in comparison to hg37 631561
+
+hg38 60130.0 in comparison to hg37 59858
+
+hg38 234264.0 in comparison to hg37 234265
+
+hg38 96187.0 in comparison to hg37 96188
+
+hg38 134953.0 in comparison to hg37 134954
+
+hg38 107477.0 in comparison to hg37 107477
+
+hg38 186879.0 in comparison to hg37 186881
+
+hg38 3245.0 in comparison to hg37 3246
+
+hg38 52860.0 in comparison to hg37 52859
+
+hg38 21719.0 in comparison to hg37 21700
+
+hg38 174358.0 in comparison to hg37 174357
+
+hg38 9.4764509e7 in comparison to hg37 94613671
+
+hg38 212381.0 in comparison to hg37 212380
+
+hg38 6193.0 in comparison to hg37 6192
+
+hg38 83.0 in comparison to hg37 82
+
+hg38 1.137389e6 in comparison to hg37 1137388
+
+hg38 155240.0 in comparison to hg37 155239
+
+hg38 2385.0 in comparison to hg37 3999
+
+hg38 2369.0 in comparison to hg37 3983
+
+hg38 1979.0 in comparison to hg37 5299
+
+hg38 33999.0 in comparison to hg37 34000
+
+hg38 34218.0 in comparison to hg37 34217
+
+hg38 13281.0 in comparison to hg37 13282
+
+hg38 133203.0 in comparison to hg37 133202
+
+hg38 39162.0 in comparison to hg37 39163
+
+hg38 223642.0 in comparison to hg37 223641
+
+hg38 11321.0 in comparison to hg37 11320
+
+hg38 300464.0 in comparison to hg37 300463
+
+hg38 397822.0 in comparison to hg37 397802
+
+hg38 111464.0 in comparison to hg37 111463
+
+hg38 73173.0 in comparison to hg37 73175
+
+hg38 4.0095193e7 in comparison to hg37 40139218
+
+hg38 6.4156265e7 in comparison to hg37 64397109
+
+hg38 6.609006e6 in comparison to hg37 6609024
+
+hg38 1.5663911e7 in comparison to hg37 15707679
+
+hg38 5.8233482e7 in comparison to hg37 58233476
+
+hg38 4.1692905e7 in comparison to hg37 41692902
+
+hg38 1979.0 in comparison to hg37 5091
+
+hg38 17361.0 in comparison to hg37 16573
+
+hg38 31500.0 in comparison to hg37 31501
+
+hg38 633102.0 in comparison to hg37 633103
+
+hg38 407274.0 in comparison to hg37 407275
+
+hg38 3.698757e6 in comparison to hg37 3698754
+
+hg38 345166.0 in comparison to hg37 345146
+
+hg38 161421.0 in comparison to hg37 161420
+
+hg38 51511.0 in comparison to hg37 51512
+
+hg38 740.0 in comparison to hg37 741
+
+hg38 136560.0 in comparison to hg37 136559
+
+hg38 2.269824e6 in comparison to hg37 2269823
+
+hg38 31385.0 in comparison to hg37 31384
+
+hg38 87001.0 in comparison to hg37 87000
+
+hg38 1.970461e6 in comparison to hg37 1970467
+
+hg38 1.344115e6 in comparison to hg37 1344114
+
+hg38 110225.0 in comparison to hg37 110224
+
+hg38 23047.0 in comparison to hg37 23046
+
+hg38 1.37262e6 in comparison to hg37 1372619
+
+hg38 44001.0 in comparison to hg37 44000
+
+hg38 14550.0 in comparison to hg37 14550
+
+hg38 4855.0 in comparison to hg37 920
+
+hg38 36461.0 in comparison to hg37 32526
+
+hg38 396289.0 in comparison to hg37 396290
+
+hg38 1.229523e6 in comparison to hg37 1278182
+
+hg38 2.137329e6 in comparison to hg37 2137328
+
+hg38 288973.0 in comparison to hg37 288973
+
+hg38 339999.0 in comparison to hg37 340000
+
+hg38 1.238117e6 in comparison to hg37 1238114
+
+hg38 568646.0 in comparison to hg37 568645
+
+hg38 12635.0 in comparison to hg37 8700
+
+hg38 84525.0 in comparison to hg37 84525
+
+hg38 53176.0 in comparison to hg37 53175
+
+hg38 346001.0 in comparison to hg37 346000
+
+hg38 13001.0 in comparison to hg37 13000
+
+hg38 15351.0 in comparison to hg37 15350
+
+hg38 18909.0 in comparison to hg37 18908
+
+hg38 534301.0 in comparison to hg37 534300
+
+hg38 57952.0 in comparison to hg37 57951
+
+hg38 76903.0 in comparison to hg37 76902
+
+hg38 3822.0 in comparison to hg37 3823
+
+hg38 614900.0 in comparison to hg37 693020
+
+hg38 742.0 in comparison to hg37 738
+
+hg38 14759.0 in comparison to hg37 14758
+
+hg38 128433.0 in comparison to hg37 128434
+
+hg38 145125.0 in comparison to hg37 145124
+
+hg38 842.0 in comparison to hg37 841
+
+hg38 314430.0 in comparison to hg37 314429
+
+hg38 55701.0 in comparison to hg37 55700
+
+hg38 1.157001e6 in comparison to hg37 1157000
+
+hg38 353674.0 in comparison to hg37 353673
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 81603.0 in comparison to hg37 81604
+
+hg38 157594.0 in comparison to hg37 157593
+
+hg38 428169.0 in comparison to hg37 428168
+
+hg38 77486.0 in comparison to hg37 77500
+
+hg38 60550.0 in comparison to hg37 60533
+
+hg38 8990.0 in comparison to hg37 9000
+
+hg38 4984.0 in comparison to hg37 5000
+
+hg38 140139.0 in comparison to hg37 140228
+
+hg38 503.0 in comparison to hg37 563
+
+hg38 252.0 in comparison to hg37 312
+
+hg38 333572.0 in comparison to hg37 285782
+
+hg38 13751.0 in comparison to hg37 13750
+
+hg38 174833.0 in comparison to hg37 127060
+
+hg38 89110.0 in comparison to hg37 89114
+
+hg38 13063.0 in comparison to hg37 13000
+
+hg38 11058.0 in comparison to hg37 11050
+
+hg38 3808.0 in comparison to hg37 3810
+
+hg38 37224.0 in comparison to hg37 37200
+
+hg38 644.0 in comparison to hg37 674
+
+hg38 646.0 in comparison to hg37 697
+
+hg38 885430.0 in comparison to hg37 381015
+
+hg38 39034.0 in comparison to hg37 39036
+
+hg38 28355.0 in comparison to hg37 28356
+
+hg38 873726.0 in comparison to hg37 527349
+
+hg38 46303.0 in comparison to hg37 46300
+
+hg38 18907.0 in comparison to hg37 18908
+
+hg38 54770.0 in comparison to hg37 55000
+
+hg38 55213.0 in comparison to hg37 55500
+
+hg38 8002.0 in comparison to hg37 8000
+
+hg38 13644.0 in comparison to hg37 13650
+
+hg38 56.0 in comparison to hg37 72
+
+hg38 10595.0 in comparison to hg37 10300
+
+hg38 64787.0 in comparison to hg37 53287
+
+hg38 6010.0 in comparison to hg37 6000
+
+hg38 730463.0 in comparison to hg37 93918
+
+hg38 586218.0 in comparison to hg37 584870
+
+hg38 186110.0 in comparison to hg37 185776
+
+hg38 27420.0 in comparison to hg37 27400
+
+hg38 31476.0 in comparison to hg37 31458
+
+hg38 3005.0 in comparison to hg37 3004
+
+hg38 506495.0 in comparison to hg37 458137
+
+hg38 7301.0 in comparison to hg37 7300
+
+hg38 157289.0 in comparison to hg37 156600
+
+hg38 25830.0 in comparison to hg37 25488
+
+hg38 16329.0 in comparison to hg37 16000
+
+hg38 6601.0 in comparison to hg37 6601
+
+hg38 35017.0 in comparison to hg37 35000
+
+hg38 9673.0 in comparison to hg37 9674
+
+hg38 235291.0 in comparison to hg37 187492
+
+hg38 9547.0 in comparison to hg37 9516
+
+hg38 7049.0 in comparison to hg37 7050
+
+hg38 12022.0 in comparison to hg37 12000
+
+hg38 2626.0 in comparison to hg37 2625
+
+hg38 2456.0 in comparison to hg37 2819
+
+hg38 3339.0 in comparison to hg37 3341
+
+hg38 2596.0 in comparison to hg37 2593
+
+hg38 4697.0 in comparison to hg37 4698
+
+hg38 25825.0 in comparison to hg37 25800
+
+hg38 390.0 in comparison to hg37 386
+
+hg38 70.0 in comparison to hg37 74
+
+hg38 2551.0 in comparison to hg37 2552
+
+hg38 280.0 in comparison to hg37 281
+
+hg38 538.0 in comparison to hg37 536
+
+hg38 5133.0 in comparison to hg37 5135
+
+hg38 5942.0 in comparison to hg37 5940
+
+hg38 103.0 in comparison to hg37 108
+
+hg38 889.0 in comparison to hg37 888
+
+hg38 32229.0 in comparison to hg37 32224
+
+hg38 106049.0 in comparison to hg37 106000
+
+hg38 226.0 in comparison to hg37 223
+
+hg38 285.0 in comparison to hg37 286
+
+hg38 570.0 in comparison to hg37 574
+
+hg38 16551.0 in comparison to hg37 16558
+
+hg38 81380.0 in comparison to hg37 81412
+
+hg38 397.0 in comparison to hg37 398
+
+hg38 3000.0 in comparison to hg37 3004
+
+hg38 504.0 in comparison to hg37 505
+
+hg38 12925.0 in comparison to hg37 12936
+
+hg38 20004.0 in comparison to hg37 20000
+
+hg38 14911.0 in comparison to hg37 14909
+
+hg38 62380.0 in comparison to hg37 61612
+
+hg38 11868.0 in comparison to hg37 11869
+
+hg38 571.0 in comparison to hg37 570
+
+hg38 70133.0 in comparison to hg37 23125
+
+hg38 29.0 in comparison to hg37 57
+
+hg38 394.0 in comparison to hg37 424
+
+hg38 59.0 in comparison to hg37 91
+
+hg38 881.0 in comparison to hg37 911
+
+hg38 593.0 in comparison to hg37 569
+
+hg38 802.0 in comparison to hg37 778
+
+hg38 5214.0 in comparison to hg37 5241
+
+hg38 9489.0 in comparison to hg37 9490
+
+hg38 497.0 in comparison to hg37 495
+
+hg38 756.0 in comparison to hg37 748
+
+hg38 634.0 in comparison to hg37 633
+
+hg38 3970.0 in comparison to hg37 4044
+
+hg38 4170.0 in comparison to hg37 4153
+
+hg38 5017.0 in comparison to hg37 5000
+
+hg38 621.0 in comparison to hg37 625
+
+hg38 5549.0 in comparison to hg37 5550
+
+hg38 16006.0 in comparison to hg37 16000
+
+hg38 2250.0 in comparison to hg37 476
+
+hg38 123.0 in comparison to hg37 127
+
+hg38 3979.0 in comparison to hg37 3973
+
+hg38 724.0 in comparison to hg37 723
+
+hg38 2401.0 in comparison to hg37 2404
+
+hg38 1755.0 in comparison to hg37 1748
+
+hg38 126939.0 in comparison to hg37 127500
+
+hg38 8922.0 in comparison to hg37 8900
+
+hg38 4605.0 in comparison to hg37 4603
+
+hg38 9392.0 in comparison to hg37 9390
+
+hg38 5567.0 in comparison to hg37 5565
+
+hg38 358204.0 in comparison to hg37 359284
+
+hg38 117.0 in comparison to hg37 82
+
+hg38 8003.0 in comparison to hg37 8000
+
+hg38 574.0 in comparison to hg37 573
+
+hg38 1675.0 in comparison to hg37 1672
+
+hg38 1574.0 in comparison to hg37 1575
+
+hg38 2588.0 in comparison to hg37 2586
+
+hg38 523477.0 in comparison to hg37 524236
+
+hg38 44149.0 in comparison to hg37 44190
+
+hg38 610948.0 in comparison to hg37 611720
+
+hg38 5247.0 in comparison to hg37 5248
+
+hg38 5109.0 in comparison to hg37 5100
+
+hg38 759.0 in comparison to hg37 762
+
+hg38 108718.0 in comparison to hg37 108796
+
+hg38 20583.0 in comparison to hg37 20231
+
+hg38 22555.0 in comparison to hg37 22554
+
+hg38 31988.0 in comparison to hg37 31989
+
+hg38 865936.0 in comparison to hg37 177684
+
+hg38 874358.0 in comparison to hg37 228516
+
+hg38 874354.0 in comparison to hg37 605355
+
+hg38 15584.0 in comparison to hg37 15232
+
+hg38 864913.0 in comparison to hg37 421438
+
+hg38 849253.0 in comparison to hg37 284900
+
+hg38 12441.0 in comparison to hg37 12436
+
+hg38 148.0 in comparison to hg37 146
+
+hg38 464.0 in comparison to hg37 584
+
+hg38 96.0 in comparison to hg37 98
+
+hg38 238.0 in comparison to hg37 159
+
+hg38 9582.0 in comparison to hg37 9583
+
+hg38 32515.0 in comparison to hg37 32163
+
+hg38 900800.0 in comparison to hg37 220046
+
+hg38 121948.0 in comparison to hg37 121825
+
+hg38 10649.0 in comparison to hg37 10650
+
+hg38 101341.0 in comparison to hg37 53562
+
+hg38 130222.0 in comparison to hg37 83190
+
+hg38 7002.0 in comparison to hg37 7000
+
+hg38 67507.0 in comparison to hg37 67483
+
+hg38 19500.0 in comparison to hg37 19500
+
+hg38 50610.0 in comparison to hg37 50589
+
+hg38 68280.0 in comparison to hg37 68236
+
+hg38 48438.0 in comparison to hg37 48416
+
+hg38 5101.0 in comparison to hg37 5100
+
+hg38 26876.0 in comparison to hg37 26876
+
+hg38 7000.0 in comparison to hg37 7000
+
+hg38 6004.0 in comparison to hg37 6000
+
+hg38 8421.0 in comparison to hg37 8400
+
+hg38 235.0 in comparison to hg37 234
+
+hg38 5718.0 in comparison to hg37 5400
+
+hg38 331.0 in comparison to hg37 329
+
+hg38 730463.0 in comparison to hg37 54806
+
+hg38 6483.0 in comparison to hg37 6481
+
+hg38 46284.0 in comparison to hg37 45945
+
+hg38 420.0 in comparison to hg37 412
+
+hg38 7150.0 in comparison to hg37 7150
+
+hg38 19998.0 in comparison to hg37 20000
+
+hg38 43168.0 in comparison to hg37 43150
+
+hg38 14022.0 in comparison to hg37 14000
+
+hg38 6085.0 in comparison to hg37 6065
+
+hg38 5701.0 in comparison to hg37 5700
+
+hg38 993.0 in comparison to hg37 994
+
+hg38 504.0 in comparison to hg37 505
+
+hg38 577.0 in comparison to hg37 578
+
+hg38 48258.0 in comparison to hg37 48275
+
+hg38 584.0 in comparison to hg37 592
+
+hg38 736.0 in comparison to hg37 737
+
+hg38 82020.0 in comparison to hg37 82000
+
+hg38 404570.0 in comparison to hg37 403992
+
+hg38 687.0 in comparison to hg37 700
+
+hg38 648.0 in comparison to hg37 647
+
+hg38 805.0 in comparison to hg37 804
+
+hg38 529104.0 in comparison to hg37 528529
+
+hg38 5392.0 in comparison to hg37 5400
+
+hg38 494.0 in comparison to hg37 495
+
+hg38 677.0 in comparison to hg37 657
+
+hg38 149618.0 in comparison to hg37 149524
+
+hg38 3095.0 in comparison to hg37 3096
+
+hg38 3283.0 in comparison to hg37 3284
+
+hg38 3691.0 in comparison to hg37 3664
+
+hg38 11123.0 in comparison to hg37 11000
+
+hg38 640.0 in comparison to hg37 604
+
+hg38 22908.0 in comparison to hg37 22897
+
+hg38 33581.0 in comparison to hg37 33565
+
+hg38 3787.0 in comparison to hg37 3762
+
+hg38 748.0 in comparison to hg37 747
+
+hg38 5998.0 in comparison to hg37 6000
+
+hg38 464.0 in comparison to hg37 465
+
+hg38 19997.0 in comparison to hg37 20000
+
+hg38 526651.0 in comparison to hg37 516557
+
+hg38 138486.0 in comparison to hg37 138000
+
+hg38 902820.0 in comparison to hg37 428188
+
+hg38 30291.0 in comparison to hg37 29939
+
+hg38 53576.0 in comparison to hg37 53225
+
+hg38 894395.0 in comparison to hg37 205791
+
+hg38 902817.0 in comparison to hg37 301572
+
+hg38 22776.0 in comparison to hg37 22424
+
+hg38 34712.0 in comparison to hg37 34360
+
+hg38 902342.0 in comparison to hg37 311619
+
+hg38 52971.0 in comparison to hg37 52620
+
+hg38 174043.0 in comparison to hg37 164065
+
+hg38 34099.0 in comparison to hg37 33747
+
+hg38 902213.0 in comparison to hg37 458386
+
+hg38 48380.0 in comparison to hg37 48029
+
+hg38 893788.0 in comparison to hg37 205184
+
+hg38 38792.0 in comparison to hg37 38440
+
+hg38 902211.0 in comparison to hg37 475271
+
+hg38 32903.0 in comparison to hg37 32900
+
+hg38 1.377991e6 in comparison to hg37 1377983
+
+hg38 31267.0 in comparison to hg37 30915
+
+hg38 123345.0 in comparison to hg37 123222
+
+hg38 141866.0 in comparison to hg37 141805
+
+hg38 902833.0 in comparison to hg37 395787
+
+hg38 902833.0 in comparison to hg37 459006
+
+hg38 902833.0 in comparison to hg37 705279
+
+hg38 11993.0 in comparison to hg37 12000
+
+hg38 902833.0 in comparison to hg37 840478
+
+hg38 947197.0 in comparison to hg37 889221
+
+hg38 47166.0 in comparison to hg37 46815
+
+hg38 41438.0 in comparison to hg37 41086
+
+hg38 902826.0 in comparison to hg37 243775
+
+hg38 902823.0 in comparison to hg37 784279
+
+hg38 927448.0 in comparison to hg37 869476
+
+hg38 939463.0 in comparison to hg37 881491
+
+hg38 902210.0 in comparison to hg37 243199
+
+hg38 76018.0 in comparison to hg37 75663
+
+hg38 15.0 in comparison to hg37 19
+
+hg38 42964.0 in comparison to hg37 42612
+
+hg38 51161.0 in comparison to hg37 50810
+
+hg38 55246.0 in comparison to hg37 54895
+
+hg38 147647.0 in comparison to hg37 147623
+
+hg38 901818.0 in comparison to hg37 311096
+
+hg38 901818.0 in comparison to hg37 704262
+
+hg38 36889.0 in comparison to hg37 36537
+
+hg38 901818.0 in comparison to hg37 752816
+
+hg38 19676.0 in comparison to hg37 19324
+
+hg38 21779.0 in comparison to hg37 21427
+
+hg38 24302.0 in comparison to hg37 23950
+
+hg38 26955.0 in comparison to hg37 26603
+
+hg38 30253.0 in comparison to hg37 29901
+
+hg38 48964.0 in comparison to hg37 48613
+
+hg38 901818.0 in comparison to hg37 783275
+
+hg38 16781.0 in comparison to hg37 16429
+
+hg38 901819.0 in comparison to hg37 839465
+
+hg38 901819.0 in comparison to hg37 474745
+
+hg38 1532.0 in comparison to hg37 1533
+
+hg38 23.0 in comparison to hg37 22
+
+hg38 40.0 in comparison to hg37 16
+
+hg38 36.0 in comparison to hg37 12
+
+hg38 54.0 in comparison to hg37 33
+
+hg38 54577.0 in comparison to hg37 54226
+
+hg38 141039.0 in comparison to hg37 140978
+
+hg38 901868.0 in comparison to hg37 383945
+
+hg38 901822.0 in comparison to hg37 457995
+
+hg38 17288.0 in comparison to hg37 16936
+
+hg38 20619.0 in comparison to hg37 20267
+
+hg38 27880.0 in comparison to hg37 27528
+
+hg38 893398.0 in comparison to hg37 204794
+
+hg38 901821.0 in comparison to hg37 718207
+
+hg38 33706.0 in comparison to hg37 33354
+
+hg38 17796.0 in comparison to hg37 17444
+
+hg38 902834.0 in comparison to hg37 362221
+
+hg38 902834.0 in comparison to hg37 312111
+
+hg38 902834.0 in comparison to hg37 222080
+
+hg38 21204.0 in comparison to hg37 21200
+
+hg38 902834.0 in comparison to hg37 500141
+
+hg38 1501.0 in comparison to hg37 1542
+
+hg38 200642.0 in comparison to hg37 83050
+
+hg38 11715.0 in comparison to hg37 12000
+
+hg38 5049.0 in comparison to hg37 5050
+
+hg38 22993.0 in comparison to hg37 23075
+
+hg38 49668.0 in comparison to hg37 49500
+
+hg38 49967.0 in comparison to hg37 50000
+
+hg38 2169.0 in comparison to hg37 2167
+
+hg38 275863.0 in comparison to hg37 101000
+
+hg38 316108.0 in comparison to hg37 75000
+
+hg38 91275.0 in comparison to hg37 93200
+
+hg38 43217.0 in comparison to hg37 43225
+
+hg38 60734.0 in comparison to hg37 59000
+
+hg38 82378.0 in comparison to hg37 34600
+
+hg38 472.0 in comparison to hg37 473
+
+hg38 14681.0 in comparison to hg37 12196
+
+hg38 20892.0 in comparison to hg37 20885
+
+hg38 426735.0 in comparison to hg37 424250
+
+hg38 2.908384e6 in comparison to hg37 2908384
+
+hg38 266522.0 in comparison to hg37 266523
+
+hg38 198537.0 in comparison to hg37 198533
+
+hg38 1902.0 in comparison to hg37 1943
+
+hg38 11880.0 in comparison to hg37 11881
+
+hg38 5261.0 in comparison to hg37 5571
+
+hg38 71.0 in comparison to hg37 74
+
+hg38 2691.0 in comparison to hg37 2638
+
+hg38 276671.0 in comparison to hg37 276672
+
+hg38 78941.0 in comparison to hg37 78942
+
+hg38 69088.0 in comparison to hg37 69089
+
+hg38 250166.0 in comparison to hg37 250167
+
+hg38 280691.0 in comparison to hg37 278206
+
+hg38 197024.0 in comparison to hg37 6300
+
+hg38 52572.0 in comparison to hg37 52221
+
+hg38 375.0 in comparison to hg37 379
+
+hg38 1.154907e6 in comparison to hg37 577965
+
+hg38 112292.0 in comparison to hg37 112124
+
+hg38 112763.0 in comparison to hg37 112646
+
+hg38 110400.0 in comparison to hg37 110232
+
+hg38 8388.0 in comparison to hg37 8400
+
+hg38 5008.0 in comparison to hg37 5000
+
+hg38 5662.0 in comparison to hg37 5646
+
+hg38 114162.0 in comparison to hg37 114035
+
+hg38 8999.0 in comparison to hg37 9000
+
+hg38 3203.0 in comparison to hg37 3244
+
+hg38 34103.0 in comparison to hg37 33792
+
+hg38 38384.0 in comparison to hg37 38032
+
+hg38 198921.0 in comparison to hg37 188960
+
+hg38 25315.0 in comparison to hg37 24963
+
+hg38 49988.0 in comparison to hg37 49637
+
+hg38 2311.0 in comparison to hg37 2362
+
+hg38 112813.0 in comparison to hg37 112645
+
+hg38 113516.0 in comparison to hg37 113348
+
+hg38 114487.0 in comparison to hg37 114360
+
+hg38 229454.0 in comparison to hg37 229222
+
+hg38 211274.0 in comparison to hg37 211106
+
+hg38 150940.0 in comparison to hg37 150813
+
+hg38 155254.0 in comparison to hg37 155127
+
+hg38 327780.0 in comparison to hg37 317675
+
+hg38 150112.0 in comparison to hg37 149985
+
+hg38 149186.0 in comparison to hg37 149018
+
+hg38 152583.0 in comparison to hg37 152456
+
+hg38 191918.0 in comparison to hg37 191439
+
+hg38 145534.0 in comparison to hg37 145302
+
+hg38 148524.0 in comparison to hg37 148397
+
+hg38 148799.0 in comparison to hg37 148672
+
+hg38 112883.0 in comparison to hg37 112715
+
+hg38 114341.0 in comparison to hg37 114173
+
+hg38 115204.0 in comparison to hg37 115087
+
+hg38 9727.0 in comparison to hg37 9726
+
+hg38 122339.0 in comparison to hg37 122216
+
+hg38 4.528734e6 in comparison to hg37 4528733
+
+hg38 29283.0 in comparison to hg37 28931
+
+hg38 49738.0 in comparison to hg37 49387
+
+hg38 33333.0 in comparison to hg37 32981
+
+hg38 901441.0 in comparison to hg37 220687
+
+hg38 901441.0 in comparison to hg37 543092
+
+hg38 901441.0 in comparison to hg37 703885
+
+hg38 40053.0 in comparison to hg37 39701
+
+hg38 52204.0 in comparison to hg37 51853
+
+hg38 901811.0 in comparison to hg37 636576
+
+hg38 75121.0 in comparison to hg37 74766
+
+hg38 38017.0 in comparison to hg37 37665
+
+hg38 49.0 in comparison to hg37 67
+
+hg38 9100.0 in comparison to hg37 9100
+
+hg38 13997.0 in comparison to hg37 14000
+
+hg38 12009.0 in comparison to hg37 12000
+
+hg38 5113.0 in comparison to hg37 5100
+
+hg38 13487.0 in comparison to hg37 13500
+
+hg38 16908.0 in comparison to hg37 16556
+
+hg38 901811.0 in comparison to hg37 394728
+
+hg38 901812.0 in comparison to hg37 279845
+
+hg38 901812.0 in comparison to hg37 221058
+
+hg38 137279.0 in comparison to hg37 137212
+
+hg38 938378.0 in comparison to hg37 880406
+
+hg38 1.010308e6 in comparison to hg37 952307
+
+hg38 40380.0 in comparison to hg37 40028
+
+hg38 46154.0 in comparison to hg37 45803
+
+hg38 50117.0 in comparison to hg37 49766
+
+hg38 173648.0 in comparison to hg37 163670
+
+hg38 901816.0 in comparison to hg37 300567
+
+hg38 901816.0 in comparison to hg37 547151
+
+hg38 197890.0 in comparison to hg37 187929
+
+hg38 901815.0 in comparison to hg37 255667
+
+hg38 901815.0 in comparison to hg37 361202
+
+hg38 901815.0 in comparison to hg37 682469
+
+hg38 38390.0 in comparison to hg37 38038
+
+hg38 45647.0 in comparison to hg37 45296
+
+hg38 901814.0 in comparison to hg37 402672
+
+hg38 27440.0 in comparison to hg37 27088
+
+hg38 13406.0 in comparison to hg37 13400
+
+hg38 10306.0 in comparison to hg37 10300
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 618673.0 in comparison to hg37 618404
+
+hg38 965057.0 in comparison to hg37 962572
+
+hg38 484317.0 in comparison to hg37 481832
+
+hg38 95125.0 in comparison to hg37 95125
+
+hg38 9076.0 in comparison to hg37 9061
+
+hg38 541667.0 in comparison to hg37 541666
+
+hg38 32516.0 in comparison to hg37 32515
+
+hg38 4851.0 in comparison to hg37 4859
+
+hg38 282477.0 in comparison to hg37 282482
+
+hg38 187829.0 in comparison to hg37 187828
+
+hg38 94604.0 in comparison to hg37 94600
+
+hg38 73920.0 in comparison to hg37 73924
+
+hg38 23596.0 in comparison to hg37 23600
+
+hg38 8992.0 in comparison to hg37 9000
+
+hg38 9318.0 in comparison to hg37 9300
+
+hg38 292335.0 in comparison to hg37 291853
+
+hg38 5242.0 in comparison to hg37 5250
+
+hg38 11001.0 in comparison to hg37 11000
+
+hg38 29694.0 in comparison to hg37 30000
+
+hg38 130339.0 in comparison to hg37 130341
+
+hg38 798.0 in comparison to hg37 799
+
+hg38 406.0 in comparison to hg37 425
+
+hg38 5456.0 in comparison to hg37 5500
+
+hg38 5183.0 in comparison to hg37 5170
+
+hg38 4994.0 in comparison to hg37 4995
+
+hg38 9105.0 in comparison to hg37 9102
+
+hg38 6344.0 in comparison to hg37 6351
+
+hg38 6983.0 in comparison to hg37 7000
+
+hg38 5173.0 in comparison to hg37 5257
+
+hg38 8528.0 in comparison to hg37 8563
+
+hg38 1486.0 in comparison to hg37 1488
+
+hg38 15277.0 in comparison to hg37 15250
+
+hg38 398001.0 in comparison to hg37 398000
+
+hg38 4721.0 in comparison to hg37 4733
+
+hg38 6295.0 in comparison to hg37 6300
+
+hg38 295.0 in comparison to hg37 296
+
+hg38 22707.0 in comparison to hg37 22702
+
+hg38 663.0 in comparison to hg37 686
+
+hg38 46.0 in comparison to hg37 52
+
+hg38 774.0 in comparison to hg37 831
+
+hg38 113.0 in comparison to hg37 161
+
+hg38 14302.0 in comparison to hg37 14300
+
+hg38 878.0 in comparison to hg37 852
+
+hg38 139.0 in comparison to hg37 133
+
+hg38 366.0 in comparison to hg37 367
+
+hg38 2359.0 in comparison to hg37 2360
+
+hg38 5940.0 in comparison to hg37 5946
+
+hg38 7840.0 in comparison to hg37 7786
+
+hg38 1.840301e6 in comparison to hg37 1840300
+
+hg38 1272.0 in comparison to hg37 1271
+
+hg38 240002.0 in comparison to hg37 240000
+
+hg38 7654.0 in comparison to hg37 7655
+
+hg38 104.0 in comparison to hg37 99
+
+hg38 157104.0 in comparison to hg37 43050
+
+hg38 553490.0 in comparison to hg37 550466
+
+hg38 7000.0 in comparison to hg37 7000
+
+hg38 2.331214e6 in comparison to hg37 2378271
+
+hg38 2.368816e6 in comparison to hg37 2415873
+
+hg38 2.764613e6 in comparison to hg37 2764615
+
+hg38 85542.0 in comparison to hg37 85543
+
+hg38 4751.0 in comparison to hg37 5012
+
+hg38 4723.0 in comparison to hg37 4730
+
+hg38 31963.0 in comparison to hg37 31947
+
+hg38 38395.0 in comparison to hg37 38401
+
+hg38 824.0 in comparison to hg37 781
+
+hg38 8020.0 in comparison to hg37 8000
+
+hg38 7220.0 in comparison to hg37 7200
+
+hg38 7282.0 in comparison to hg37 7597
+
+hg38 5993.0 in comparison to hg37 6000
+
+hg38 46184.0 in comparison to hg37 21041
+
+hg38 109126.0 in comparison to hg37 741
+
+hg38 17824.0 in comparison to hg37 17250
+
+hg38 7980.0 in comparison to hg37 8000
+
+hg38 47999.0 in comparison to hg37 48000
+
+hg38 9723.0 in comparison to hg37 9724
+
+hg38 17082.0 in comparison to hg37 17082
+
+hg38 91324.0 in comparison to hg37 91322
+
+hg38 151.0 in comparison to hg37 149
+
+hg38 9960.0 in comparison to hg37 10000
+
+hg38 7000.0 in comparison to hg37 7000
+
+hg38 46391.0 in comparison to hg37 46475
+
+hg38 7226.0 in comparison to hg37 7225
+
+hg38 7000.0 in comparison to hg37 7000
+
+hg38 40939.0 in comparison to hg37 41000
+
+hg38 1.244143e6 in comparison to hg37 1291200
+
+hg38 760943.0 in comparison to hg37 323557
+
+hg38 111919.0 in comparison to hg37 7350
+
+hg38 23507.0 in comparison to hg37 23575
+
+hg38 42412.0 in comparison to hg37 42411
+
+hg38 4019.0 in comparison to hg37 4277
+
+hg38 72.0 in comparison to hg37 69
+
+hg38 181033.0 in comparison to hg37 103100
+
+hg38 219927.0 in comparison to hg37 64062
+
+hg38 7816.0 in comparison to hg37 8047
+
+hg38 86524.0 in comparison to hg37 3452
+
+hg38 49003.0 in comparison to hg37 49000
+
+hg38 121698.0 in comparison to hg37 121700
+
+hg38 173.0 in comparison to hg37 173
+
+hg38 110.0 in comparison to hg37 104
+
+hg38 619.0 in comparison to hg37 590
+
+hg38 385.0 in comparison to hg37 443
+
+hg38 396.0 in comparison to hg37 454
+
+hg38 391.0 in comparison to hg37 449
+
+hg38 377.0 in comparison to hg37 446
+
+hg38 535550.0 in comparison to hg37 535549
+
+hg38 71741.0 in comparison to hg37 71740
+
+hg38 55.0 in comparison to hg37 57
+
+hg38 37.0 in comparison to hg37 40
+
+hg38 18.0 in comparison to hg37 21
+
+hg38 554507.0 in comparison to hg37 554505
+
+hg38 154201.0 in comparison to hg37 154200
+
+hg38 37999.0 in comparison to hg37 38000
+
+hg38 598321.0 in comparison to hg37 645379
+
+hg38 239732.0 in comparison to hg37 286789
+
+hg38 6788.0 in comparison to hg37 6829
+
+hg38 177507.0 in comparison to hg37 14407
+
+hg38 177507.0 in comparison to hg37 12362
+
+hg38 5110.0 in comparison to hg37 5150
+
+hg38 204762.0 in comparison to hg37 201738
+
+hg38 393597.0 in comparison to hg37 390573
+
+hg38 404282.0 in comparison to hg37 404280
+
+hg38 154194.0 in comparison to hg37 154192
+
+hg38 56307.0 in comparison to hg37 56305
+
+hg38 15002.0 in comparison to hg37 15000
+
+hg38 287022.0 in comparison to hg37 287020
+
+hg38 5099.0 in comparison to hg37 5100
+
+hg38 8174.0 in comparison to hg37 8175
+
+hg38 1.675001e6 in comparison to hg37 1675000
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 3.070501e6 in comparison to hg37 3070500
+
+hg38 9000.0 in comparison to hg37 9000
+
+hg38 148354.0 in comparison to hg37 34300
+
+hg38 156273.0 in comparison to hg37 8757
+
+hg38 156273.0 in comparison to hg37 7907
+
+hg38 2045.0 in comparison to hg37 2042
+
+hg38 2045.0 in comparison to hg37 2042
+
+hg38 156273.0 in comparison to hg37 6257
+
+hg38 5173.0 in comparison to hg37 5257
+
+hg38 98140.0 in comparison to hg37 9534
+
+hg38 7150.0 in comparison to hg37 7155
+
+hg38 7706.0 in comparison to hg37 7723
+
+hg38 11002.0 in comparison to hg37 11019
+
+hg38 20472.0 in comparison to hg37 20473
+
+hg38 2679.0 in comparison to hg37 2686
+
+hg38 7501.0 in comparison to hg37 7500
+
+hg38 34295.0 in comparison to hg37 34301
+
+hg38 16351.0 in comparison to hg37 16000
+
+hg38 34707.0 in comparison to hg37 33800
+
+hg38 8955.0 in comparison to hg37 8975
+
+hg38 31329.0 in comparison to hg37 31000
+
+hg38 285660.0 in comparison to hg37 52300
+
+hg38 14503.0 in comparison to hg37 14500
+
+hg38 41022.0 in comparison to hg37 41000
+
+hg38 210795.0 in comparison to hg37 210801
+
+hg38 6201.0 in comparison to hg37 6200
+
+hg38 30016.0 in comparison to hg37 30000
+
+hg38 17403.0 in comparison to hg37 17400
+
+hg38 13834.0 in comparison to hg37 13500
+
+hg38 17521.0 in comparison to hg37 2845
+
+hg38 15999.0 in comparison to hg37 16000
+
+hg38 711329.0 in comparison to hg37 362762
+
+hg38 112603.0 in comparison to hg37 4762
+
+hg38 204.0 in comparison to hg37 195
+
+hg38 4978.0 in comparison to hg37 4982
+
+hg38 88.0 in comparison to hg37 91
+
+hg38 109445.0 in comparison to hg37 1083
+
+hg38 109445.0 in comparison to hg37 1083
+
+hg38 3542.0 in comparison to hg37 1903
+
+hg38 539221.0 in comparison to hg37 26107
+
+hg38 16605.0 in comparison to hg37 16250
+
+hg38 7184.0 in comparison to hg37 7200
+
+hg38 16311.0 in comparison to hg37 16350
+
+hg38 334.0 in comparison to hg37 306
+
+hg38 182.0 in comparison to hg37 173
+
+hg38 313.0 in comparison to hg37 340
+
+hg38 313.0 in comparison to hg37 340
+
+hg38 313.0 in comparison to hg37 340
+
+hg38 313.0 in comparison to hg37 340
+
+hg38 539221.0 in comparison to hg37 14789
+
+hg38 197482.0 in comparison to hg37 11100
+
+hg38 45194.0 in comparison to hg37 6050
+
+hg38 23308.0 in comparison to hg37 23622
+
+hg38 197482.0 in comparison to hg37 6092
+
+hg38 197482.0 in comparison to hg37 64781
+
+hg38 51512.0 in comparison to hg37 18300
+
+hg38 197482.0 in comparison to hg37 38982
+
+hg38 4361.0 in comparison to hg37 3324
+
+hg38 45443.0 in comparison to hg37 54581
+
+hg38 197482.0 in comparison to hg37 103062
+
+hg38 4284.0 in comparison to hg37 3544
+
+hg38 185.0 in comparison to hg37 180
+
+hg38 9054.0 in comparison to hg37 9050
+
+hg38 4978.0 in comparison to hg37 4982
+
+hg38 1128.0 in comparison to hg37 1132
+
+hg38 10726.0 in comparison to hg37 10724
+
+hg38 421192.0 in comparison to hg37 421193
+
+hg38 133156.0 in comparison to hg37 133155
+
+hg38 184999.0 in comparison to hg37 185000
+
+hg38 1.999298e6 in comparison to hg37 1790444
+
+hg38 1.991282e6 in comparison to hg37 1782428
+
+hg38 1.991364e6 in comparison to hg37 1782510
+
+hg38 1.992008e6 in comparison to hg37 1783154
+
+hg38 12641.0 in comparison to hg37 12640
+
+hg38 29274.0 in comparison to hg37 29275
+
+hg38 54736.0 in comparison to hg37 54735
+
+hg38 186001.0 in comparison to hg37 186000
+
+hg38 17500.0 in comparison to hg37 17500
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 48988.0 in comparison to hg37 48989
+
+hg38 9576.0 in comparison to hg37 9575
+
+hg38 6300.0 in comparison to hg37 6301
+
+hg38 51801.0 in comparison to hg37 51800
+
+hg38 7199.0 in comparison to hg37 7200
+
+hg38 26365.0 in comparison to hg37 26361
+
+hg38 49037.0 in comparison to hg37 49036
+
+hg38 29976.0 in comparison to hg37 29977
+
+hg38 1.940019e6 in comparison to hg37 1731165
+
+hg38 1.137186e6 in comparison to hg37 928332
+
+hg38 1.16794e6 in comparison to hg37 959086
+
+hg38 1.410338e6 in comparison to hg37 1201484
+
+hg38 5887.0 in comparison to hg37 5888
+
+hg38 1.5183674e7 in comparison to hg37 15101138
+
+hg38 1.5183674e7 in comparison to hg37 15101138
+
+hg38 8.052574e6 in comparison to hg37 8052569
+
+hg38 405308.0 in comparison to hg37 438110
+
+hg38 511326.0 in comparison to hg37 511325
+
+hg38 68912.0 in comparison to hg37 68908
+
+hg38 620604.0 in comparison to hg37 620600
+
+hg38 106474.0 in comparison to hg37 7700
+
+hg38 156974.0 in comparison to hg37 58200
+
+hg38 129080.0 in comparison to hg37 19000
+
+hg38 162080.0 in comparison to hg37 52000
+
+hg38 293830.0 in comparison to hg37 183750
+
+hg38 750518.0 in comparison to hg37 750517
+
+hg38 40527.0 in comparison to hg37 40526
+
+hg38 1.104325e6 in comparison to hg37 895471
+
+hg38 87535.0 in comparison to hg37 5000
+
+hg38 1.091931e6 in comparison to hg37 883077
+
+hg38 1.063745e6 in comparison to hg37 854891
+
+hg38 1.010377e6 in comparison to hg37 801523
+
+hg38 5049.0 in comparison to hg37 5050
+
+hg38 1.7639735e7 in comparison to hg37 17639729
+
+hg38 8999.0 in comparison to hg37 9000
+
+hg38 33800.0 in comparison to hg37 33799
+
+hg38 15884.0 in comparison to hg37 15883
+
+hg38 364070.0 in comparison to hg37 407925
+
+hg38 68073.0 in comparison to hg37 68079
+
+hg38 164001.0 in comparison to hg37 164000
+
+hg38 692.0 in comparison to hg37 681
+
+hg38 3176.0 in comparison to hg37 3177
+
+hg38 2310.0 in comparison to hg37 2320
+
+hg38 94731.0 in comparison to hg37 94732
+
+hg38 3710.0 in comparison to hg37 3711
+
+hg38 3306.0 in comparison to hg37 3305
+
+hg38 4336.0 in comparison to hg37 4337
+
+hg38 2138.0 in comparison to hg37 2136
+
+hg38 4299.0 in comparison to hg37 4300
+
+hg38 6363.0 in comparison to hg37 6364
+
+hg38 2765.0 in comparison to hg37 2764
+
+hg38 39121.0 in comparison to hg37 39087
+
+hg38 125.0 in comparison to hg37 161
+
+hg38 5131.0 in comparison to hg37 5000
+
+hg38 14396.0 in comparison to hg37 14395
+
+hg38 4315.0 in comparison to hg37 4316
+
+hg38 363356.0 in comparison to hg37 363357
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 2339.0 in comparison to hg37 2352
+
+hg38 178.0 in comparison to hg37 160
+
+hg38 65001.0 in comparison to hg37 64999
+
+hg38 6651.0 in comparison to hg37 6644
+
+hg38 380.0 in comparison to hg37 555
+
+hg38 1.392503e6 in comparison to hg37 1392500
+
+hg38 152046.0 in comparison to hg37 152000
+
+hg38 3360.0 in comparison to hg37 3375
+
+hg38 259777.0 in comparison to hg37 232500
+
+hg38 29769.0 in comparison to hg37 2150
+
+hg38 26429.0 in comparison to hg37 26430
+
+hg38 5434.0 in comparison to hg37 5435
+
+hg38 5999.0 in comparison to hg37 6000
+
+hg38 4649.0 in comparison to hg37 4646
+
+hg38 3.181291e6 in comparison to hg37 3181291
+
+hg38 5087.0 in comparison to hg37 5089
+
+hg38 2193.0 in comparison to hg37 2196
+
+hg38 863.0 in comparison to hg37 888
+
+hg38 15998.0 in comparison to hg37 16000
+
+hg38 39381.0 in comparison to hg37 30200
+
+hg38 825.0 in comparison to hg37 824
+
+hg38 23265.0 in comparison to hg37 23269
+
+hg38 15998.0 in comparison to hg37 16000
+
+hg38 258306.0 in comparison to hg37 258298
+
+hg38 109237.0 in comparison to hg37 109238
+
+hg38 38002.0 in comparison to hg37 38000
+
+hg38 185840.0 in comparison to hg37 185837
+
+hg38 38999.0 in comparison to hg37 39000
+
+hg38 50626.0 in comparison to hg37 23000
+
+hg38 8063.0 in comparison to hg37 8000
+
+hg38 8201.0 in comparison to hg37 8200
+
+hg38 73313.0 in comparison to hg37 73250
+
+hg38 1.389653e6 in comparison to hg37 1389650
+
+hg38 10999.0 in comparison to hg37 11000
+
+hg38 72387.0 in comparison to hg37 72388
+
+hg38 54787.0 in comparison to hg37 54788
+
+hg38 258999.0 in comparison to hg37 259000
+
+hg38 74093.0 in comparison to hg37 74094
+
+hg38 147582.0 in comparison to hg37 147583
+
+hg38 9681.0 in comparison to hg37 9595
+
+hg38 24496.0 in comparison to hg37 24576
+
+hg38 44764.0 in comparison to hg37 44723
+
+hg38 267498.0 in comparison to hg37 267552
+
+hg38 46248.0 in comparison to hg37 46343
+
+hg38 155946.0 in comparison to hg37 156000
+
+hg38 256708.0 in comparison to hg37 310157
+
+hg38 351638.0 in comparison to hg37 405087
+
+hg38 81236.0 in comparison to hg37 81250
+
+hg38 583013.0 in comparison to hg37 636460
+
+hg38 6854.0 in comparison to hg37 6855
+
+hg38 24181.0 in comparison to hg37 24178
+
+hg38 36001.0 in comparison to hg37 36000
+
+hg38 8001.0 in comparison to hg37 8000
+
+hg38 23919.0 in comparison to hg37 14738
+
+hg38 391.0 in comparison to hg37 393
+
+hg38 361.0 in comparison to hg37 363
+
+hg38 265.0 in comparison to hg37 508
+
+hg38 5795.0 in comparison to hg37 5000
+
+hg38 7558.0 in comparison to hg37 7500
+
+hg38 58801.0 in comparison to hg37 48742
+
+hg38 149935.0 in comparison to hg37 139833
+
+hg38 22283.0 in comparison to hg37 21357
+
+hg38 220681.0 in comparison to hg37 210574
+
+hg38 106650.0 in comparison to hg37 106654
+
+hg38 11774.0 in comparison to hg37 5000
+
+hg38 13974.0 in comparison to hg37 7200
+
+hg38 87559.0 in comparison to hg37 80785
+
+hg38 535.0 in comparison to hg37 481
+
+hg38 446.0 in comparison to hg37 422
+
+hg38 367.0 in comparison to hg37 283
+
+hg38 22545.0 in comparison to hg37 22597
+
+hg38 41384.0 in comparison to hg37 41385
+
+hg38 373753.0 in comparison to hg37 373754
+
+hg38 202580.0 in comparison to hg37 202579
+
+hg38 2319.0 in comparison to hg37 2291
+
+hg38 6293.0 in comparison to hg37 6297
+
+hg38 310632.0 in comparison to hg37 229389
+
+hg38 64.0 in comparison to hg37 10
+
+hg38 6003.0 in comparison to hg37 6000
+
+hg38 837673.0 in comparison to hg37 837674
+
+hg38 1.6531014e7 in comparison to hg37 14954719
+
+hg38 940568.0 in comparison to hg37 536575
+
+hg38 672341.0 in comparison to hg37 295681
+
+hg38 5.5110937e7 in comparison to hg37 53203763
+
+hg38 4.397436e6 in comparison to hg37 4397433
+
+hg38 1.6531169e7 in comparison to hg37 14954874
+
+hg38 14227.0 in comparison to hg37 13374
+
+hg38 1.671293e7 in comparison to hg37 15136632
+
+hg38 427481.0 in comparison to hg37 427480
+
+hg38 23449.0 in comparison to hg37 22523
+
+hg38 38445.0 in comparison to hg37 38428
+
+hg38 23147.0 in comparison to hg37 21029
+
+hg38 290837.0 in comparison to hg37 335558
+
+hg38 201265.0 in comparison to hg37 201264
+
+hg38 7876.0 in comparison to hg37 7855
+
+hg38 734.0 in comparison to hg37 682
+
+hg38 155405.0 in comparison to hg37 153288
+
+hg38 233164.0 in comparison to hg37 231047
+
+hg38 413612.0 in comparison to hg37 411495
+
+hg38 35163.0 in comparison to hg37 35164
+
+hg38 7891.0 in comparison to hg37 7892
+
+hg38 14585.0 in comparison to hg37 14586
+
+hg38 160.0 in comparison to hg37 159
+
+hg38 6420.0 in comparison to hg37 6421
+
+hg38 1.50228e6 in comparison to hg37 1502281
+
+hg38 98349.0 in comparison to hg37 98353
+
+hg38 38145.0 in comparison to hg37 38144
+
+hg38 154605.0 in comparison to hg37 154606
+
+hg38 238999.0 in comparison to hg37 239000
+
+hg38 783041.0 in comparison to hg37 783042
+
+hg38 30865.0 in comparison to hg37 30864
+
+hg38 1.347657e6 in comparison to hg37 1488518
+
+hg38 80437.0 in comparison to hg37 80438
+
+hg38 1.960998e6 in comparison to hg37 1961000
+
+hg38 150891.0 in comparison to hg37 150890
+
+hg38 500206.0 in comparison to hg37 500205
+
+hg38 1.152349e6 in comparison to hg37 1152348
+
+hg38 20501.0 in comparison to hg37 20500
+
+hg38 528122.0 in comparison to hg37 528121
+
+hg38 4889.0 in comparison to hg37 4890
+
+hg38 403101.0 in comparison to hg37 403100
+
+hg38 181001.0 in comparison to hg37 181000
+
+hg38 52999.0 in comparison to hg37 53000
+
+hg38 81912.0 in comparison to hg37 81913
+
+hg38 262760.0 in comparison to hg37 262761
+
+hg38 146391.0 in comparison to hg37 146390
+
+hg38 79217.0 in comparison to hg37 79218
+
+hg38 2.606792e6 in comparison to hg37 2606794
+
+hg38 594973.0 in comparison to hg37 594974
+
+hg38 798880.0 in comparison to hg37 798881
+
+hg38 4.878054e6 in comparison to hg37 4922775
+
+hg38 3.643518e6 in comparison to hg37 3643519
+
+hg38 367148.0 in comparison to hg37 508009
+
+hg38 4.7284738e7 in comparison to hg37 47372009
+
+hg38 4.9507051e7 in comparison to hg37 49594322
+
+hg38 302959.0 in comparison to hg37 302958
+
+hg38 5.0526568e7 in comparison to hg37 50613839
+
+hg38 467213.0 in comparison to hg37 467211
+
+hg38 151401.0 in comparison to hg37 151400
+
+hg38 74653.0 in comparison to hg37 74647
+
+hg38 1.875501e6 in comparison to hg37 1875500
+
+hg38 46465.0 in comparison to hg37 46464
+
+hg38 47240.0 in comparison to hg37 47241
+
+hg38 4.9509401e7 in comparison to hg37 49596672
+
+hg38 811.0 in comparison to hg37 812
+
+hg38 4421.0 in comparison to hg37 4426
+
+hg38 5500.0 in comparison to hg37 5500
+
+hg38 177.0 in comparison to hg37 253
+
+hg38 5330.0 in comparison to hg37 5333
+
+hg38 38500.0 in comparison to hg37 38500
+
+hg38 5378.0 in comparison to hg37 5376
+
+hg38 120110.0 in comparison to hg37 117670
+
+hg38 5430.0 in comparison to hg37 5745
+
+hg38 16549.0 in comparison to hg37 16549
+
+hg38 33059.0 in comparison to hg37 33000
+
+hg38 46262.0 in comparison to hg37 46263
+
+hg38 6029.0 in comparison to hg37 6017
+
+hg38 329864.0 in comparison to hg37 329863
+
+hg38 111868.0 in comparison to hg37 111869
+
+hg38 532.0 in comparison to hg37 531
+
+hg38 31582.0 in comparison to hg37 31583
+
+hg38 296208.0 in comparison to hg37 296209
+
+hg38 74500.0 in comparison to hg37 74501
+
+hg38 23093.0 in comparison to hg37 23094
+
+hg38 5677.0 in comparison to hg37 5676
+
+hg38 8198.0 in comparison to hg37 8210
+
+hg38 96567.0 in comparison to hg37 103962
+
+hg38 6406.0 in comparison to hg37 6407
+
+hg38 205390.0 in comparison to hg37 205400
+
+hg38 61008.0 in comparison to hg37 60990
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 502.0 in comparison to hg37 507
+
+hg38 15421.0 in comparison to hg37 15404
+
+hg38 5506.0 in comparison to hg37 5500
+
+hg38 5502.0 in comparison to hg37 5500
+
+hg38 76.0 in comparison to hg37 74
+
+hg38 267.0 in comparison to hg37 574
+
+hg38 266.0 in comparison to hg37 280
+
+hg38 17919.0 in comparison to hg37 17915
+
+hg38 7335.0 in comparison to hg37 8000
+
+hg38 125878.0 in comparison to hg37 125881
+
+hg38 18088.0 in comparison to hg37 18086
+
+hg38 325.0 in comparison to hg37 327
+
+hg38 13904.0 in comparison to hg37 13940
+
+hg38 702.0 in comparison to hg37 775
+
+hg38 221.0 in comparison to hg37 295
+
+hg38 19502.0 in comparison to hg37 19500
+
+hg38 5002.0 in comparison to hg37 5000
+
+hg38 31229.0 in comparison to hg37 31229
+
+hg38 25661.0 in comparison to hg37 25094
+
+hg38 7811.0 in comparison to hg37 8100
+
+hg38 1982.0 in comparison to hg37 2000
+
+hg38 82560.0 in comparison to hg37 82473
+
+hg38 138.0 in comparison to hg37 201
+
+hg38 18425.0 in comparison to hg37 18164
+
+hg38 6616.0 in comparison to hg37 6615
+
+hg38 149534.0 in comparison to hg37 149533
+
+hg38 55.0 in comparison to hg37 27
+
+hg38 47.0 in comparison to hg37 36
+
+hg38 25.0 in comparison to hg37 32
+
+hg38 37.0 in comparison to hg37 43
+
+hg38 56.0 in comparison to hg37 18
+
+hg38 75.0 in comparison to hg37 37
+
+hg38 19.0 in comparison to hg37 17
+
+hg38 58.0 in comparison to hg37 50
+
+hg38 57.0 in comparison to hg37 49
+
+hg38 4.976878e6 in comparison to hg37 4976878
+
+hg38 76.0 in comparison to hg37 94
+
+hg38 411461.0 in comparison to hg37 411460
+
+hg38 494201.0 in comparison to hg37 494201
+
+hg38 695470.0 in comparison to hg37 695714
+
+hg38 365396.0 in comparison to hg37 365396
+
+hg38 674975.0 in comparison to hg37 674975
+
+hg38 57628.0 in comparison to hg37 57627
+
+hg38 273246.0 in comparison to hg37 345243
+
+hg38 43242.0 in comparison to hg37 46200
+
+hg38 9086.0 in comparison to hg37 8519
+
+hg38 19723.0 in comparison to hg37 19700
+
+hg38 106881.0 in comparison to hg37 106837
+
+hg38 995.0 in comparison to hg37 1000
+
+hg38 99571.0 in comparison to hg37 99310
+
+hg38 4.0 in comparison to hg37 5
+
+hg38 46.0 in comparison to hg37 14
+
+hg38 930401.0 in comparison to hg37 930400
+
+hg38 17570.0 in comparison to hg37 17569
+
+hg38 476802.0 in comparison to hg37 548799
+
+hg38 65608.0 in comparison to hg37 65607
+
+hg38 5298.0 in comparison to hg37 5297
+
+hg38 5313.0 in comparison to hg37 5312
+
+hg38 20048.0 in comparison to hg37 20047
+
+hg38 32867.0 in comparison to hg37 32861
+
+hg38 33394.0 in comparison to hg37 33533
+
+hg38 12883.0 in comparison to hg37 5700
+
+hg38 19.0 in comparison to hg37 21
+
+hg38 2501.0 in comparison to hg37 2500
+
+hg38 94.0 in comparison to hg37 101
+
+hg38 110.0 in comparison to hg37 111
+
+hg38 189.0 in comparison to hg37 190
+
+hg38 246.0 in comparison to hg37 283
+
+hg38 34281.0 in comparison to hg37 34665
+
+hg38 20367.0 in comparison to hg37 20353
+
+hg38 237130.0 in comparison to hg37 237145
+
+hg38 22054.0 in comparison to hg37 22053
+
+hg38 7501.0 in comparison to hg37 7500
+
+hg38 481803.0 in comparison to hg37 481802
+
+hg38 79.0 in comparison to hg37 86
+
+hg38 86214.0 in comparison to hg37 86213
+
+hg38 661.0 in comparison to hg37 657
+
+hg38 9493.0 in comparison to hg37 9482
+
+hg38 710.0 in comparison to hg37 714
+
+hg38 2027.0 in comparison to hg37 2025
+
+hg38 5843.0 in comparison to hg37 6300
+
+hg38 12556.0 in comparison to hg37 13000
+
+hg38 35563.0 in comparison to hg37 35574
+
+hg38 16748.0 in comparison to hg37 16750
+
+hg38 83.0 in comparison to hg37 84
+
+hg38 5058.0 in comparison to hg37 5059
+
+hg38 49169.0 in comparison to hg37 49168
+
+hg38 47099.0 in comparison to hg37 47100
+
+hg38 85549.0 in comparison to hg37 85550
+
+hg38 17999.0 in comparison to hg37 18000
+
+hg38 24203.0 in comparison to hg37 24204
+
+hg38 679.0 in comparison to hg37 680
+
+hg38 12965.0 in comparison to hg37 12979
+
+hg38 695.0 in comparison to hg37 695
+
+hg38 1182.0 in comparison to hg37 1194
+
+hg38 590.0 in comparison to hg37 602
+
+hg38 540.0 in comparison to hg37 548
+
+hg38 1984.0 in comparison to hg37 1976
+
+hg38 78.0 in comparison to hg37 74
+
+hg38 4225.0 in comparison to hg37 4224
+
+hg38 482.0 in comparison to hg37 481
+
+hg38 609.0 in comparison to hg37 608
+
+hg38 62.0 in comparison to hg37 58
+
+hg38 539.0 in comparison to hg37 535
+
+hg38 516.0 in comparison to hg37 512
+
+hg38 190.0 in comparison to hg37 398
+
+hg38 10697.0 in comparison to hg37 10695
+
+hg38 163.0 in comparison to hg37 158
+
+hg38 4997.0 in comparison to hg37 5000
+
+hg38 38750.0 in comparison to hg37 38750
+
+hg38 3055.0 in comparison to hg37 3054
+
+hg38 742.0 in comparison to hg37 725
+
+hg38 800.0 in comparison to hg37 783
+
+hg38 3809.0 in comparison to hg37 3817
+
+hg38 4253.0 in comparison to hg37 4245
+
+hg38 1154.0 in comparison to hg37 1153
+
+hg38 1121.0 in comparison to hg37 1120
+
+hg38 4996.0 in comparison to hg37 5000
+
+hg38 3580.0 in comparison to hg37 3581
+
+hg38 2716.0 in comparison to hg37 2717
+
+hg38 572.0 in comparison to hg37 582
+
+hg38 7272.0 in comparison to hg37 7274
+
+hg38 55.0 in comparison to hg37 69
+
+hg38 4952.0 in comparison to hg37 4955
+
+hg38 33515.0 in comparison to hg37 32719
+
+hg38 16187.0 in comparison to hg37 16151
+
+hg38 13559.0 in comparison to hg37 13568
+
+hg38 6061.0 in comparison to hg37 6094
+
+hg38 4959.0 in comparison to hg37 4965
+
+hg38 5536.0 in comparison to hg37 5542
+
+hg38 22466.0 in comparison to hg37 22475
+
+hg38 7198.0 in comparison to hg37 7200
+
+hg38 46375.0 in comparison to hg37 46388
+
+hg38 16602.0 in comparison to hg37 16608
+
+hg38 91591.0 in comparison to hg37 91591
+
+hg38 14559.0 in comparison to hg37 14665
+
+hg38 79.0 in comparison to hg37 103
+
+hg38 6109.0 in comparison to hg37 6134
+
+hg38 78.0 in comparison to hg37 80
+
+hg38 4190.0 in comparison to hg37 4188
+
+hg38 283.0 in comparison to hg37 279
+
+hg38 128.0 in comparison to hg37 143
+
+hg38 5394.0 in comparison to hg37 5400
+
+hg38 64532.0 in comparison to hg37 64535
+
+hg38 17097.0 in comparison to hg37 17100
+
+hg38 119.0 in comparison to hg37 124
+
+hg38 22497.0 in comparison to hg37 22500
+
+hg38 146587.0 in comparison to hg37 146500
+
+hg38 5245.0 in comparison to hg37 5200
+
+hg38 546.0 in comparison to hg37 545
+
+hg38 1923.0 in comparison to hg37 1922
+
+hg38 1205.0 in comparison to hg37 1199
+
+hg38 3119.0 in comparison to hg37 2756
+
+hg38 92453.0 in comparison to hg37 92452
+
+hg38 12001.0 in comparison to hg37 12000
+
+hg38 16370.0 in comparison to hg37 16376
+
+hg38 8742.0 in comparison to hg37 8741
+
+hg38 1877.0 in comparison to hg37 1876
+
+hg38 67840.0 in comparison to hg37 67839
+
+hg38 459650.0 in comparison to hg37 459650
+
+hg38 6473.0 in comparison to hg37 6440
+
+hg38 18027.0 in comparison to hg37 17997
+
+hg38 20263.0 in comparison to hg37 20249
+
+hg38 237.0 in comparison to hg37 275
+
+hg38 41517.0 in comparison to hg37 41600
+
+hg38 452083.0 in comparison to hg37 452510
+
+hg38 12604.0 in comparison to hg37 12600
+
+hg38 96.0 in comparison to hg37 71
+
+hg38 4125.0 in comparison to hg37 4119
+
+hg38 8478.0 in comparison to hg37 8477
+
+hg38 23271.0 in comparison to hg37 23270
+
+hg38 5120.0 in comparison to hg37 5100
+
+hg38 815.0 in comparison to hg37 829
+
+hg38 10848.0 in comparison to hg37 10845
+
+hg38 7078.0 in comparison to hg37 7100
+
+hg38 662.0 in comparison to hg37 673
+
+hg38 24510.0 in comparison to hg37 24500
+
+hg38 3112.0 in comparison to hg37 3111
+
+hg38 163.0 in comparison to hg37 639
+
+hg38 493.0 in comparison to hg37 488
+
+hg38 163.0 in comparison to hg37 623
+
+hg38 8724.0 in comparison to hg37 8712
+
+hg38 8618.0 in comparison to hg37 8619
+
+hg38 17230.0 in comparison to hg37 17000
+
+hg38 9002.0 in comparison to hg37 9000
+
+hg38 36.0 in comparison to hg37 50
+
+hg38 638.0 in comparison to hg37 642
+
+hg38 171.0 in comparison to hg37 155
+
+hg38 5017.0 in comparison to hg37 5000
+
+hg38 774.0 in comparison to hg37 776
+
+hg38 124674.0 in comparison to hg37 124943
+
+hg38 561.0 in comparison to hg37 559
+
+hg38 686.0 in comparison to hg37 687
+
+hg38 190742.0 in comparison to hg37 191000
+
+hg38 12605.0 in comparison to hg37 12625
+
+hg38 31000.0 in comparison to hg37 31000
+
+hg38 1101.0 in comparison to hg37 1102
+
+hg38 10912.0 in comparison to hg37 10931
+
+hg38 7614.0 in comparison to hg37 7421
+
+hg38 368.0 in comparison to hg37 401
+
+hg38 463.0 in comparison to hg37 466
+
+hg38 6200.0 in comparison to hg37 6192
+
+hg38 515.0 in comparison to hg37 520
+
+hg38 416393.0 in comparison to hg37 416392
+
+hg38 25001.0 in comparison to hg37 25000
+
+hg38 204201.0 in comparison to hg37 204200
+
+hg38 420502.0 in comparison to hg37 420501
+
+hg38 955156.0 in comparison to hg37 955155
+
+hg38 178824.0 in comparison to hg37 178823
+
+hg38 23936.0 in comparison to hg37 23935
+
+hg38 164716.0 in comparison to hg37 164715
+
+hg38 225700.0 in comparison to hg37 225700
+
+hg38 50.0 in comparison to hg37 15
+
+hg38 806.0 in comparison to hg37 805
+
+hg38 552990.0 in comparison to hg37 552990
+
+hg38 274923.0 in comparison to hg37 274922
+
+hg38 65669.0 in comparison to hg37 65668
+
+hg38 377001.0 in comparison to hg37 377000
+
+hg38 2.995155e6 in comparison to hg37 2995155
+
+hg38 1.5689889e7 in comparison to hg37 15689879
+
+hg38 94050.0 in comparison to hg37 94049
+
+hg38 69058.0 in comparison to hg37 69057
+
+hg38 770012.0 in comparison to hg37 770012
+
+hg38 41113.0 in comparison to hg37 41114
+
+hg38 621.0 in comparison to hg37 621
+
+hg38 7838.0 in comparison to hg37 7837
+
+hg38 23398.0 in comparison to hg37 23403
+
+hg38 38401.0 in comparison to hg37 38405
+
+hg38 4288.0 in comparison to hg37 4290
+
+hg38 5599.0 in comparison to hg37 5600
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 18387.0 in comparison to hg37 18388
+
+hg38 66903.0 in comparison to hg37 66904
+
+hg38 528392.0 in comparison to hg37 528395
+
+hg38 51099.0 in comparison to hg37 51100
+
+hg38 14298.0 in comparison to hg37 2639
+
+hg38 848.0 in comparison to hg37 847
+
+hg38 1739.0 in comparison to hg37 1740
+
+hg38 6970.0 in comparison to hg37 6969
+
+hg38 115.0 in comparison to hg37 373
+
+hg38 66021.0 in comparison to hg37 66022
+
+hg38 581.0 in comparison to hg37 584
+
+hg38 329.0 in comparison to hg37 330
+
+hg38 1481.0 in comparison to hg37 1496
+
+hg38 14295.0 in comparison to hg37 2636
+
+hg38 10706.0 in comparison to hg37 10705
+
+hg38 186246.0 in comparison to hg37 186247
+
+hg38 8324.0 in comparison to hg37 8325
+
+hg38 7661.0 in comparison to hg37 7588
+
+hg38 34300.0 in comparison to hg37 34295
+
+hg38 106243.0 in comparison to hg37 106242
+
+hg38 292970.0 in comparison to hg37 292969
+
+hg38 18896.0 in comparison to hg37 18892
+
+hg38 4583.0 in comparison to hg37 4589
+
+hg38 4140.0 in comparison to hg37 4146
+
+hg38 48066.0 in comparison to hg37 48065
+
+hg38 189302.0 in comparison to hg37 189302
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 12462.0 in comparison to hg37 12463
+
+hg38 89807.0 in comparison to hg37 89808
+
+hg38 2087.0 in comparison to hg37 2088
+
+hg38 2166.0 in comparison to hg37 2167
+
+hg38 124871.0 in comparison to hg37 124872
+
+hg38 3050.0 in comparison to hg37 3051
+
+hg38 4.374339e6 in comparison to hg37 4374340
+
+hg38 9.163601e6 in comparison to hg37 9163609
+
+hg38 429404.0 in comparison to hg37 429404
+
+hg38 164298.0 in comparison to hg37 164297
+
+hg38 20889.0 in comparison to hg37 20890
+
+hg38 58999.0 in comparison to hg37 59000
+
+hg38 10.0 in comparison to hg37 9
+
+hg38 6970.0 in comparison to hg37 6969
+
+hg38 44655.0 in comparison to hg37 44654
+
+hg38 95029.0 in comparison to hg37 95030
+
+hg38 184195.0 in comparison to hg37 184194
+
+hg38 47003.0 in comparison to hg37 47000
+
+hg38 46518.0 in comparison to hg37 46519
+
+hg38 118035.0 in comparison to hg37 118034
+
+hg38 51728.0 in comparison to hg37 51729
+
+hg38 610523.0 in comparison to hg37 610527
+
+hg38 356956.0 in comparison to hg37 356955
+
+hg38 152011.0 in comparison to hg37 152011
+
+hg38 142999.0 in comparison to hg37 143000
+
+hg38 86499.0 in comparison to hg37 86500
+
+hg38 249251.0 in comparison to hg37 249250
+
+hg38 31387.0 in comparison to hg37 31388
+
+hg38 651934.0 in comparison to hg37 651937
+
+hg38 89234.0 in comparison to hg37 89235
+
+hg38 7002.0 in comparison to hg37 7000
+
+hg38 319271.0 in comparison to hg37 319270
+
+hg38 269986.0 in comparison to hg37 269985
+
+hg38 30201.0 in comparison to hg37 30200
+
+hg38 55999.0 in comparison to hg37 56000
+
+hg38 2442.0 in comparison to hg37 2441
+
+hg38 185659.0 in comparison to hg37 185658
+
+hg38 51052.0 in comparison to hg37 51053
+
+hg38 34629.0 in comparison to hg37 34632
+
+hg38 47103.0 in comparison to hg37 47102
+
+hg38 70403.0 in comparison to hg37 70402
+
+hg38 25490.0 in comparison to hg37 25489
+
+hg38 1.822362e6 in comparison to hg37 1822365
+
+hg38 64286.0 in comparison to hg37 64285
+
+hg38 163528.0 in comparison to hg37 163528
+
+hg38 270966.0 in comparison to hg37 270965
+
+hg38 34002.0 in comparison to hg37 34000
+
+hg38 24579.0 in comparison to hg37 24581
+
+hg38 707908.0 in comparison to hg37 707944
+
+hg38 349237.0 in comparison to hg37 349007
+
+hg38 1.5290788e7 in comparison to hg37 15290788
+
+hg38 289202.0 in comparison to hg37 289202
+
+hg38 59884.0 in comparison to hg37 59883
+
+hg38 82860.0 in comparison to hg37 82861
+
+hg38 183055.0 in comparison to hg37 183054
+
+hg38 55959.0 in comparison to hg37 55960
+
+hg38 164127.0 in comparison to hg37 164126
+
+hg38 3.239624e6 in comparison to hg37 3239623
+
+hg38 29763.0 in comparison to hg37 29762
+
+hg38 156089.0 in comparison to hg37 156087
+
+hg38 36283.0 in comparison to hg37 36284
+
+hg38 176341.0 in comparison to hg37 176340
+
+hg38 108026.0 in comparison to hg37 108025
+
+hg38 304037.0 in comparison to hg37 304038
+
+hg38 15827.0 in comparison to hg37 15828
+
+hg38 492539.0 in comparison to hg37 492541
+
+hg38 203228.0 in comparison to hg37 203229
+
+hg38 204524.0 in comparison to hg37 204525
+
+hg38 61963.0 in comparison to hg37 61964
+
+hg38 9187.0 in comparison to hg37 9188
+
+hg38 118604.0 in comparison to hg37 118605
+
+hg38 128982.0 in comparison to hg37 128983
+
+hg38 158836.0 in comparison to hg37 158837
+
+hg38 368073.0 in comparison to hg37 368072
+
+hg38 43286.0 in comparison to hg37 43285
+
+hg38 17085.0 in comparison to hg37 17084
+
+hg38 51612.0 in comparison to hg37 51613
+
+hg38 148430.0 in comparison to hg37 148429
+
+hg38 125851.0 in comparison to hg37 125850
+
+hg38 81295.0 in comparison to hg37 81296
+
+hg38 76753.0 in comparison to hg37 76752
+
+hg38 59370.0 in comparison to hg37 59368
+
+hg38 26782.0 in comparison to hg37 26781
+
+hg38 215377.0 in comparison to hg37 215376
+
+hg38 1905.0 in comparison to hg37 1904
+
+hg38 1092.0 in comparison to hg37 1091
+
+hg38 5125.0 in comparison to hg37 5124
+
+hg38 17167.0 in comparison to hg37 17166
+
+hg38 5275.0 in comparison to hg37 5274
+
+hg38 133672.0 in comparison to hg37 133671
+
+hg38 188987.0 in comparison to hg37 188986
+
+hg38 33207.0 in comparison to hg37 33206
+
+hg38 27963.0 in comparison to hg37 27963
+
+hg38 12111.0 in comparison to hg37 12112
+
+hg38 46260.0 in comparison to hg37 46259
+
+hg38 1711.0 in comparison to hg37 1710
+
+hg38 6101.0 in comparison to hg37 6100
+
+hg38 4551.0 in comparison to hg37 4550
+
+hg38 13555.0 in comparison to hg37 13554
+
+hg38 9416.0 in comparison to hg37 9417
+
+hg38 171602.0 in comparison to hg37 171602
+
+hg38 7193.0 in comparison to hg37 7194
+
+hg38 29799.0 in comparison to hg37 29798
+
+hg38 8701.0 in comparison to hg37 8700
+
+hg38 14109.0 in comparison to hg37 14108
+
+hg38 841.0 in comparison to hg37 840
+
+hg38 34273.0 in comparison to hg37 34273
+
+hg38 10401.0 in comparison to hg37 10400
+
+hg38 128402.0 in comparison to hg37 128400
+
+hg38 3827.0 in comparison to hg37 3828
+
+hg38 128283.0 in comparison to hg37 128284
+
+hg38 32473.0 in comparison to hg37 32474
+
+hg38 22006.0 in comparison to hg37 22000
+
+hg38 166848.0 in comparison to hg37 166880
+
+hg38 47783.0 in comparison to hg37 47782
+
+hg38 4221.0 in comparison to hg37 4225
+
+hg38 527002.0 in comparison to hg37 527000
+
+hg38 5041.0 in comparison to hg37 5042
+
+hg38 5484.0 in comparison to hg37 5483
+
+hg38 846.0 in comparison to hg37 845
+
+hg38 174931.0 in comparison to hg37 174931
+
+hg38 128187.0 in comparison to hg37 128186
+
+hg38 638.0 in comparison to hg37 637
+
+hg38 111836.0 in comparison to hg37 111837
+
+hg38 10996.0 in comparison to hg37 11000
+
+hg38 11782.0 in comparison to hg37 11783
+
+hg38 755.0 in comparison to hg37 756
+
+hg38 109899.0 in comparison to hg37 109900
+
+hg38 6010.0 in comparison to hg37 6000
+
+hg38 8572.0 in comparison to hg37 8575
+
+hg38 36573.0 in comparison to hg37 43554
+
+hg38 12198.0 in comparison to hg37 12202
+
+hg38 24747.0 in comparison to hg37 24746
+
+hg38 2.032403e6 in comparison to hg37 2030302
+
+hg38 537135.0 in comparison to hg37 537134
+
+hg38 356317.0 in comparison to hg37 356318
+
+hg38 85906.0 in comparison to hg37 85908
+
+hg38 2.939483e6 in comparison to hg37 2939504
+
+hg38 3476.0 in comparison to hg37 3475
+
+hg38 5836.0 in comparison to hg37 3620
+
+hg38 13174.0 in comparison to hg37 13190
+
+hg38 106740.0 in comparison to hg37 104470
+
+hg38 753.0 in comparison to hg37 758
+
+hg38 5189.0 in comparison to hg37 5200
+
+hg38 33639.0 in comparison to hg37 33654
+
+hg38 8.373801e6 in comparison to hg37 8415378
+
+hg38 708726.0 in comparison to hg37 696506
+
+hg38 24158.0 in comparison to hg37 24150
+
+hg38 3613.0 in comparison to hg37 3612
+
+hg38 4578.0 in comparison to hg37 4581
+
+hg38 36805.0 in comparison to hg37 36800
+
+hg38 585762.0 in comparison to hg37 573587
+
+hg38 582037.0 in comparison to hg37 569861
+
+hg38 576653.0 in comparison to hg37 564477
+
+hg38 541359.0 in comparison to hg37 529191
+
+hg38 395.0 in comparison to hg37 407
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 523641.0 in comparison to hg37 511452
+
+hg38 17122.0 in comparison to hg37 17087
+
+hg38 753.0 in comparison to hg37 760
+
+hg38 829.0 in comparison to hg37 836
+
+hg38 5973.0 in comparison to hg37 5980
+
+hg38 8600.0 in comparison to hg37 8598
+
+hg38 8002.0 in comparison to hg37 8000
+
+hg38 15214.0 in comparison to hg37 15197
+
+hg38 82854.0 in comparison to hg37 82873
+
+hg38 11346.0 in comparison to hg37 11332
+
+hg38 2235.0 in comparison to hg37 2236
+
+hg38 17315.0 in comparison to hg37 5400
+
+hg38 208.0 in comparison to hg37 159
+
+hg38 5017.0 in comparison to hg37 5000
+
+hg38 489339.0 in comparison to hg37 477187
+
+hg38 105030.0 in comparison to hg37 105000
+
+hg38 1294.0 in comparison to hg37 1293
+
+hg38 39446.0 in comparison to hg37 39447
+
+hg38 430.0 in comparison to hg37 463
+
+hg38 9998.0 in comparison to hg37 10000
+
+hg38 5.362183e6 in comparison to hg37 6600
+
+hg38 83.0 in comparison to hg37 53
+
+hg38 26.0 in comparison to hg37 17
+
+hg38 589.0 in comparison to hg37 75
+
+hg38 49.0 in comparison to hg37 33
+
+hg38 125.0 in comparison to hg37 76
+
+hg38 2020.0 in comparison to hg37 2019
+
+hg38 486.0 in comparison to hg37 487
+
+hg38 3365.0 in comparison to hg37 3364
+
+hg38 2335.0 in comparison to hg37 2333
+
+hg38 19567.0 in comparison to hg37 19572
+
+hg38 3630.0 in comparison to hg37 3631
+
+hg38 3494.0 in comparison to hg37 3488
+
+hg38 64.0 in comparison to hg37 65
+
+hg38 522254.0 in comparison to hg37 27000
+
+hg38 2.164224e6 in comparison to hg37 2531000
+
+hg38 31868.0 in comparison to hg37 31865
+
+hg38 849.0 in comparison to hg37 851
+
+hg38 654.0 in comparison to hg37 648
+
+hg38 2100.0 in comparison to hg37 2094
+
+hg38 878434.0 in comparison to hg37 866216
+
+hg38 9999.0 in comparison to hg37 10000
+
+hg38 263530.0 in comparison to hg37 263550
+
+hg38 600.0 in comparison to hg37 636
+
+hg38 3478.0 in comparison to hg37 3477
+
+hg38 3129.0 in comparison to hg37 3131
+
+hg38 6752.0 in comparison to hg37 6751
+
+hg38 413999.0 in comparison to hg37 414000
+
+hg38 18922.0 in comparison to hg37 18923
+
+hg38 327002.0 in comparison to hg37 327000
+
+hg38 23465.0 in comparison to hg37 23462
+
+hg38 237.0 in comparison to hg37 268
+
+hg38 5051.0 in comparison to hg37 5052
+
+hg38 5551.0 in comparison to hg37 5550
+
+hg38 36285.0 in comparison to hg37 36300
+
+hg38 7140.0 in comparison to hg37 7141
+
+hg38 2679.0 in comparison to hg37 2680
+
+hg38 3864.0 in comparison to hg37 3865
+
+hg38 501254.0 in comparison to hg37 6000
+
+hg38 2222.0 in comparison to hg37 2230
+
+hg38 13793.0 in comparison to hg37 13794
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 8417.0 in comparison to hg37 8419
+
+hg38 46199.0 in comparison to hg37 46200
+
+hg38 383.0 in comparison to hg37 419
+
+hg38 7905.0 in comparison to hg37 7904
+
+hg38 5638.0 in comparison to hg37 5637
+
+hg38 1239.0 in comparison to hg37 1238
+
+hg38 10020.0 in comparison to hg37 10000
+
+hg38 982.0 in comparison to hg37 973
+
+hg38 2102.0 in comparison to hg37 2117
+
+hg38 272.0 in comparison to hg37 273
+
+hg38 4984.0 in comparison to hg37 4934
+
+hg38 1177.0 in comparison to hg37 1176
+
+hg38 15366.0 in comparison to hg37 15549
+
+hg38 687.0 in comparison to hg37 682
+
+hg38 622.0 in comparison to hg37 672
+
+hg38 479.0 in comparison to hg37 476
+
+hg38 28427.0 in comparison to hg37 28428
+
+hg38 41401.0 in comparison to hg37 41400
+
+hg38 719.0 in comparison to hg37 711
+
+hg38 75.0 in comparison to hg37 102
+
+hg38 943.0 in comparison to hg37 970
+
+hg38 489.0 in comparison to hg37 490
+
+hg38 24000.0 in comparison to hg37 24001
+
+hg38 921.0 in comparison to hg37 912
+
+hg38 3310.0 in comparison to hg37 3310
+
+hg38 3722.0 in comparison to hg37 3721
+
+hg38 9484.0 in comparison to hg37 9483
+
+hg38 7620.0 in comparison to hg37 7620
+
+hg38 127066.0 in comparison to hg37 126753
+
+hg38 19004.0 in comparison to hg37 19000
+
+hg38 2588.0 in comparison to hg37 2587
+
+hg38 24999.0 in comparison to hg37 25000
+
+hg38 45903.0 in comparison to hg37 45907
+
+hg38 183842.0 in comparison to hg37 183537
+
+hg38 106621.0 in comparison to hg37 106312
+
+hg38 186482.0 in comparison to hg37 186177
+
+hg38 13936.0 in comparison to hg37 13957
+
+hg38 675.0 in comparison to hg37 695
+
+hg38 60608.0 in comparison to hg37 60631
+
+hg38 5111.0 in comparison to hg37 5103
+
+hg38 502.0 in comparison to hg37 502
+
+hg38 236229.0 in comparison to hg37 235939
+
+hg38 206578.0 in comparison to hg37 206273
+
+hg38 792.0 in comparison to hg37 790
+
+hg38 92708.0 in comparison to hg37 92391
+
+hg38 20846.0 in comparison to hg37 20850
+
+hg38 18386.0 in comparison to hg37 18436
+
+hg38 715.0 in comparison to hg37 716
+
+hg38 804.0 in comparison to hg37 814
+
+hg38 1856.0 in comparison to hg37 1853
+
+hg38 81.0 in comparison to hg37 82
+
+hg38 47.0 in comparison to hg37 51
+
+hg38 6813.0 in comparison to hg37 6500
+
+hg38 36573.0 in comparison to hg37 42504
+
+hg38 6998.0 in comparison to hg37 7000
+
+hg38 37151.0 in comparison to hg37 37153
+
+hg38 712.0 in comparison to hg37 702
+
+hg38 4553.0 in comparison to hg37 4554
+
+hg38 13198.0 in comparison to hg37 13200
+
+hg38 11999.0 in comparison to hg37 12000
+
+hg38 9897.0 in comparison to hg37 9900
+
+hg38 20562.0 in comparison to hg37 20500
+
+hg38 73.0 in comparison to hg37 81
+
+hg38 62393.0 in comparison to hg37 62500
+
+hg38 14999.0 in comparison to hg37 15000
+
+hg38 39999.0 in comparison to hg37 40000
+
+hg38 75288.0 in comparison to hg37 75370
+
+hg38 10712.0 in comparison to hg37 10711
+
+hg38 287157.0 in comparison to hg37 287217
+
+hg38 8375.0 in comparison to hg37 8400
+
+hg38 39494.0 in comparison to hg37 39500
+
+hg38 20522.0 in comparison to hg37 20515
+
+hg38 737.0 in comparison to hg37 740
+
+hg38 5101.0 in comparison to hg37 5100
+
+hg38 9069.0 in comparison to hg37 9066
+
+hg38 26198.0 in comparison to hg37 26206
+
+hg38 48633.0 in comparison to hg37 48638
+
+hg38 7999.0 in comparison to hg37 8000
+
+hg38 3268.0 in comparison to hg37 3275
+
+hg38 36080.0 in comparison to hg37 36095
+
+hg38 6997.0 in comparison to hg37 7000
+
+hg38 658.0 in comparison to hg37 658
+
+hg38 5817.0 in comparison to hg37 5838
+
+hg38 39417.0 in comparison to hg37 39414
+
+hg38 155946.0 in comparison to hg37 155637
+
+hg38 4492.0 in comparison to hg37 4499
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 8999.0 in comparison to hg37 9000
+
+hg38 7998.0 in comparison to hg37 8000
+
+hg38 5.367659e6 in comparison to hg37 23600
+
+hg38 5.424659e6 in comparison to hg37 70400
+
+hg38 5.362183e6 in comparison to hg37 6000
+
+hg38 5.362183e6 in comparison to hg37 6300
+
+hg38 5.362183e6 in comparison to hg37 6800
+
+hg38 5.439183e6 in comparison to hg37 77000
+
+hg38 12052.0 in comparison to hg37 12000
+
+hg38 23842.0 in comparison to hg37 23000
+
+hg38 5546.0 in comparison to hg37 5539
+
+hg38 156.0 in comparison to hg37 157
+
+hg38 107999.0 in comparison to hg37 108000
+
+hg38 532654.0 in comparison to hg37 37400
+
+hg38 517254.0 in comparison to hg37 22000
+
+hg38 521804.0 in comparison to hg37 26550
+
+hg38 557879.0 in comparison to hg37 62625
+
+hg38 60489.0 in comparison to hg37 60500
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 4492.0 in comparison to hg37 4499
+
+hg38 22648.0 in comparison to hg37 22650
+
+hg38 22999.0 in comparison to hg37 23000
+
+hg38 9003.0 in comparison to hg37 9000
+
+hg38 25998.0 in comparison to hg37 26000
+
+hg38 22203.0 in comparison to hg37 22202
+
+hg38 1.118451e6 in comparison to hg37 1118417
+
+hg38 264586.0 in comparison to hg37 264585
+
+hg38 10996.0 in comparison to hg37 11000
+
+hg38 529.0 in comparison to hg37 532
+
+hg38 6008.0 in comparison to hg37 6000
+
+hg38 13018.0 in comparison to hg37 13000
+
+hg38 169001.0 in comparison to hg37 169000
+
+hg38 72832.0 in comparison to hg37 72827
+
+hg38 615191.0 in comparison to hg37 613027
+
+hg38 235350.0 in comparison to hg37 233073
+
+hg38 24802.0 in comparison to hg37 24801
+
+hg38 350106.0 in comparison to hg37 347829
+
+hg38 34973.0 in comparison to hg37 34950
+
+hg38 5101.0 in comparison to hg37 5100
+
+hg38 27034.0 in comparison to hg37 24731
+
+hg38 157.0 in comparison to hg37 103
+
+hg38 9193.0 in comparison to hg37 9200
+
+hg38 65048.0 in comparison to hg37 65047
+
+hg38 145807.0 in comparison to hg37 145500
+
+hg38 101329.0 in comparison to hg37 101328
+
+hg38 11412.0 in comparison to hg37 11413
+
+hg38 10999.0 in comparison to hg37 11000
+
+hg38 182002.0 in comparison to hg37 182000
+
+hg38 24010.0 in comparison to hg37 24000
+
+hg38 15982.0 in comparison to hg37 16000
+
+hg38 10633.0 in comparison to hg37 10634
+
+hg38 358083.0 in comparison to hg37 358091
+
+hg38 5993.0 in comparison to hg37 6000
+
+hg38 191637.0 in comparison to hg37 191639
+
+hg38 9099.0 in comparison to hg37 9100
+
+hg38 14269.0 in comparison to hg37 14276
+
+hg38 34484.0 in comparison to hg37 34500
+
+hg38 34499.0 in comparison to hg37 34000
+
+hg38 35763.0 in comparison to hg37 35764
+
+hg38 43999.0 in comparison to hg37 44000
+
+hg38 44001.0 in comparison to hg37 44000
+
+hg38 27151.0 in comparison to hg37 27150
+
+hg38 10396.0 in comparison to hg37 10395
+
+hg38 233808.0 in comparison to hg37 233806
+
+hg38 456110.0 in comparison to hg37 456112
+
+hg38 92538.0 in comparison to hg37 92536
+
+hg38 8301.0 in comparison to hg37 8300
+
+hg38 26351.0 in comparison to hg37 26350
+
+hg38 9002.0 in comparison to hg37 9000
+
+hg38 55920.0 in comparison to hg37 56000
+
+hg38 211749.0 in comparison to hg37 211750
+
+hg38 8492.0 in comparison to hg37 8500
+
+hg38 4992.0 in comparison to hg37 5000
+
+hg38 29194.0 in comparison to hg37 29200
+
+hg38 20912.0 in comparison to hg37 20850
+
+hg38 7686.0 in comparison to hg37 7750
+
+hg38 23574.0 in comparison to hg37 23574
+
+hg38 6052.0 in comparison to hg37 6050
+
+hg38 21010.0 in comparison to hg37 21000
+
+hg38 118477.0 in comparison to hg37 81000
+
+hg38 535355.0 in comparison to hg37 389067
+
+hg38 7146.0 in comparison to hg37 7100
+
+hg38 142470.0 in comparison to hg37 142500
+
+hg38 1334.0 in comparison to hg37 1336
+
+hg38 14092.0 in comparison to hg37 14100
+
+hg38 147386.0 in comparison to hg37 50461
+
+hg38 144023.0 in comparison to hg37 144000
+
+hg38 7201.0 in comparison to hg37 7200
+
+hg38 13138.0 in comparison to hg37 13150
+
+hg38 20918.0 in comparison to hg37 20950
+
+hg38 16000.0 in comparison to hg37 16000
+
+hg38 151534.0 in comparison to hg37 150757
+
+hg38 541187.0 in comparison to hg37 540424
+
+hg38 5680.0 in comparison to hg37 5000
+
+hg38 71367.0 in comparison to hg37 71367
+
+hg38 8000.0 in comparison to hg37 8000
+
+hg38 16873.0 in comparison to hg37 7000
+
+hg38 37000.0 in comparison to hg37 37000
+
+hg38 49863.0 in comparison to hg37 40000
+
+hg38 6656.0 in comparison to hg37 6650
+
+hg38 7502.0 in comparison to hg37 7500
+
+hg38 105780.0 in comparison to hg37 41270
+
+hg38 48104.0 in comparison to hg37 48100
+
+hg38 12004.0 in comparison to hg37 12000
+
+hg38 16049.0 in comparison to hg37 16050
+
+hg38 505590.0 in comparison to hg37 57950
+
+hg38 505840.0 in comparison to hg37 28223
+
+hg38 550780.0 in comparison to hg37 73223
+
+hg38 51043.0 in comparison to hg37 51000
+
+hg38 503642.0 in comparison to hg37 503598
+
+hg38 391.0 in comparison to hg37 416
+
+hg38 13270.0 in comparison to hg37 13262
+
+hg38 5480.0 in comparison to hg37 5500
+
+hg38 699.0 in comparison to hg37 701
+
+hg38 79725.0 in comparison to hg37 75000
+
+hg38 18574.0 in comparison to hg37 18580
+
+hg38 159155.0 in comparison to hg37 159178
+
+hg38 1063.0 in comparison to hg37 1054
+
+hg38 18180.0 in comparison to hg37 18169
+
+hg38 10001.0 in comparison to hg37 10000
+
+hg38 466.0 in comparison to hg37 372
+
+hg38 436.0 in comparison to hg37 342
+
+hg38 870.0 in comparison to hg37 764
+
+hg38 898.0 in comparison to hg37 804
+
+hg38 267493.0 in comparison to hg37 267123
+
+hg38 7504.0 in comparison to hg37 7500
+
+hg38 6000.0 in comparison to hg37 6000
+
+hg38 102971.0 in comparison to hg37 103000
+
+hg38 11293.0 in comparison to hg37 11300
+
+hg38 11092.0 in comparison to hg37 11100
+
+hg38 5348.0 in comparison to hg37 5350
+
+hg38 7994.0 in comparison to hg37 8000
+
+hg38 25244.0 in comparison to hg37 25300
+
+hg38 38136.0 in comparison to hg37 38150
+
+hg38 472287.0 in comparison to hg37 2210
+
+hg38 4011.0 in comparison to hg37 4015
+
+hg38 158389.0 in comparison to hg37 158421
+
+hg38 40483.0 in comparison to hg37 40500
+
+hg38 100776.0 in comparison to hg37 100800
+
+hg38 216420.0 in comparison to hg37 118279
+
+hg38 16954.0 in comparison to hg37 17000
+
+hg38 113402.0 in comparison to hg37 23140
+
+hg38 148583.0 in comparison to hg37 43550
+
+hg38 69082.0 in comparison to hg37 6950
+
+hg38 148583.0 in comparison to hg37 37624
+
+hg38 30780.0 in comparison to hg37 6003
+
+hg38 140173.0 in comparison to hg37 53900
+
+hg38 287685.0 in comparison to hg37 287684
+
+hg38 133932.0 in comparison to hg37 30400
+
+hg38 126731.0 in comparison to hg37 40350
+
+hg38 117635.0 in comparison to hg37 14000
+
+hg38 240.0 in comparison to hg37 164
+
+hg38 5180.0 in comparison to hg37 5174
+
+hg38 51542.0 in comparison to hg37 51550
+
+hg38 316901.0 in comparison to hg37 316900
+
+hg38 427494.0 in comparison to hg37 427500
+
+hg38 8196.0 in comparison to hg37 8200
+
+hg38 576646.0 in comparison to hg37 111000
+
+hg38 576196.0 in comparison to hg37 79050
+
+hg38 456980.0 in comparison to hg37 15600
+
+hg38 435965.0 in comparison to hg37 8350
+
+hg38 47998.0 in comparison to hg37 48000
+
+hg38 6332.0 in comparison to hg37 6345
+
+hg38 5490.0 in comparison to hg37 5500
+
+hg38 10994.0 in comparison to hg37 11000
+
+hg38 103615.0 in comparison to hg37 8250
+
+hg38 6210.0 in comparison to hg37 6000
+
+hg38 47899.0 in comparison to hg37 47689
+
+hg38 116210.0 in comparison to hg37 116000
+
+hg38 229816.0 in comparison to hg37 229800
+
+hg38 251219.0 in comparison to hg37 251206
+
+hg38 174.0 in comparison to hg37 82
+
+hg38 183.0 in comparison to hg37 175
+
+hg38 93.0 in comparison to hg37 55
+
+hg38 6019.0 in comparison to hg37 6028
+
+hg38 71403.0 in comparison to hg37 71400
+
+hg38 130180.0 in comparison to hg37 145100
+
+hg38 13107.0 in comparison to hg37 13097
+
+hg38 32999.0 in comparison to hg37 33000
+
+hg38 21100.0 in comparison to hg37 21100
+
+hg38 78000.0 in comparison to hg37 78000
+
+hg38 197005.0 in comparison to hg37 197000
+
+hg38 163.0 in comparison to hg37 115
+
+hg38 21051.0 in comparison to hg37 21050
+
+hg38 1.070733e6 in comparison to hg37 1070867
+
+hg38 110999.0 in comparison to hg37 111000
+
+hg38 39999.0 in comparison to hg37 40000
+
+hg38 738894.0 in comparison to hg37 738948
+
+hg38 102446.0 in comparison to hg37 102500
+
+hg38 189505.0 in comparison to hg37 189524
+
+hg38 29996.0 in comparison to hg37 30000
+
+hg38 10985.0 in comparison to hg37 11000
+
+hg38 159593.0 in comparison to hg37 159607
+
+hg38 40394.0 in comparison to hg37 40400
+
+hg38 5508.0 in comparison to hg37 5507
+
+hg38 22014.0 in comparison to hg37 22000
+
+hg38 144382.0 in comparison to hg37 144374
+
+hg38 22339.0 in comparison to hg37 22338
+
+hg38 59499.0 in comparison to hg37 59500
+
+hg38 65886.0 in comparison to hg37 65900
+
+hg38 248131.0 in comparison to hg37 211000
+
+hg38 13001.0 in comparison to hg37 13000
+
+hg38 60939.0 in comparison to hg37 60939
+
+hg38 6999.0 in comparison to hg37 7000
+
+hg38 22.0 in comparison to hg37 32
+
+hg38 109.0 in comparison to hg37 53
+
+hg38 63.0 in comparison to hg37 67
+
+hg38 38.0 in comparison to hg37 42
+
+hg38 32.0 in comparison to hg37 29
+
+hg38 34.0 in comparison to hg37 46
+
+hg38 44.0 in comparison to hg37 36
+
+hg38 88.0 in comparison to hg37 50
+
+hg38 125990.0 in comparison to hg37 75010
+
+hg38 75.0 in comparison to hg37 35
+
+hg38 53.0 in comparison to hg37 55
+
+hg38 46.0 in comparison to hg37 52
+
+hg38 31.0 in comparison to hg37 37
+
+hg38 29.0 in comparison to hg37 35
+
+hg38 42.0 in comparison to hg37 16
+
+hg38 47.0 in comparison to hg37 48
+
+hg38 139.0 in comparison to hg37 43
+
+hg38 118.0 in comparison to hg37 22
+
+hg38 116.0 in comparison to hg37 20
+
+hg38 110.0 in comparison to hg37 14
+
+hg38 182408.0 in comparison to hg37 41400
+
+hg38 7003.0 in comparison to hg37 7000
+
+hg38 50.0 in comparison to hg37 46
+
+hg38 51119.0 in comparison to hg37 14000
+
+hg38 5632.0 in comparison to hg37 5650
+
+hg38 5518.0 in comparison to hg37 5500
+
+hg38 212924.0 in comparison to hg37 212926
+
+hg38 53159.0 in comparison to hg37 53160
+
+hg38 13999.0 in comparison to hg37 14000
+
+hg38 33828.0 in comparison to hg37 33829
+
+hg38 118764.0 in comparison to hg37 118766
+
+hg38 101766.0 in comparison to hg37 101767
+
+hg38 44500.0 in comparison to hg37 44500
+
+hg38 21988.0 in comparison to hg37 22000
+
+hg38 10665.0 in comparison to hg37 11000
+
+hg38 5798.0 in comparison to hg37 5800
+
+hg38 15053.0 in comparison to hg37 15050
+
+hg38 98642.0 in comparison to hg37 99000
+
+hg38 978.0 in comparison to hg37 965
+
+hg38 16135.0 in comparison to hg37 16136
+
+hg38 17000.0 in comparison to hg37 17000
+
+hg38 149534.0 in comparison to hg37 150575
+
+hg38 146363.0 in comparison to hg37 146365
+
+hg38 84732.0 in comparison to hg37 9407
+
+hg38 146281.0 in comparison to hg37 74292
+
+hg38 8997.0 in comparison to hg37 9000
+
+hg38 52992.0 in comparison to hg37 28343
+
+hg38 5108.0 in comparison to hg37 5100
+
+hg38 7339.0 in comparison to hg37 7371
+
+hg38 84608.0 in comparison to hg37 11325
+
+hg38 7165.0 in comparison to hg37 7166
+
+hg38 216371.0 in comparison to hg37 216300
+
+hg38 15320.0 in comparison to hg37 15312
+
+hg38 7294.0 in comparison to hg37 7300
+
+hg38 479011.0 in comparison to hg37 275500
+
+hg38 7998.0 in comparison to hg37 8000
+
+hg38 9999.0 in comparison to hg37 10000
+
+hg38 63984.0 in comparison to hg37 65000
+
+hg38 6000.0 in comparison to hg37 6000
+
+hg38 111369.0 in comparison to hg37 15522
+
+hg38 527928.0 in comparison to hg37 528000
+
+hg38 162571.0 in comparison to hg37 162571
+
+hg38 33168.0 in comparison to hg37 33162
+
+hg38 5301.0 in comparison to hg37 5300
+
+hg38 64487.0 in comparison to hg37 64500
+
+hg38 49680.0 in comparison to hg37 49676
+
+hg38 464723.0 in comparison to hg37 551279
+
+hg38 239176.0 in comparison to hg37 51424
+
+hg38 210752.0 in comparison to hg37 29050
+
+hg38 238641.0 in comparison to hg37 208691
+
+hg38 239176.0 in comparison to hg37 101424
+
+hg38 16602.0 in comparison to hg37 16602
+
+hg38 74025.0 in comparison to hg37 74016
+
+hg38 54605.0 in comparison to hg37 54596
+
+hg38 17087.0 in comparison to hg37 17100
+
+hg38 263.0 in comparison to hg37 267
+
+hg38 52098.0 in comparison to hg37 52100
+
+hg38 174892.0 in comparison to hg37 4120
+
+hg38 11001.0 in comparison to hg37 11000
+
+hg38 230525.0 in comparison to hg37 191000
+
+hg38 26639.0 in comparison to hg37 26750
+
+hg38 6151.0 in comparison to hg37 6150
+
+hg38 10987.0 in comparison to hg37 11000
+
+hg38 337345.0 in comparison to hg37 307636
+
+hg38 11272.0 in comparison to hg37 11275
+
+hg38 59749.0 in comparison to hg37 32265
+
+hg38 3871.0 in comparison to hg37 3871
+
+hg38 24695.0 in comparison to hg37 24700
+
+hg38 15009.0 in comparison to hg37 15000
+
+hg38 7078.0 in comparison to hg37 4628
+
+hg38 5591.0 in comparison to hg37 5584
+
+hg38 13281.0 in comparison to hg37 14188
+
+hg38 2529.0 in comparison to hg37 2507
+
+hg38 115748.0 in comparison to hg37 34788
+
+hg38 107510.0 in comparison to hg37 7800
+
+hg38 4406.0 in comparison to hg37 4400
+
+hg38 95605.0 in comparison to hg37 9281
+
+hg38 74759.0 in comparison to hg37 5686
+
+hg38 576746.0 in comparison to hg37 24000
+
+hg38 9990.0 in comparison to hg37 10000
+
+hg38 447980.0 in comparison to hg37 5000
+
+hg38 5712.0 in comparison to hg37 5700
+
+hg38 180734.0 in comparison to hg37 10710
+
+hg38 6915.0 in comparison to hg37 6916
+
+hg38 182408.0 in comparison to hg37 5862
+
+hg38 141117.0 in comparison to hg37 104000
+
+hg38 182355.0 in comparison to hg37 182356
+
+hg38 6558.0 in comparison to hg37 6554
+
+hg38 4992.0 in comparison to hg37 5000
+
+hg38 9788.0 in comparison to hg37 9600
+
+hg38 50054.0 in comparison to hg37 49876
+
+hg38 16009.0 in comparison to hg37 16000
+
+hg38 127653.0 in comparison to hg37 50600
+
+hg38 84175.0 in comparison to hg37 13000
+
+hg38 5688.0 in comparison to hg37 5700
+
+hg38 24640.0 in comparison to hg37 24300
+
+hg38 10949.0 in comparison to hg37 10950
+
+hg38 19380.0 in comparison to hg37 19351
+
+hg38 358410.0 in comparison to hg37 358400
+
+hg38 110.0 in comparison to hg37 121
+
+hg38 13457.0 in comparison to hg37 13455
+
+hg38 4414.0 in comparison to hg37 4406
+
+hg38 57334.0 in comparison to hg37 57300
+
+hg38 3589.0 in comparison to hg37 3603
+
+hg38 3576.0 in comparison to hg37 3590
+
+hg38 2031.0 in comparison to hg37 2041
+
+hg38 80.0 in comparison to hg37 78
+
+hg38 3919.0 in comparison to hg37 3927
+
+hg38 7027.0 in comparison to hg37 7032
+
+hg38 26404.0 in comparison to hg37 26415
+
+hg38 18203.0 in comparison to hg37 18218
+
+hg38 335.0 in comparison to hg37 337
+
+hg38 13414.0 in comparison to hg37 13432
+
+hg38 72339.0 in comparison to hg37 72332
+
+hg38 560.0 in comparison to hg37 558
+
+hg38 9537.0 in comparison to hg37 9538
+
+hg38 2089.0 in comparison to hg37 2088
+
+hg38 9720.0 in comparison to hg37 9709
+
+hg38 6369.0 in comparison to hg37 6372
+
+hg38 605.0 in comparison to hg37 654
+
+hg38 514.0 in comparison to hg37 563
+
+hg38 729.0 in comparison to hg37 673
+
+hg38 383.0 in comparison to hg37 381
+
+hg38 58.0 in comparison to hg37 84
+
+hg38 6498.0 in comparison to hg37 6482
+
+hg38 633.0 in comparison to hg37 634
+
+hg38 524.0 in comparison to hg37 526
+
+hg38 456.0 in comparison to hg37 458
+
+hg38 8968.0 in comparison to hg37 9000
+
+hg38 255087.0 in comparison to hg37 255108
+
+hg38 42894.0 in comparison to hg37 42878
+
+hg38 1463.0 in comparison to hg37 1462
+
+hg38 16484.0 in comparison to hg37 16486
+
+hg38 12703.0 in comparison to hg37 12706
+
+hg38 13500.0 in comparison to hg37 13500
+
+hg38 5002.0 in comparison to hg37 5004
+
+hg38 13194.0 in comparison to hg37 13194
+
+hg38 4542.0 in comparison to hg37 4542
+
+hg38 26837.0 in comparison to hg37 26825
+
+hg38 11061.0 in comparison to hg37 11060
+
+hg38 17701.0 in comparison to hg37 17700
+
+hg38 95099.0 in comparison to hg37 95100
+
+hg38 609902.0 in comparison to hg37 609900
+
+hg38 203802.0 in comparison to hg37 203800
+
+hg38 33601.0 in comparison to hg37 33600
+
+hg38 569.0 in comparison to hg37 568
+
+hg38 5400.0 in comparison to hg37 5400
+
+hg38 6321.0 in comparison to hg37 6313
+
+hg38 9198.0 in comparison to hg37 9202
+
+hg38 5402.0 in comparison to hg37 5400
+
+hg38 15873.0 in comparison to hg37 6000
+
+hg38 27874.0 in comparison to hg37 18000
+
+hg38 770.0 in comparison to hg37 764
+
+hg38 3160.0 in comparison to hg37 3161
+
+hg38 3628.0 in comparison to hg37 3621
+
+hg38 3471.0 in comparison to hg37 3472
+
+hg38 45987.0 in comparison to hg37 46000
+
+hg38 7364.0 in comparison to hg37 7353
+
+hg38 8997.0 in comparison to hg37 9000
+
+hg38 25855.0 in comparison to hg37 25855
+
+hg38 14499.0 in comparison to hg37 14500
+
+hg38 448130.0 in comparison to hg37 6000
+
+hg38 6317.0 in comparison to hg37 6300
+
+hg38 5994.0 in comparison to hg37 6000
+
+hg38 45987.0 in comparison to hg37 46000
+
+hg38 9563.0 in comparison to hg37 9513
+
+hg38 6004.0 in comparison to hg37 6000
+
+hg38 234334.0 in comparison to hg37 228200
+
+hg38 5294.0 in comparison to hg37 5300
+
+hg38 17996.0 in comparison to hg37 18000
+
+hg38 861.0 in comparison to hg37 863
+
+hg38 2497.0 in comparison to hg37 2496
+
+hg38 6099.0 in comparison to hg37 6100
+
+hg38 2261.0 in comparison to hg37 2265
+
+hg38 5748.0 in comparison to hg37 5750
+
+hg38 13843.0 in comparison to hg37 13850
+
+hg38 114164.0 in comparison to hg37 114200
+
+hg38 356341.0 in comparison to hg37 356000
+
+hg38 5000.0 in comparison to hg37 5000
+
+hg38 47529.0 in comparison to hg37 47557
+
+hg38 20085.0 in comparison to hg37 20101
+
+hg38 14780.0 in comparison to hg37 14798
+
+hg38 60775.0 in comparison to hg37 60773
+
+hg38 69071.0 in comparison to hg37 69050
+
+hg38 63.0 in comparison to hg37 62
+
+hg38 46.0 in comparison to hg37 50
+
+hg38 676.0 in comparison to hg37 677
+
+hg38 5296.0 in comparison to hg37 5290
+
+hg38 55999.0 in comparison to hg37 56000
+
+hg38 103615.0 in comparison to hg37 15878
+
+hg38 111316.0 in comparison to hg37 9600
+
+hg38 236736.0 in comparison to hg37 236731
+
+hg38 90219.0 in comparison to hg37 90219
+
+hg38 26200.0 in comparison to hg37 26200
+
+hg38 71161.0 in comparison to hg37 71155
+
+hg38 404.0 in comparison to hg37 406
+
+hg38 788.0 in comparison to hg37 787
+
+hg38 83265.0 in comparison to hg37 83252
+
+hg38 189314.0 in comparison to hg37 189315
+
+hg38 273811.0 in comparison to hg37 273809
+
+hg38 9851.0 in comparison to hg37 9850
+
+hg38 4478.0 in comparison to hg37 4477
+
+hg38 65402.0 in comparison to hg37 65400
+
+hg38 35978.0 in comparison to hg37 35979
+
+hg38 38938.0 in comparison to hg37 38955
+
+hg38 458042.0 in comparison to hg37 458043
+
+hg38 131701.0 in comparison to hg37 131700
+
+hg38 11373.0 in comparison to hg37 11397
+
+hg38 14864.0 in comparison to hg37 14874
+
+hg38 13997.0 in comparison to hg37 14000
+
+hg38 18715.0 in comparison to hg37 18700
+
+hg38 353564.0 in comparison to hg37 353400
+
+hg38 97777.0 in comparison to hg37 97567
+
+hg38 18646.0 in comparison to hg37 18436
+
+hg38 11553.0 in comparison to hg37 11600
+
+hg38 69082.0 in comparison to hg37 6700
+
+hg38 31558.0 in comparison to hg37 37000
+
+hg38 94.0 in comparison to hg37 80
+
+hg38 108614.0 in comparison to hg37 5000
+
+hg38 16434.0 in comparison to hg37 16435
+
+hg38 1982.0 in comparison to hg37 1978
+
+hg38 888.0 in comparison to hg37 888
+
+hg38 6001.0 in comparison to hg37 6000
+
+hg38 60880.0 in comparison to hg37 60670
+
+hg38 60277.0 in comparison to hg37 60067
+
+hg38 60277.0 in comparison to hg37 60067
+
+hg38 59679.0 in comparison to hg37 59469
+
+hg38 59946.0 in comparison to hg37 59736
+
+hg38 58898.0 in comparison to hg37 58688
+
+hg38 58312.0 in comparison to hg37 58102
+
+hg38 58439.0 in comparison to hg37 58229
+
+hg38 58242.0 in comparison to hg37 58032
+
+hg38 58298.0 in comparison to hg37 58088
+
+hg38 33581.0 in comparison to hg37 33371
+
+hg38 234863.0 in comparison to hg37 140221
+
+hg38 12397.0 in comparison to hg37 12395
+
+hg38 27595.0 in comparison to hg37 27594
+
+hg38 14551.0 in comparison to hg37 14553
+
+hg38 32969.0 in comparison to hg37 32990
+
+hg38 456626.0 in comparison to hg37 456972
+
+hg38 481451.0 in comparison to hg37 481802
+
+hg38 156322.0 in comparison to hg37 156323
+
+hg38 60716.0 in comparison to hg37 60717
+
+hg38 6248.0 in comparison to hg37 7000
+
+hg38 9963.0 in comparison to hg37 9993
+
+hg38 692798.0 in comparison to hg37 491946
+
+hg38 8955.0 in comparison to hg37 9000
+
+hg38 50.0 in comparison to hg37 52
+
+hg38 1.240224e6 in comparison to hg37 1290224
+
+hg38 316700.0 in comparison to hg37 366700
+
+hg38 61577.0 in comparison to hg37 61367
+
+hg38 37423.0 in comparison to hg37 37422
+
+hg38 296302.0 in comparison to hg37 197146
+
+hg38 26466.0 in comparison to hg37 26466
+
+hg38 1.467371e6 in comparison to hg37 1669597
+
+hg38 402819.0 in comparison to hg37 201967
+
+hg38 3.4035867e7 in comparison to hg37 33977079
+
+hg38 713978.0 in comparison to hg37 763978
+
+hg38 834664.0 in comparison to hg37 834663
+
+hg38 26686.0 in comparison to hg37 26686
+
+hg38 4.273993e6 in comparison to hg37 4443570
+
+hg38 4.383735e6 in comparison to hg37 4553350
+
+hg38 4.5023e6 in comparison to hg37 4671905
+
+hg38 4.341521e6 in comparison to hg37 4511136
+
+hg38 4.454407e6 in comparison to hg37 4624023
+
+hg38 4.304999e6 in comparison to hg37 4475688
+
+hg38 4.165232e6 in comparison to hg37 4335910
+
+hg38 4.165292e6 in comparison to hg37 4335970
+
+hg38 255351.0 in comparison to hg37 198834
+
+hg38 14571.0 in comparison to hg37 14590
+
+hg38 7866.0 in comparison to hg37 7865
+
+hg38 147678.0 in comparison to hg37 147679
+
+hg38 36580.0 in comparison to hg37 36579
+
+hg38 147399.0 in comparison to hg37 86161
+
+hg38 19103.0 in comparison to hg37 19095
+
+hg38 182565.0 in comparison to hg37 172667
+
+hg38 118366.0 in comparison to hg37 37988
+
+hg38 1701.0 in comparison to hg37 1700
+
+hg38 23820.0 in comparison to hg37 23851
+
+hg38 22968.0 in comparison to hg37 22999
+
+hg38 3057.0 in comparison to hg37 3055
+
+hg38 429973.0 in comparison to hg37 429974
+
+hg38 49301.0 in comparison to hg37 49300
+
+hg38 757.0 in comparison to hg37 755
+
+hg38 12406.0 in comparison to hg37 12376
+
+hg38 4287.0 in comparison to hg37 4286
+
+hg38 49420.0 in comparison to hg37 49500
+
+hg38 27.0 in comparison to hg37 28
+
+hg38 23665.0 in comparison to hg37 23828
+
+hg38 40783.0 in comparison to hg37 40800
+
+hg38 10506.0 in comparison to hg37 10500
+
+hg38 16198.0 in comparison to hg37 16200
+
+hg38 27941.0 in comparison to hg37 27973
+
+hg38 4194.0 in comparison to hg37 7969
+
+hg38 95015.0 in comparison to hg37 95000
+
+hg38 9012.0 in comparison to hg37 9000
+
+hg38 110839.0 in comparison to hg37 111000
+
+hg38 5002.0 in comparison to hg37 5000
+
+hg38 464.0 in comparison to hg37 465
+
+hg38 5429.0 in comparison to hg37 5429
+
+hg38 13396.0 in comparison to hg37 13393
+
+hg38 69983.0 in comparison to hg37 70000
+
+hg38 3467.0 in comparison to hg37 3472
+
+hg38 7228.0 in comparison to hg37 7260
+
+hg38 1578.0 in comparison to hg37 1574
+
+hg38 6403.0 in comparison to hg37 5959
+
+hg38 9003.0 in comparison to hg37 9000
+
+hg38 7249.0 in comparison to hg37 7250
+
+hg38 137369.0 in comparison to hg37 40672
+
+hg38 9078.0 in comparison to hg37 9000
+
+hg38 12997.0 in comparison to hg37 13000
+
+hg38 88.0 in comparison to hg37 80
+
+hg38 13400.0 in comparison to hg37 13400
+
+hg38 1008.0 in comparison to hg37 1009
+
+hg38 228598.0 in comparison to hg37 228600
+
+hg38 1128.0 in comparison to hg37 1126
+
+hg38 19275.0 in comparison to hg37 19274
+
+hg38 316275.0 in comparison to hg37 316274
+
+hg38 8301.0 in comparison to hg37 8300
+
+hg38 11005.0 in comparison to hg37 11004
+
+hg38 249.0 in comparison to hg37 247
+
+hg38 81.0 in comparison to hg37 82
+
+hg38 118862.0 in comparison to hg37 118850
+
+hg38 54.0 in comparison to hg37 66
+
+hg38 30002.0 in comparison to hg37 30000
+
+hg38 147150.0 in comparison to hg37 147200
+
+hg38 47656.0 in comparison to hg37 47700
+
+hg38 32792.0 in comparison to hg37 32800
+
+hg38 48993.0 in comparison to hg37 49000
+
+hg38 111374.0 in comparison to hg37 111370
+
+hg38 8368.0 in comparison to hg37 8367
+
+hg38 6967.0 in comparison to hg37 6966
+
+hg38 2205.0 in comparison to hg37 2204
+
+hg38 6398.0 in comparison to hg37 6397
+
+hg38 12905.0 in comparison to hg37 14000
+
+hg38 3907.0 in comparison to hg37 5000
+
+hg38 743.0 in comparison to hg37 749
+
+hg38 2545.0 in comparison to hg37 2541
+
+hg38 1494.0 in comparison to hg37 1517
+
+hg38 3731.0 in comparison to hg37 3733
+
+hg38 12411.0 in comparison to hg37 12409
+
+hg38 9751.0 in comparison to hg37 9750
+
+hg38 3463.0 in comparison to hg37 3440
+
+hg38 2370.0 in comparison to hg37 2373
+
+hg38 19457.0 in comparison to hg37 19450
+
+hg38 8013.0 in comparison to hg37 8000
+
+hg38 318805.0 in comparison to hg37 318805
+
+hg38 5996.0 in comparison to hg37 6000
+
+hg38 28983.0 in comparison to hg37 29000
+
+hg38 36002.0 in comparison to hg37 36000
+
+hg38 39998.0 in comparison to hg37 40000
+
+hg38 26719.0 in comparison to hg37 26757
+
+hg38 8770.0 in comparison to hg37 8772
+
+hg38 13799.0 in comparison to hg37 13772
+
+hg38 16402.0 in comparison to hg37 16375
+
+hg38 28048.0 in comparison to hg37 28000
+
+hg38 102014.0 in comparison to hg37 102000
+
+hg38 33474.0 in comparison to hg37 33500
+
+hg38 10422.0 in comparison to hg37 10447
+
+hg38 122291.0 in comparison to hg37 54600
+
+hg38 9001.0 in comparison to hg37 9000
+
+hg38 83683.0 in comparison to hg37 78500
+
+hg38 11000.0 in comparison to hg37 11000
+
+hg38 10479.0 in comparison to hg37 10500
+
+hg38 6781.0 in comparison to hg37 6778
+
+hg38 5781.0 in comparison to hg37 5778
+
+hg38 5010.0 in comparison to hg37 5000
+
+hg38 54007.0 in comparison to hg37 54000
+
+hg38 11989.0 in comparison to hg37 12000
+
+hg38 83562.0 in comparison to hg37 81300
+
+hg38 18345.0 in comparison to hg37 18344
+
+hg38 16004.0 in comparison to hg37 16000
+
+hg38 61001.0 in comparison to hg37 61000
+
+hg38 61945.0 in comparison to hg37 61500
+
+hg38 22444.0 in comparison to hg37 22000
+
+hg38 17199.0 in comparison to hg37 14000
+
+hg38 115280.0 in comparison to hg37 115200
+
+hg38 17199.0 in comparison to hg37 5000
+
+hg38 51920.0 in comparison to hg37 52000
+
+hg38 36003.0 in comparison to hg37 36000
+
+hg38 39003.0 in comparison to hg37 39000
+
+hg38 382615.0 in comparison to hg37 382650
+
+hg38 10727.0 in comparison to hg37 10725
+
+hg38 114964.0 in comparison to hg37 114950
+
+hg38 17001.0 in comparison to hg37 17000
+
+hg38 25003.0 in comparison to hg37 25000
+
+hg38 7454.0 in comparison to hg37 7500
+
+hg38 110693.0 in comparison to hg37 110700
+
+hg38 41376.0 in comparison to hg37 40200
+
+hg38 16008.0 in comparison to hg37 16000
+
+hg38 184824.0 in comparison to hg37 184843
+
+hg38 1525.0 in comparison to hg37 1523
+
+hg38 1703.0 in comparison to hg37 1703
+
+hg38 2690.0 in comparison to hg37 2691
+
+hg38 4907.0 in comparison to hg37 6000
+
+hg38 3773.0 in comparison to hg37 3774
+
+hg38 24188.0 in comparison to hg37 24200
+
+hg38 7999.0 in comparison to hg37 8000
+
+hg38 25271.0 in comparison to hg37 58220
+
+hg38 9980.0 in comparison to hg37 9980
+
+hg38 15870.0 in comparison to hg37 25362
+
+hg38 5980.0 in comparison to hg37 5980
+
+hg38 1428.0 in comparison to hg37 1407
+
+hg38 5591.0 in comparison to hg37 5584
+
+hg38 8179.0 in comparison to hg37 8153
+
+hg38 74166.0 in comparison to hg37 74000
+
+hg38 20931.0 in comparison to hg37 21013
+
+hg38 163419.0 in comparison to hg37 163426
+
+hg38 6977.0 in comparison to hg37 6975
+
+hg38 318478.0 in comparison to hg37 318479
+
+hg38 47142.0 in comparison to hg37 47149
+
+hg38 128296.0 in comparison to hg37 128246
+
+hg38 9050.0 in comparison to hg37 9000
+
+hg38 60991.0 in comparison to hg37 60550
+
+hg38 19732.0 in comparison to hg37 19291
+
+hg38 211.0 in comparison to hg37 104
+
+hg38 744597.0 in comparison to hg37 744596
+
+hg38 467157.0 in comparison to hg37 467155
+
+hg38 71171.0 in comparison to hg37 71170
+
+hg38 8354.0 in comparison to hg37 8353
+
+hg38 467950.0 in comparison to hg37 467949
+
+hg38 192025.0 in comparison to hg37 192024
+
+hg38 209797.0 in comparison to hg37 209798
+
+hg38 207166.0 in comparison to hg37 207167
+
+hg38 555683.0 in comparison to hg37 555682
+
+hg38 114583.0 in comparison to hg37 114582
+
+hg38 6103.0 in comparison to hg37 6102
+
+hg38 1.007627e6 in comparison to hg37 879526
+
+hg38 8001.0 in comparison to hg37 7997
+
+hg38 2618.0 in comparison to hg37 2617
+
+hg38 2583.0 in comparison to hg37 2582
+
+hg38 2605.0 in comparison to hg37 2604
+
+hg38 2608.0 in comparison to hg37 2607
+
+hg38 2607.0 in comparison to hg37 2606
+
+hg38 17657.0 in comparison to hg37 17658
+
+hg38 12919.0 in comparison to hg37 12920
+
+hg38 37812.0 in comparison to hg37 34000
+
+hg38 142000.0 in comparison to hg37 142000
+
+hg38 100272.0 in comparison to hg37 100290
+
+hg38 4287.0 in comparison to hg37 4289
+
+hg38 11998.0 in comparison to hg37 12000
+
+hg38 452560.0 in comparison to hg37 452561
+
+hg38 104399.0 in comparison to hg37 104400
+
+hg38 150001.0 in comparison to hg37 150000
+
+hg38 58874.0 in comparison to hg37 58873
+
+hg38 179051.0 in comparison to hg37 179050
+
+hg38 571769.0 in comparison to hg37 475072
+
+hg38 567973.0 in comparison to hg37 568383
+
+hg38 114869.0 in comparison to hg37 18172
+
+hg38 56223.0 in comparison to hg37 36000
+
+hg38 16592.0 in comparison to hg37 17000
+
+hg38 8301.0 in comparison to hg37 5086
+
+hg38 7001.0 in comparison to hg37 7000
+
+hg38 149632.0 in comparison to hg37 55800
+
+hg38 480.0 in comparison to hg37 479
+
+hg38 5840.0 in comparison to hg37 5841
+
+hg38 20338.0 in comparison to hg37 20323
+
+hg38 19985.0 in comparison to hg37 19973
+
+hg38 65448.0 in comparison to hg37 65449
+
+hg38 148503.0 in comparison to hg37 108000
+
+hg38 160523.0 in comparison to hg37 37860
+
+hg38 6006.0 in comparison to hg37 6000
+
+hg38 17996.0 in comparison to hg37 18000
+
+hg38 311833.0 in comparison to hg37 311797
+
+hg38 309636.0 in comparison to hg37 310200
+
+hg38 58919.0 in comparison to hg37 58935
+
+hg38 19314.0 in comparison to hg37 19326
+
+hg38 8826.0 in comparison to hg37 8832
+
+hg38 6766.0 in comparison to hg37 6768
+
+hg38 63491.0 in comparison to hg37 63490
+
+hg38 55916.0 in comparison to hg37 55933
+
+hg38 128076.0 in comparison to hg37 128100
+
+hg38 62.0 in comparison to hg37 66
+
+hg38 419.0 in comparison to hg37 418
+
+hg38 9484.0 in comparison to hg37 9483
+
+hg38 6002.0 in comparison to hg37 6000
+
+hg38 113934.0 in comparison to hg37 12000
+
+hg38 37138.0 in comparison to hg37 15300
+
+hg38 5099.0 in comparison to hg37 5100
+
+hg38 121312.0 in comparison to hg37 11908
+
+hg38 4994.0 in comparison to hg37 5000
+
+hg38 47119.0 in comparison to hg37 10000
+
+hg38 7168.0 in comparison to hg37 7150
+
+hg38 2241.0 in comparison to hg37 2240
+
+hg38 5001.0 in comparison to hg37 5000
+
+hg38 5023.0 in comparison to hg37 5022
+
+hg38 4906.0 in comparison to hg37 4905
+
+hg38 3396.0 in comparison to hg37 3393
+
+hg38 1573.0 in comparison to hg37 1569
+
+hg38 158.0 in comparison to hg37 93
+
+hg38 8007.0 in comparison to hg37 8000
+
+hg38 5802.0 in comparison to hg37 5800
+
+hg38 9816.0 in comparison to hg37 9802
+
+hg38 11696.0 in comparison to hg37 11700
+
+hg38 370213.0 in comparison to hg37 371250
+
+hg38 17887.0 in comparison to hg37 17889
+
+hg38 1535.0 in comparison to hg37 1536
+
+hg38 6364.0 in comparison to hg37 6365
+
+hg38 13576.0 in comparison to hg37 13577
+
+hg38 6680.0 in comparison to hg37 6682
+
+hg38 37021.0 in comparison to hg37 37000
+
+hg38 66353.0 in comparison to hg37 66424
+
+hg38 21665.0 in comparison to hg37 21676
+
+hg38 60695.0 in comparison to hg37 60676
+
+hg38 155519.0 in comparison to hg37 155517
+
+hg38 752.0 in comparison to hg37 750
+
+hg38 846.0 in comparison to hg37 831
+
+hg38 84682.0 in comparison to hg37 9357
+
+hg38 52198.0 in comparison to hg37 52200
+
+hg38 27989.0 in comparison to hg37 27990
+
+hg38 75669.0 in comparison to hg37 75638
+
+hg38 56180.0 in comparison to hg37 56192
+
+hg38 10195.0 in comparison to hg37 10200
+
+hg38 15923.0 in comparison to hg37 15924
+
+hg38 11508.0 in comparison to hg37 11497
+
+hg38 529.0 in comparison to hg37 528
+
+hg38 693.0 in comparison to hg37 688
+
+hg38 49260.0 in comparison to hg37 49261
+
+hg38 683.0 in comparison to hg37 721
+
+hg38 11892.0 in comparison to hg37 11888
+
+hg38 3959.0 in comparison to hg37 3962
+
+hg38 157994.0 in comparison to hg37 10200
+
+hg38 182635.0 in comparison to hg37 6100
+
+hg38 33099.0 in comparison to hg37 33100
+
+hg38 1772.0 in comparison to hg37 1759
+
+hg38 730.0 in comparison to hg37 727
+
+hg38 12007.0 in comparison to hg37 12000
+
+hg38 731150.0 in comparison to hg37 530298
+
+hg38 957462.0 in comparison to hg37 756610
+
+hg38 838232.0 in comparison to hg37 637380
+
+hg38 712213.0 in comparison to hg37 511361
+
+hg38 568114.0 in comparison to hg37 367240
+
+hg38 571945.0 in comparison to hg37 371093
+
+hg38 555211.0 in comparison to hg37 354359
+
+hg38 536375.0 in comparison to hg37 335523
+
+hg38 145199.0 in comparison to hg37 145200
+
+hg38 371199.0 in comparison to hg37 371200
+
+hg38 712473.0 in comparison to hg37 712472
+
+hg38 34501.0 in comparison to hg37 34500
+
+hg38 278.0 in comparison to hg37 286
+
+hg38 373925.0 in comparison to hg37 373928
+
+hg38 1.111002e6 in comparison to hg37 1111000
+
+hg38 71001.0 in comparison to hg37 71000
+
+hg38 785555.0 in comparison to hg37 785554
+
+hg38 14329.0 in comparison to hg37 14327
+
+hg38 58160.0 in comparison to hg37 58161
+
+hg38 226999.0 in comparison to hg37 227000
+
+hg38 146279.0 in comparison to hg37 146279
+
+hg38 42151.0 in comparison to hg37 42150
+
+hg38 257399.0 in comparison to hg37 257400
+
+hg38 60451.0 in comparison to hg37 60450
+
+hg38 223001.0 in comparison to hg37 223000
+
+hg38 238815.0 in comparison to hg37 238814
+
+hg38 349654.0 in comparison to hg37 349655
+
+hg38 166.0 in comparison to hg37 153
+
+hg38 8125.0 in comparison to hg37 8125
+
+hg38 510644.0 in comparison to hg37 421379
+
+hg38 415888.0 in comparison to hg37 574046
+
+hg38 207006.0 in comparison to hg37 225746
+
+hg38 500356.0 in comparison to hg37 544424
+
+hg38 372237.0 in comparison to hg37 416305
+
+hg38 1834.0 in comparison to hg37 1835
+
+hg38 12999.0 in comparison to hg37 13000
+
+hg38 215670.0 in comparison to hg37 278844
+
+hg38 2167.0 in comparison to hg37 2168
+
+hg38 23665.0 in comparison to hg37 23666
+
+hg38 258097.0 in comparison to hg37 258100
+
+hg38 39999.0 in comparison to hg37 40000
+
+hg38 720.0 in comparison to hg37 732
+
+hg38 19088.0 in comparison to hg37 19100
+
+hg38 2964.0 in comparison to hg37 2960
+
+hg38 5268.0 in comparison to hg37 5269
+
+hg38 581519.0 in comparison to hg37 739677
+
+hg38 6310.0 in comparison to hg37 6309
+
+hg38 6079.0 in comparison to hg37 6078
+
+hg38 25648.0 in comparison to hg37 25646
+
+hg38 4232.0 in comparison to hg37 4231
+
+hg38 108808.0 in comparison to hg37 99900
+
+hg38 16501.0 in comparison to hg37 16500
+
+hg38 14000.0 in comparison to hg37 14000
+
+hg38 471639.0 in comparison to hg37 455900
+
+hg38 8998.0 in comparison to hg37 9000
+
+hg38 198827.0 in comparison to hg37 189900
+
+hg38 44996.0 in comparison to hg37 45000
+
+hg38 124777.0 in comparison to hg37 115850
+
+hg38 28001.0 in comparison to hg37 28000
+
+hg38 5213.0 in comparison to hg37 5214
+
+hg38 44934.0 in comparison to hg37 36002
+
+hg38 134084.0 in comparison to hg37 134096
+
+hg38 125534.0 in comparison to hg37 125500
+
+hg38 97035.0 in comparison to hg37 97000
+
+hg38 1.255203e6 in comparison to hg37 1305209
+
+hg38 25101.0 in comparison to hg37 25100
+
+hg38 356712.0 in comparison to hg37 356710
+
+hg38 40977.0 in comparison to hg37 41000
+
+hg38 149696.0 in comparison to hg37 149700
+
+hg38 26004.0 in comparison to hg37 26000
